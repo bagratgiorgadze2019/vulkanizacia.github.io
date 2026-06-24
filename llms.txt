@@ -13,12 +13,13 @@
 - Owner / director: Bagrat Giorgadze
 
 ## Services
-- Mobile tyre vulcanization (მოძრავი ვულკანიზაცია) — on-site tyre repair/replacement, the main service
-- Rim (disc) welding (დისკის დადუღება)
-- Rim straightening (დისკის გასწორება)
-- Battery replacement (აკუმულატორის შეცვლა)
-- Car jump start (ავტომობილის დაქოქვა)
-- Car lockout opening (დაკეტილი ავტომობილის გახსნა)
+Each service has a dedicated page (Georgian / English / Russian via index-en.html / index-ru.html):
+- Mobile tyre vulcanization (მოძრავი ვულკანიზაცია) — on-site tyre repair/replacement, the main service — https://vulkanizacia.ge/services/modzravi-vulkanizacia/
+- Rim (disc) welding (დისკის დადუღება) — https://vulkanizacia.ge/services/diskis-dadugheba/
+- Rim straightening (დისკის გასწორება) — https://vulkanizacia.ge/services/diskis-gaschoreba/
+- Battery replacement (აკუმულატორის შეცვლა) — https://vulkanizacia.ge/services/akumulatoris-shecvla/
+- Car jump start (ავტომობილის დაქოქვა) — https://vulkanizacia.ge/services/avtomobilis-dakokva/
+- Car lockout opening (დაკეტილი ავტომობილის გახსნა) — https://vulkanizacia.ge/services/daketili-avtomobilis-gakhsna/
 
 ## Sister service
 - Tow truck / ევაკუატორი: https://towing.ge — phone +995 514 90 80 90 (for towing needs)
