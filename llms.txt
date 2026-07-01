@@ -21,6 +21,11 @@ Each service has a dedicated page (Georgian / English / Russian via index-en.htm
 - Car jump start (ავტომობილის დაქოქვა) — https://vulkanizacia.ge/services/avtomobilis-dakokva/
 - Car lockout opening (დაკეტილი ავტომობილის გახსნა) — https://vulkanizacia.ge/services/daketili-avtomobilis-gakhsna/
 
+## Landing pages (Georgian keyword pages for the vulcanization service)
+- ვულკანიზაცია გამოძახებით თბილისში (mobile vulcanization on call) — https://vulkanizacia.ge/vulkanizacia-gamodzaxebit-tbilisshi/
+- ვულკანიზაცია თბილისში (vulcanization in Tbilisi, overview) — https://vulkanizacia.ge/vulkanizacia-tbilisshi/
+- ვულკანიზაცია 24/7 თბილისი — სასწრაფო, მოძრავი (24/7 emergency) — https://vulkanizacia.ge/vulkanizacia-24-7-tbilisi/
+
 ## Sister service
 - Tow truck / ევაკუატორი: https://towing.ge — phone +995 514 90 80 90 (for towing needs)
 
