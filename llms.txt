@@ -26,6 +26,15 @@ Each service has a dedicated page (Georgian / English / Russian via index-en.htm
 - ვულკანიზაცია თბილისში (vulcanization in Tbilisi, overview) — https://vulkanizacia.ge/vulkanizacia-tbilisshi/
 - ვულკანიზაცია 24/7 თბილისი — სასწრაფო, მოძრავი (24/7 emergency) — https://vulkanizacia.ge/vulkanizacia-24-7-tbilisi/
 
+## Service area
+Mobile service across all Tbilisi districts: Saburtalo, Vake, Vera, Mtatsminda, Old Tbilisi, Isani, Samgori, Varketili, Chughureti, Didube, Nadzaladevi, Gldani, Avchala, Dighomi, Temka, Avlabari.
+
+## Advice / help articles (Georgian)
+- Blog index — https://vulkanizacia.ge/blog/
+- What to do if your tyre blows on the road (საბურავი გზაში დაგეხა — რა ვქნა) — https://vulkanizacia.ge/blog/saburavi-gzashi-dagexa-ra-vqna/
+- Tyre repair vs replacement (საბურავის შეკეთება თუ შეცვლა) — https://vulkanizacia.ge/blog/saburavis-sheketeba-tu-shecvla/
+- When rim welding is possible (დისკის დადუღება — როდის შეიძლება) — https://vulkanizacia.ge/blog/diskis-dadugheba-rodis-sheidzleba/
+
 ## Sister service
 - Tow truck / ევაკუატორი: https://towing.ge — phone +995 514 90 80 90 (for towing needs)
 
