@@ -18,6 +18,7 @@ Each service has a dedicated page (Georgian / English / Russian via index-en.htm
 - Rim (disc) welding (დისკის დადუღება) — https://vulkanizacia.ge/services/diskis-dadugheba/
 - Rim straightening (დისკის გასწორება) — https://vulkanizacia.ge/services/diskis-gaschoreba/
 - Wheel balancing on site (საბურავების ბალანსირება) — https://vulkanizacia.ge/services/balansireba/
+- Seasonal / winter tyre change on site (საბურავების სეზონური შეცვლა, ზამთრის საბურავების დაყენება) — https://vulkanizacia.ge/services/sezonuri-saburavebis-shecvla/
 - Battery replacement (აკუმულატორის შეცვლა) — https://vulkanizacia.ge/services/akumulatoris-shecvla/
 - Car jump start (ავტომობილის დაქოქვა) — https://vulkanizacia.ge/services/avtomobilis-dakokva/
 - Car lockout opening (დაკეტილი ავტომობილის გახსნა) — https://vulkanizacia.ge/services/daketili-avtomobilis-gakhsna/
@@ -36,6 +37,10 @@ Mobile service across all Tbilisi districts: Saburtalo, Vake, Vera, Mtatsminda, 
 - What to do if your tyre blows on the road (საბურავი გზაში დაგეხა — რა ვქნა) — https://vulkanizacia.ge/blog/saburavi-gzashi-dagexa-ra-vqna/
 - Tyre repair vs replacement (საბურავის შეკეთება თუ შეცვლა) — https://vulkanizacia.ge/blog/saburavis-sheketeba-tu-shecvla/
 - When rim welding is possible (დისკის დადუღება — როდის შეიძლება) — https://vulkanizacia.ge/blog/diskis-dadugheba-rodis-sheidzleba/
+- When to fit winter tyres — the 7°C rule (ზამთრის საბურავები — როდის შევცვალოთ) — https://vulkanizacia.ge/blog/zamtris-saburavebi-rodis-shevcvalot/
+- What tyre pressure should be — typically 2.0–2.5 bar for cars (საბურავის წნევა — რამდენი უნდა იყოს) — https://vulkanizacia.ge/blog/saburavis-wneva-ramdeni-unda-iyos/
+- When to replace a tyre — tread depth, DOT age code (როდის უნდა შეიცვალოს საბურავი) — https://vulkanizacia.ge/blog/rodis-unda-sheicvalos-saburavi/
+- How to read a tyre size like 205/55 R16 91V (საბურავის ზომა — როგორ წავიკითხოთ) — https://vulkanizacia.ge/blog/saburavis-zoma-rogor-wavikitkhot/
 
 ## Russian keyword pages
 - Вулканизация по вызову в Тбилиси — https://vulkanizacia.ge/vulkanizaciya-po-vyzovu-tbilisi/
