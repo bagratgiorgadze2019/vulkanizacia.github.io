@@ -16,6 +16,10 @@ Canonical: https://vulkanizacia.ge/services/akumulatoris-shecvla/index-en.html
 - Tyres: https://vulkanizacia.ge/saburavebi/index-en.html
 - Tow truck: https://towing.ge (+995 514 90 80 90)
 
+[Tyres →](https://vulkanizacia.ge/saburavebi/index-en.html) · [Services](https://vulkanizacia.ge/index-en.html#services) · [Why us](https://vulkanizacia.ge/index-en.html#why) · [Contact](https://vulkanizacia.ge/index-en.html#contact)
+
+[ქა](https://vulkanizacia.ge/services/akumulatoris-shecvla/) · [EN](https://vulkanizacia.ge/services/akumulatoris-shecvla/index-en.html) · [RU](https://vulkanizacia.ge/services/akumulatoris-shecvla/index-ru.html)
+
 Service
 
 

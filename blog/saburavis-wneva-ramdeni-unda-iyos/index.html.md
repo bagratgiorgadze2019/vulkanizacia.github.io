@@ -14,7 +14,11 @@ Canonical: https://vulkanizacia.ge/blog/saburavis-wneva-ramdeni-unda-iyos/
 - საბურავები: https://vulkanizacia.ge/saburavebi/
 - ევაკუატორი: https://towing.ge (+995 514 90 80 90)
 
-2026-11-03 · რჩევები
+[საბურავები →](https://vulkanizacia.ge/saburavebi/) · [სერვისები](https://vulkanizacia.ge/index.html#services) · [რჩევები](https://vulkanizacia.ge/blog/) · [კონტაქტი](https://vulkanizacia.ge/index.html#contact)
+
+[ქა](https://vulkanizacia.ge/blog/saburavis-wneva-ramdeni-unda-iyos/) · [EN](https://vulkanizacia.ge/index-en.html) · [RU](https://vulkanizacia.ge/index-ru.html)
+
+ 2026-11-03 · რჩევები
 
 
 სწორი წნევა საბურავის სიცოცხლეს ახანგრძლივებს, საწვავს ზოგავს და დამუხრუჭებას აუმჯობესებს. ამავდროულად, ეს ყველაზე ხშირად დავიწყებული შემოწმებაა.

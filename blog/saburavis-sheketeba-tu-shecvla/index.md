@@ -14,7 +14,11 @@ Canonical: https://vulkanizacia.ge/blog/saburavis-sheketeba-tu-shecvla/
 - საბურავები: https://vulkanizacia.ge/saburavebi/
 - ევაკუატორი: https://towing.ge (+995 514 90 80 90)
 
-2026-07-02 · რჩევები
+[საბურავები →](https://vulkanizacia.ge/saburavebi/) · [სერვისები](https://vulkanizacia.ge/index.html#services) · [რჩევები](https://vulkanizacia.ge/blog/) · [კონტაქტი](https://vulkanizacia.ge/index.html#contact)
+
+[ქა](https://vulkanizacia.ge/blog/saburavis-sheketeba-tu-shecvla/) · [EN](https://vulkanizacia.ge/index-en.html) · [RU](https://vulkanizacia.ge/index-ru.html)
+
+ 2026-07-02 · რჩევები
 
 
 საბურავის დაზიანებისას ხშირად ისმის კითხვა — შევაკეთო თუ შევცვალო? სწორი გადაწყვეტილება დამოკიდებულია დაზიანების ტიპსა და ადგილზე.

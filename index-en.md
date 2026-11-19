@@ -16,7 +16,7 @@ Canonical: https://vulkanizacia.ge/index-en.html
 - Tyres: https://vulkanizacia.ge/saburavebi/index-en.html
 - Tow truck: https://towing.ge (+995 514 90 80 90)
 
-[Services](https://vulkanizacia.ge/index-en.html#services) · [Why us](https://vulkanizacia.ge/index-en.html#why) · [FAQ](https://vulkanizacia.ge/index-en.html#faq) · [Contact](https://vulkanizacia.ge/index-en.html#contact)
+[Tyres →](https://vulkanizacia.ge/saburavebi/index-en.html) · [Services](https://vulkanizacia.ge/index-en.html#services) · [Why us](https://vulkanizacia.ge/index-en.html#why) · [FAQ](https://vulkanizacia.ge/index-en.html#faq) · [Contact](https://vulkanizacia.ge/index-en.html#contact)
 
 [ქა](https://vulkanizacia.ge/index.html) · [EN](https://vulkanizacia.ge/index-en.html) · [RU](https://vulkanizacia.ge/index-ru.html)
 

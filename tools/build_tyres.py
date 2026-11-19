@@ -774,6 +774,75 @@ def ensure_nav():
         p.write_text(s, encoding="utf-8")
 
 
+LANG_LABEL = {"ka": "ქა", "en": "EN", "ru": "RU"}
+SWITCH_CLS = "hidden items-center gap-1 rounded-lg bg-zinc-900 p-1 text-xs sm:flex"
+MENU_JS = ("<script>document.getElementById('navBtn').addEventListener('click',function(){"
+           "document.getElementById('navMenu').classList.toggle('hidden');});</script>\n")
+
+
+def page_path(rel):
+    return "/" + (rel[:-len("index.html")] if rel.endswith("index.html") else rel)
+
+
+def ensure_mobile_menu():
+    """Every page gets the phone menu (☰) the homepages already had: tyres first (highlighted), the page's
+    own nav links, then languages. Blog pages also get the header language switcher. Idempotent."""
+    for rel in html_files():
+        p = ROOT / rel
+        s = p.read_text(encoding="utf-8")
+        if "<header" not in s:
+            continue
+        lang = re.search(r'<html lang="(\w+)"', s).group(1)
+        head_end = s.index("</header>")
+        header = s[:head_end]
+
+        # 1) header language switcher (blog pages were missing it; articles are Georgian-only -> EN/RU homepages)
+        if SWITCH_CLS not in header:
+            me = page_path(rel)
+            links = [(me, "ქა", True), ("/index-en.html", "EN", False), ("/index-ru.html", "RU", False)]
+            sw = (f'<div class="{SWITCH_CLS}">' + "".join(
+                f'<a href="{u}" class="px-2 py-1 rounded hover:bg-zinc-800 {"text-brand font-semibold" if cur else "text-zinc-400"}">{t}</a>'
+                for u, t, cur in links) + "</div>\n      ")
+            i = header.index('<a href="tel:')
+            s = s[:i] + sw + s[i:]
+            head_end = s.index("</header>")
+            header = s[:head_end]
+
+        # 2) phones under 400px: hide the header call button (the floating call button is on every page)
+        tel_cls = "inline-flex items-center gap-2 rounded-lg bg-brand px-3 py-2 text-sm font-bold text-zinc-950 hover:bg-amber-400"
+        if f'class="{tel_cls}"' in header:
+            s = s.replace(f'class="{tel_cls}"', f'class="{tel_cls} max-[399px]:hidden"', 1)
+            head_end = s.index("</header>")
+            header = s[:head_end]
+
+        # 3) the ☰ button + menu panel
+        if 'id="navMenu"' not in header:
+            nav = re.search(r'<div class="hidden items-center gap-6 text-sm font-medium md:flex">(.*?)</div>', header, re.S).group(1)
+            items = [(h, t) for h, t in re.findall(r'<a href="([^"]+)"[^>]*>([^<]+)</a>', nav) if not h.startswith("/saburavebi/")]
+            sw = re.search(r'<div class="' + re.escape(SWITCH_CLS) + r'">(.*?)</div>', header, re.S).group(1)
+            langs = re.sub(r'class="px-2 py-1 rounded', 'class="px-3 py-1.5 rounded', sw)
+            panel = ('\n  <div id="navMenu" class="hidden border-t border-zinc-800 px-4 py-2 md:hidden">'
+                     + "".join(f'<a href="{h}" class="block px-4 py-2 hover:bg-zinc-800 rounded">{t}</a>' for h, t in items)
+                     + f'\n    <div class="mt-2 flex gap-1 border-t border-zinc-800 pt-2 text-sm">{langs}</div>\n  </div>\n')
+            btn = ('\n      <button id="navBtn" class="grid h-9 w-9 place-items-center rounded-lg bg-zinc-900 md:hidden" aria-label="menu">'
+                   '<svg class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke-width="1.7" stroke="currentColor" aria-hidden="true">'
+                   '<path stroke-linecap="round" stroke-linejoin="round" d="M3.75 6.75h16.5M3.75 12h16.5m-16.5 5.25h16.5"/></svg></button>')
+            tel_end = header.index("</a>", header.index('<a href="tel:')) + len("</a>")
+            s = s[:tel_end] + btn + s[tel_end:]
+            nav_close = s.index("</nav>", tel_end) + len("</nav>")
+            s = s[:nav_close] + panel + s[nav_close:]
+        if "getElementById('navBtn')" not in s:
+            s = s.replace("</body>", MENU_JS + "</body>", 1)
+
+        # 4) tyres first and highlighted in the menu (also on the homepages that already had a menu)
+        if "data-menu-tyres" not in s:
+            m = re.search(r'<div id="navMenu"[^>]*>', s)
+            tyres = (f'<a data-menu-tyres href="{HUB_URLS[lang]}" class="block rounded px-4 py-2 font-semibold text-brand hover:bg-zinc-800">'
+                     f'{HUB_T[lang]["nav"]} →</a>')
+            s = s[:m.end()] + tyres + s[m.end():]
+        p.write_text(s, encoding="utf-8")
+
+
 def sync_block(text, start, end, block, anchor_before):
     if start in text:
         return re.sub(re.escape(start) + r".*?" + re.escape(end), lambda m: start + block + end, text, flags=re.S)
@@ -841,6 +910,7 @@ def main():
     for r in RIMS:
         build_rim(r)
     ensure_nav()
+    ensure_mobile_menu()
     sync_homepages()
     sync_sitemap()
     sync_llms()

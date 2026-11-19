@@ -16,6 +16,11 @@ Canonical: https://vulkanizacia.ge/saburavebi/index-en.html
 - Tyres: https://vulkanizacia.ge/saburavebi/index-en.html
 - Tow truck: https://towing.ge (+995 514 90 80 90)
 
+[Tyres →](https://vulkanizacia.ge/saburavebi/index-en.html) · [Services](https://vulkanizacia.ge/index-en.html#services) · [Why us](https://vulkanizacia.ge/index-en.html#why) · [Contact](https://vulkanizacia.ge/index-en.html#contact)
+
+[ქა](https://vulkanizacia.ge/saburavebi/) · [EN](https://vulkanizacia.ge/saburavebi/index-en.html) · [RU](https://vulkanizacia.ge/saburavebi/index-ru.html)
+
+
 New and used tyres — summer, winter and all-season. Choose your size and we deliver, fit and balance the tyres on site. 24/7.
 
 [+995 591 90 90 13](tel:+995591909013) · [WhatsApp](https://wa.me/995591909013?text=Hello%2C%20I%27m%20interested%20in%20tyres)

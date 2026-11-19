@@ -14,6 +14,11 @@ Canonical: https://vulkanizacia.ge/blog/
 - საბურავები: https://vulkanizacia.ge/saburavebi/
 - ევაკუატორი: https://towing.ge (+995 514 90 80 90)
 
+[საბურავები →](https://vulkanizacia.ge/saburavebi/) · [სერვისები](https://vulkanizacia.ge/index.html#services) · [რჩევები](https://vulkanizacia.ge/blog/) · [კონტაქტი](https://vulkanizacia.ge/index.html#contact)
+
+[ქა](https://vulkanizacia.ge/blog/) · [EN](https://vulkanizacia.ge/index-en.html) · [RU](https://vulkanizacia.ge/index-ru.html)
+
+
 სასარგებლო რჩევები საბურავებზე, დისკებსა და საგზაო დახმარებაზე — ჩვენი გამოცდილებიდან.
 
 [## ზამთრის საბურავები — როდის შევცვალოთ? 7°C-ის წესი, განსხვავება ზაფხულის საბურავისგან და რჩევები მთის გზებისთვის. ვრცლად](https://vulkanizacia.ge/blog/zamtris-saburavebi-rodis-shevcvalot/)

@@ -16,6 +16,10 @@ Canonical: https://vulkanizacia.ge/services/sezonuri-saburavebis-shecvla/index-r
 - Шины: https://vulkanizacia.ge/saburavebi/index-ru.html
 - Эвакуатор: https://towing.ge (+995 514 90 80 90)
 
+[Шины →](https://vulkanizacia.ge/saburavebi/index-ru.html) · [Услуги](https://vulkanizacia.ge/index-ru.html#services) · [Преимущества](https://vulkanizacia.ge/index-ru.html#why) · [Контакты](https://vulkanizacia.ge/index-ru.html#contact)
+
+[ქა](https://vulkanizacia.ge/services/sezonuri-saburavebis-shecvla/) · [EN](https://vulkanizacia.ge/services/sezonuri-saburavebis-shecvla/index-en.html) · [RU](https://vulkanizacia.ge/services/sezonuri-saburavebis-shecvla/index-ru.html)
+
 Услуга
 
 

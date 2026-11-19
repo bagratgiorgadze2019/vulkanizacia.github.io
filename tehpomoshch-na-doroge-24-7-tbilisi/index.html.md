@@ -16,6 +16,10 @@ Canonical: https://vulkanizacia.ge/tehpomoshch-na-doroge-24-7-tbilisi/
 - Шины: https://vulkanizacia.ge/saburavebi/index-ru.html
 - Эвакуатор: https://towing.ge (+995 514 90 80 90)
 
+[Шины →](https://vulkanizacia.ge/saburavebi/index-ru.html) · [Услуги](https://vulkanizacia.ge/index-ru.html#services) · [Преимущества](https://vulkanizacia.ge/index-ru.html#why) · [Контакты](https://vulkanizacia.ge/index-ru.html#contact)
+
+[ქა](https://vulkanizacia.ge/sagzao-daxmareba-24-7-tbilisi/) · [EN](https://vulkanizacia.ge/roadside-assistance-24-7-tbilisi/) · [RU](https://vulkanizacia.ge/tehpomoshch-na-doroge-24-7-tbilisi/)
+
 24/7
 
 

@@ -16,6 +16,11 @@ Canonical: https://vulkanizacia.ge/saburavebi/
 - საბურავები: https://vulkanizacia.ge/saburavebi/
 - ევაკუატორი: https://towing.ge (+995 514 90 80 90)
 
+[საბურავები →](https://vulkanizacia.ge/saburavebi/) · [სერვისები](https://vulkanizacia.ge/index.html#services) · [უპირატესობები](https://vulkanizacia.ge/index.html#why) · [კონტაქტი](https://vulkanizacia.ge/index.html#contact)
+
+[ქა](https://vulkanizacia.ge/saburavebi/) · [EN](https://vulkanizacia.ge/saburavebi/index-en.html) · [RU](https://vulkanizacia.ge/saburavebi/index-ru.html)
+
+
 ახალი და მეორადი საბურავები — ზაფხულის, ზამთრის და ყველა სეზონის. შეარჩიეთ ზომა — მოგიტანთ, ადგილზე დაგიყენებთ და დავაბალანსებთ. 24/7.
 
 [+995 591 90 90 13](tel:+995591909013) · [WhatsApp](https://wa.me/995591909013?text=%E1%83%92%E1%83%90%E1%83%9B%E1%83%90%E1%83%A0%E1%83%AF%E1%83%9D%E1%83%91%E1%83%90%2C%20%E1%83%9B%E1%83%90%E1%83%98%E1%83%9C%E1%83%A2%E1%83%94%E1%83%A0%E1%83%94%E1%83%A1%E1%83%94%E1%83%91%E1%83%A1%20%E1%83%A1%E1%83%90%E1%83%91%E1%83%A3%E1%83%A0%E1%83%90%E1%83%95%E1%83%94%E1%83%91%E1%83%98)

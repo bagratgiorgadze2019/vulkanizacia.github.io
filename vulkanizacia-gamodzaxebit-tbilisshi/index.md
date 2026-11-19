@@ -16,6 +16,10 @@ Canonical: https://vulkanizacia.ge/vulkanizacia-gamodzaxebit-tbilisshi/
 - საბურავები: https://vulkanizacia.ge/saburavebi/
 - ევაკუატორი: https://towing.ge (+995 514 90 80 90)
 
+[საბურავები →](https://vulkanizacia.ge/saburavebi/) · [სერვისები](https://vulkanizacia.ge/index.html#services) · [უპირატესობები](https://vulkanizacia.ge/index.html#why) · [კონტაქტი](https://vulkanizacia.ge/index.html#contact)
+
+[ქა](https://vulkanizacia.ge/vulkanizacia-gamodzaxebit-tbilisshi/) · [EN](https://vulkanizacia.ge/vulcanization-on-call-tbilisi/) · [RU](https://vulkanizacia.ge/vulkanizaciya-po-vyzovu-tbilisi/)
+
 გამოძახებით
 
 

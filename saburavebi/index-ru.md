@@ -16,6 +16,11 @@ Canonical: https://vulkanizacia.ge/saburavebi/index-ru.html
 - Шины: https://vulkanizacia.ge/saburavebi/index-ru.html
 - Эвакуатор: https://towing.ge (+995 514 90 80 90)
 
+[Шины →](https://vulkanizacia.ge/saburavebi/index-ru.html) · [Услуги](https://vulkanizacia.ge/index-ru.html#services) · [Преимущества](https://vulkanizacia.ge/index-ru.html#why) · [Контакты](https://vulkanizacia.ge/index-ru.html#contact)
+
+[ქა](https://vulkanizacia.ge/saburavebi/) · [EN](https://vulkanizacia.ge/saburavebi/index-en.html) · [RU](https://vulkanizacia.ge/saburavebi/index-ru.html)
+
+
 Новые и б/у шины — летние, зимние и всесезонные. Выберите размер — привезём, установим и отбалансируем на месте. 24/7.
 
 [+995 591 90 90 13](tel:+995591909013) · [WhatsApp](https://wa.me/995591909013?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B5%D1%81%D1%83%D1%8E%D1%82%20%D1%88%D0%B8%D0%BD%D1%8B)

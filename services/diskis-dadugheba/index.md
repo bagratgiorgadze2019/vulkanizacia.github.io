@@ -16,6 +16,10 @@ Canonical: https://vulkanizacia.ge/services/diskis-dadugheba/
 - საბურავები: https://vulkanizacia.ge/saburavebi/
 - ევაკუატორი: https://towing.ge (+995 514 90 80 90)
 
+[საბურავები →](https://vulkanizacia.ge/saburavebi/) · [სერვისები](https://vulkanizacia.ge/index.html#services) · [უპირატესობები](https://vulkanizacia.ge/index.html#why) · [კონტაქტი](https://vulkanizacia.ge/index.html#contact)
+
+[ქა](https://vulkanizacia.ge/services/diskis-dadugheba/) · [EN](https://vulkanizacia.ge/services/diskis-dadugheba/index-en.html) · [RU](https://vulkanizacia.ge/services/diskis-dadugheba/index-ru.html)
+
 სერვისი
 
 

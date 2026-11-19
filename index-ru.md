@@ -16,7 +16,7 @@ Canonical: https://vulkanizacia.ge/index-ru.html
 - Шины: https://vulkanizacia.ge/saburavebi/index-ru.html
 - Эвакуатор: https://towing.ge (+995 514 90 80 90)
 
-[Услуги](https://vulkanizacia.ge/index-ru.html#services) · [Преимущества](https://vulkanizacia.ge/index-ru.html#why) · [Вопросы](https://vulkanizacia.ge/index-ru.html#faq) · [Контакты](https://vulkanizacia.ge/index-ru.html#contact)
+[Шины →](https://vulkanizacia.ge/saburavebi/index-ru.html) · [Услуги](https://vulkanizacia.ge/index-ru.html#services) · [Преимущества](https://vulkanizacia.ge/index-ru.html#why) · [Вопросы](https://vulkanizacia.ge/index-ru.html#faq) · [Контакты](https://vulkanizacia.ge/index-ru.html#contact)
 
 [ქა](https://vulkanizacia.ge/index.html) · [EN](https://vulkanizacia.ge/index-en.html) · [RU](https://vulkanizacia.ge/index-ru.html)
 

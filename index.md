@@ -16,7 +16,7 @@ Canonical: https://vulkanizacia.ge/
 - საბურავები: https://vulkanizacia.ge/saburavebi/
 - ევაკუატორი: https://towing.ge (+995 514 90 80 90)
 
-[სერვისები](https://vulkanizacia.ge/#services) · [უპირატესობები](https://vulkanizacia.ge/#why) · [კითხვები](https://vulkanizacia.ge/#faq) · [კონტაქტი](https://vulkanizacia.ge/#contact)
+[საბურავები →](https://vulkanizacia.ge/saburavebi/) · [სერვისები](https://vulkanizacia.ge/#services) · [უპირატესობები](https://vulkanizacia.ge/#why) · [კითხვები](https://vulkanizacia.ge/#faq) · [კონტაქტი](https://vulkanizacia.ge/#contact)
 
 [ქა](https://vulkanizacia.ge/index.html) · [EN](https://vulkanizacia.ge/index-en.html) · [RU](https://vulkanizacia.ge/index-ru.html)
 

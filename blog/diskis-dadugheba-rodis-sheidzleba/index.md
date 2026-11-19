@@ -14,7 +14,11 @@ Canonical: https://vulkanizacia.ge/blog/diskis-dadugheba-rodis-sheidzleba/
 - საბურავები: https://vulkanizacia.ge/saburavebi/
 - ევაკუატორი: https://towing.ge (+995 514 90 80 90)
 
-2026-07-02 · რჩევები
+[საბურავები →](https://vulkanizacia.ge/saburavebi/) · [სერვისები](https://vulkanizacia.ge/index.html#services) · [რჩევები](https://vulkanizacia.ge/blog/) · [კონტაქტი](https://vulkanizacia.ge/index.html#contact)
+
+[ქა](https://vulkanizacia.ge/blog/diskis-dadugheba-rodis-sheidzleba/) · [EN](https://vulkanizacia.ge/index-en.html) · [RU](https://vulkanizacia.ge/index-ru.html)
+
+ 2026-07-02 · რჩევები
 
 
 ალუმინის (შენადნობი) დისკები დროთა განმავლობაში შეიძლება გაჟონდეს ან დაბზარდეს — ორმოში მოხვედრის ან კოროზიის გამო. ხშირ შემთხვევაში დისკის დადუღება აღადგენს მას ახლის ყიდვის გარეშე.
