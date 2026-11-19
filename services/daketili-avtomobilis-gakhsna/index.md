@@ -82,6 +82,7 @@ Canonical: https://vulkanizacia.ge/services/daketili-avtomobilis-gakhsna/
 - [ბალანსირება](https://vulkanizacia.ge/services/balansireba/)
 - [აკუმულატორის შეცვლა](https://vulkanizacia.ge/services/akumulatoris-shecvla/)
 - [ავტომობილის დაქოქვა](https://vulkanizacia.ge/services/avtomobilis-dakokva/)
+- [საბურავის წნევის სენსორი (ბლუთუზი)](https://vulkanizacia.ge/services/saburavis-wnevis-sensori/)
 
 [ყველა სერვისი →](https://vulkanizacia.ge/index.html#services)
 

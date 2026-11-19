@@ -89,13 +89,19 @@ Locked out? We open your car without damage.
 
 [Details](https://vulkanizacia.ge/services/daketili-avtomobilis-gakhsna/index-en.html)
 
-## Tyres by size
+## Tires by size
 
-New and used tyres — delivered, fitted and balanced on site.
+New and used tires — delivered, fitted and balanced on site.
 
 [All sizes and details →](https://vulkanizacia.ge/tyres/)
 
 [185/65 R15](https://vulkanizacia.ge/tyres/185-65-r15/) · [195/65 R15](https://vulkanizacia.ge/tyres/195-65-r15/) · [205/55 R16](https://vulkanizacia.ge/tyres/205-55-r16/) · [215/60 R16](https://vulkanizacia.ge/tyres/215-60-r16/) · [215/55 R17](https://vulkanizacia.ge/tyres/215-55-r17/) · [225/45 R17](https://vulkanizacia.ge/tyres/225-45-r17/) · [225/55 R17](https://vulkanizacia.ge/tyres/225-55-r17/) · [225/65 R17](https://vulkanizacia.ge/tyres/225-65-r17/) · [235/55 R18](https://vulkanizacia.ge/tyres/235-55-r18/) · [245/45 R18](https://vulkanizacia.ge/tyres/245-45-r18/) · [235/55 R19](https://vulkanizacia.ge/tyres/235-55-r19/) · [235/35 R20](https://vulkanizacia.ge/tyres/235-35-r20/) · [R13](https://vulkanizacia.ge/tyres/r13/) · [R14](https://vulkanizacia.ge/tyres/r14/) · [R15](https://vulkanizacia.ge/tyres/r15/) · [R16](https://vulkanizacia.ge/tyres/r16/) · [R17](https://vulkanizacia.ge/tyres/r17/) · [R18](https://vulkanizacia.ge/tyres/r18/) · [R19](https://vulkanizacia.ge/tyres/r19/) · [R20](https://vulkanizacia.ge/tyres/r20/)
+
+## Mobile tire service by district and town
+
+Our mobile tire service comes to you — in every Tbilisi district and nearby towns.
+
+[Mobile tire repair in Tbilisi](https://vulkanizacia.ge/mobile-tire-repair-tbilisi/) · [Vake](https://vulkanizacia.ge/tire-repair-vake/) · [Saburtalo](https://vulkanizacia.ge/tire-repair-saburtalo/) · [Vera](https://vulkanizacia.ge/tire-repair-vera/) · [Mtatsminda](https://vulkanizacia.ge/tire-repair-mtatsminda/) · [Old Tbilisi](https://vulkanizacia.ge/tire-repair-old-tbilisi/) · [Avlabari](https://vulkanizacia.ge/tire-repair-avlabari/) · [Isani](https://vulkanizacia.ge/tire-repair-isani/) · [Samgori](https://vulkanizacia.ge/tire-repair-samgori/) · [Varketili](https://vulkanizacia.ge/tire-repair-varketili/) · [Chugureti](https://vulkanizacia.ge/tire-repair-chugureti/) · [Didube](https://vulkanizacia.ge/tire-repair-didube/) · [Nadzaladevi](https://vulkanizacia.ge/tire-repair-nadzaladevi/) · [Gldani](https://vulkanizacia.ge/tire-repair-gldani/) · [Dighomi](https://vulkanizacia.ge/tire-repair-dighomi/) · [Temka](https://vulkanizacia.ge/tire-repair-temka/) · [Ortachala](https://vulkanizacia.ge/tire-repair-ortachala/) · [Krtsanisi](https://vulkanizacia.ge/tire-repair-krtsanisi/) · [Avchala](https://vulkanizacia.ge/tire-repair-avchala/) · [Lilo](https://vulkanizacia.ge/tire-repair-lilo/) · [Vazisubani](https://vulkanizacia.ge/tire-repair-vazisubani/) · [Tskneti](https://vulkanizacia.ge/tire-repair-tskneti/) · [Okrokana](https://vulkanizacia.ge/tire-repair-okrokana/) · [Rustavi](https://vulkanizacia.ge/tire-repair-rustavi/) · [Mtskheta](https://vulkanizacia.ge/tire-repair-mtskheta/) · [Tire size calculator](https://vulkanizacia.ge/tire-size-calculator/) · [Tire pressure sensors (TPMS)](https://vulkanizacia.ge/services/saburavis-wnevis-sensori/index-en.html)
 
 ## Why choose us
 

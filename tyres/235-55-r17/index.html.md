@@ -1,6 +1,6 @@
-# 235/55 R17 tyres
+# 235/55 R17 tires
 
-> 235/55 R17 tyres — new and used, summer and winter. We deliver, fit and balance them on site in Tbilisi, 24/7. Price and stock: ☎ +995 591 90 90 13
+> 235/55 R17 tires — new and used, summer and winter. We deliver, fit and balance them on site in Tbilisi, 24/7. Price and stock: ☎ +995 591 90 90 13
 
 Canonical: https://vulkanizacia.ge/tyres/235-55-r17/
 
@@ -20,14 +20,14 @@ Canonical: https://vulkanizacia.ge/tyres/235-55-r17/
 
 [ქა](https://vulkanizacia.ge/saburavebi/235-55-r17/) · [EN](https://vulkanizacia.ge/tyres/235-55-r17/) · [RU](https://vulkanizacia.ge/shiny/235-55-r17/)
 
-Tyres
+Tires
 
 
-New and used 235/55 R17 tyres — summer, winter and all-season. We deliver, fit and balance them on the spot.
+New and used 235/55 R17 tires — summer, winter and all-season. We deliver, fit and balance them on the spot.
 
  • New • Used • Winter • Summer / all-season
 
-[+995 591 90 90 13](tel:+995591909013) · [WhatsApp](https://wa.me/995591909013?text=Hello%2C%20I%27m%20interested%20in%20tyres%20235/55%20R17)
+[+995 591 90 90 13](tel:+995591909013) · [WhatsApp](https://wa.me/995591909013?text=Hello%2C%20I%27m%20interested%20in%20tires%20235/55%20R17)
 
 235/55 R17 is a common size for sedans and crossovers — one of the popular sizes in Tbilisi.
 
@@ -36,26 +36,26 @@ New and used 235/55 R17 tyres — summer, winter and all-season. We deliver, fit
 - Width — 235 mm
 - Profile — 55% — sidewall height ≈ 129 mm
 - Rim diameter — 17″ (432 mm)
-- Overall tyre diameter — ≈ 690 mm
+- Overall tire diameter — ≈ 690 mm
 
 Figures are calculated from the size; the exact dimensions of a specific model may differ slightly.
 
 ## What the service includes
 
-- Delivery of 235/55 R17 tyres to your location
-- Mounting the tyre on the rim and fitting the wheel
+- Delivery of 235/55 R17 tires to your location
+- Mounting the tire on the rim and fitting the wheel
 - [Wheel balancing](https://vulkanizacia.ge/services/balansireba/index-en.html)
 - Pressure check
 
-## When you need a tyre replacement
+## When you need a tire replacement
 
-- The tyre burst or the sidewall is damaged — this kind of damage can't be repaired
+- The tire burst or the sidewall is damaged — this kind of damage can't be repaired
 - The puncture is too large or on the sidewall
 - A bulge appeared after hitting a pothole or a kerb
-- The tread is worn — below 3 mm on summer tyres, 4 mm on winter tyres
-- The tyre has cracks, or it is over 6 years old and the rubber has hardened
+- The tread is worn — below 3 mm on summer tires, 4 mm on winter tires
+- The tire has cracks, or it is over 6 years old and the rubber has hardened
 
-In any of these cases, call us — we bring a 235/55 R17 tyre and replace it on the spot. [More: when should a tyre be replaced →](https://vulkanizacia.ge/blog/when-to-replace-tyres/)
+In any of these cases, call us — we bring a 235/55 R17 tire and replace it on the spot. [More: when should a tire be replaced →](https://vulkanizacia.ge/blog/when-to-replace-tyres/)
 
 ## Similar sizes
 
@@ -65,37 +65,37 @@ These sizes fit the same R17 rim and have a similar overall diameter to 235/55 R
 
 ## You may also need
 
-- [Seasonal tyre change on site](https://vulkanizacia.ge/services/sezonuri-saburavebis-shecvla/index-en.html)
-- [How to read a tyre size](https://vulkanizacia.ge/blog/how-to-read-tyre-size/)
-- [When should a tyre be replaced](https://vulkanizacia.ge/blog/when-to-replace-tyres/)
+- [Seasonal tire change on site](https://vulkanizacia.ge/services/sezonuri-saburavebis-shecvla/index-en.html)
+- [How to read a tire size](https://vulkanizacia.ge/blog/how-to-read-tyre-size/)
+- [When should a tire be replaced](https://vulkanizacia.ge/blog/when-to-replace-tyres/)
 
 ## Frequently asked questions
 
-### How much does a 235/55 R17 tyre cost?
+### How much does a 235/55 R17 tire cost?
 
 It depends on whether it is new or used, the season and the manufacturer. Call us or message us on WhatsApp — we'll tell you the available options and the price.
 
-### Can you bring a 235/55 R17 tyre and fit it on site?
+### Can you bring a 235/55 R17 tire and fit it on site?
 
-Yes — we deliver to any district of Tbilisi, fit and balance the tyre on the spot. We work 24/7.
+Yes — we deliver to any district of Tbilisi, fit and balance the tire on the spot. We work 24/7.
 
 ### Can I fit a different size instead of 235/55 R17?
 
 Approved alternatives depend on your car manufacturer. Sizes with a similar diameter: 215/60 R17, 225/55 R17, 225/60 R17. Check your car manual before changing size.
 
-## Need 235/55 R17 tyres?
+## Need 235/55 R17 tires?
 
 Call or message us — we'll tell you the available options and the price.
 
-[+995 591 90 90 13](tel:+995591909013) · [WhatsApp](https://wa.me/995591909013?text=Hello%2C%20I%27m%20interested%20in%20tyres%20235/55%20R17)
+[+995 591 90 90 13](tel:+995591909013) · [WhatsApp](https://wa.me/995591909013?text=Hello%2C%20I%27m%20interested%20in%20tires%20235/55%20R17)
 
 ## Other R17 sizes
 
 [205/50 R17](https://vulkanizacia.ge/tyres/205-50-r17/) · [215/45 R17](https://vulkanizacia.ge/tyres/215-45-r17/) · [215/50 R17](https://vulkanizacia.ge/tyres/215-50-r17/) · [215/55 R17](https://vulkanizacia.ge/tyres/215-55-r17/) · [215/60 R17](https://vulkanizacia.ge/tyres/215-60-r17/) · [225/45 R17](https://vulkanizacia.ge/tyres/225-45-r17/) · [225/50 R17](https://vulkanizacia.ge/tyres/225-50-r17/) · [225/55 R17](https://vulkanizacia.ge/tyres/225-55-r17/) · [225/60 R17](https://vulkanizacia.ge/tyres/225-60-r17/) · [225/65 R17](https://vulkanizacia.ge/tyres/225-65-r17/) · [235/45 R17](https://vulkanizacia.ge/tyres/235-45-r17/) · [235/65 R17](https://vulkanizacia.ge/tyres/235-65-r17/) · [265/65 R17](https://vulkanizacia.ge/tyres/265-65-r17/)
 
-[R17 tyres →](https://vulkanizacia.ge/tyres/r17/) · [All sizes →](https://vulkanizacia.ge/tyres/)
+[R17 tires →](https://vulkanizacia.ge/tyres/r17/) · [All sizes →](https://vulkanizacia.ge/tyres/)
 
-## Tyres by type
+## Tires by type
 
 - [New tyres](https://vulkanizacia.ge/tyres/new-tyres/)
 - [Used tyres](https://vulkanizacia.ge/tyres/used-tyres/)

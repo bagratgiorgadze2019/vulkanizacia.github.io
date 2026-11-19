@@ -1,6 +1,6 @@
-# R16 tyres
+# R16 tires
 
-> R16 (16-inch) tyres in Tbilisi — 10 sizes, new and used, summer and winter. We deliver, fit and balance them on site, 24/7.
+> R16 (16-inch) tires in Tbilisi — 10 sizes, new and used, summer and winter. We deliver, fit and balance them on site, 24/7.
 
 Canonical: https://vulkanizacia.ge/tyres/r16/
 
@@ -20,18 +20,18 @@ Canonical: https://vulkanizacia.ge/tyres/r16/
 
 [ქა](https://vulkanizacia.ge/saburavebi/r16/) · [EN](https://vulkanizacia.ge/tyres/r16/) · [RU](https://vulkanizacia.ge/shiny/r16/)
 
-Tyres by rim size
+Tires by rim size
 
 
-Tyres for 16-inch rims — the most common sizes for sedans and compact cars. New and used, summer, winter and all-season. Choose your size or message us on WhatsApp.
+Tires for 16-inch rims — the most common sizes for sedans and compact cars. New and used, summer, winter and all-season. Choose your size or message us on WhatsApp.
 
-[+995 591 90 90 13](tel:+995591909013) · [WhatsApp](https://wa.me/995591909013?text=Hello%2C%20I%27m%20interested%20in%20R16%20tyres)
+[+995 591 90 90 13](tel:+995591909013) · [WhatsApp](https://wa.me/995591909013?text=Hello%2C%20I%27m%20interested%20in%20R16%20tires)
 
-## R16 tyre sizes
+## R16 tire sizes
 
 [195/55 R16](https://vulkanizacia.ge/tyres/195-55-r16/) · [195/60 R16](https://vulkanizacia.ge/tyres/195-60-r16/) · [205/50 R16](https://vulkanizacia.ge/tyres/205-50-r16/) · [205/55 R16](https://vulkanizacia.ge/tyres/205-55-r16/) · [205/60 R16](https://vulkanizacia.ge/tyres/205-60-r16/) · [215/55 R16](https://vulkanizacia.ge/tyres/215-55-r16/) · [215/60 R16](https://vulkanizacia.ge/tyres/215-60-r16/) · [215/65 R16](https://vulkanizacia.ge/tyres/215-65-r16/) · [225/60 R16](https://vulkanizacia.ge/tyres/225-60-r16/) · [225/70 R16](https://vulkanizacia.ge/tyres/225-70-r16/)
 
-Can't see your size? [Message us on WhatsApp →](https://wa.me/995591909013?text=Hello%2C%20I%27m%20interested%20in%20R16%20tyres) · [Size filter →](https://vulkanizacia.ge/tyres/)
+Can't see your size? [Message us on WhatsApp →](https://wa.me/995591909013?text=Hello%2C%20I%27m%20interested%20in%20R16%20tires) · [Size filter →](https://vulkanizacia.ge/tyres/)
 
 ## R16 sizes
 
@@ -49,16 +49,16 @@ Can't see your size? [Message us on WhatsApp →](https://wa.me/995591909013?tex
 
 R16 means a 16-inch (406 mm) rim. Figures are calculated from the size.
 
-## When you need a tyre replacement
+## When you need a tire replacement
 
-- The tyre burst or the sidewall is damaged — this kind of damage can't be repaired
+- The tire burst or the sidewall is damaged — this kind of damage can't be repaired
 - The puncture is too large or on the sidewall
 - A bulge appeared after hitting a pothole or a kerb
-- The tread is worn — below 3 mm on summer tyres, 4 mm on winter tyres
-- The tyre has cracks, or it is over 6 years old and the rubber has hardened
+- The tread is worn — below 3 mm on summer tires, 4 mm on winter tires
+- The tire has cracks, or it is over 6 years old and the rubber has hardened
 - The winter or summer season has arrived
-- The tyre wears unevenly or vibration remains after balancing
-- One tyre is damaged and you need a matching one for the same axle
+- The tire wears unevenly or vibration remains after balancing
+- One tire is damaged and you need a matching one for the same axle
 
 ## How it works
 
@@ -66,19 +66,19 @@ R16 means a 16-inch (406 mm) rim. Figures are calculated from the size.
 
 ### Choose your size
 
-Call or message us on WhatsApp with your tyre size — we'll tell you the available options and the price.
+Call or message us on WhatsApp with your tire size — we'll tell you the available options and the price.
 
 - • 2
 
 ### We deliver
 
-We bring the tyres to your home, office or roadside — anywhere in Tbilisi.
+We bring the tires to your home, office or roadside — anywhere in Tbilisi.
 
 - • 3
 
 ### We fit them
 
-We mount the tyres on your rims and fit the wheels on the spot.
+We mount the tires on your rims and fit the wheels on the spot.
 
 - • 4
 
@@ -90,23 +90,23 @@ We balance the wheels and check the pressure, so you are back on the road safely
 
 ### What does R16 mean?
 
-R16 means the tyre fits a 16-inch (406 mm) rim; the letter R stands for radial construction.
+R16 means the tire fits a 16-inch (406 mm) rim; the letter R stands for radial construction.
 
-### How much does an R16 tyre cost?
+### How much does an R16 tire cost?
 
 The price depends on the size, season and manufacturer. Send us your size on WhatsApp or call — we'll tell you the available options and the price.
 
-### Can you fit R16 tyres on site?
+### Can you fit R16 tires on site?
 
-Yes — we deliver to any district of Tbilisi, fit and balance the tyres on the spot. We work 24/7.
+Yes — we deliver to any district of Tbilisi, fit and balance the tires on the spot. We work 24/7.
 
-## Need tyres?
+## Need tires?
 
 Send us your size — we'll tell you the available options and the price. We work 24/7.
 
-[+995 591 90 90 13](tel:+995591909013) · [WhatsApp](https://wa.me/995591909013?text=Hello%2C%20I%27m%20interested%20in%20R16%20tyres)
+[+995 591 90 90 13](tel:+995591909013) · [WhatsApp](https://wa.me/995591909013?text=Hello%2C%20I%27m%20interested%20in%20R16%20tires)
 
-## Tyres by type
+## Tires by type
 
 - [New tyres](https://vulkanizacia.ge/tyres/new-tyres/)
 - [Used tyres](https://vulkanizacia.ge/tyres/used-tyres/)

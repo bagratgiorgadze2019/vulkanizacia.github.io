@@ -1,6 +1,6 @@
-# Tyres in Tbilisi
+# Tires in Tbilisi
 
-> Tyres in Tbilisi by size — new and used, summer, winter and all-season. We deliver, fit and balance them on the spot, 24/7.
+> Tires in Tbilisi by size — new and used, summer, winter and all-season. We deliver, fit and balance them on the spot, 24/7.
 
 Canonical: https://vulkanizacia.ge/tyres/
 
@@ -21,9 +21,9 @@ Canonical: https://vulkanizacia.ge/tyres/
 [ქა](https://vulkanizacia.ge/saburavebi/) · [EN](https://vulkanizacia.ge/tyres/) · [RU](https://vulkanizacia.ge/shiny/)
 
 
-New and used tyres — summer, winter and all-season. Choose your size and we deliver, fit and balance the tyres on site. 24/7.
+New and used tires — summer, winter and all-season. Choose your size and we deliver, fit and balance the tires on site. 24/7.
 
-[+995 591 90 90 13](tel:+995591909013) · [WhatsApp](https://wa.me/995591909013?text=Hello%2C%20I%27m%20interested%20in%20tyres)
+[+995 591 90 90 13](tel:+995591909013) · [WhatsApp](https://wa.me/995591909013?text=Hello%2C%20I%27m%20interested%20in%20tires)
 
 ## Popular sizes
 
@@ -75,20 +75,20 @@ New and used tyres — summer, winter and all-season. Choose your size and we de
 
 [235/35 R20](https://vulkanizacia.ge/tyres/235-35-r20/) · [245/35 R20](https://vulkanizacia.ge/tyres/245-35-r20/) · [245/45 R20](https://vulkanizacia.ge/tyres/245-45-r20/) · [255/45 R20](https://vulkanizacia.ge/tyres/255-45-r20/) · [275/40 R20](https://vulkanizacia.ge/tyres/275-40-r20/) · [275/45 R20](https://vulkanizacia.ge/tyres/275-45-r20/)
 
-## When you need a new tyre
+## When you need a new tire
 
-A tyre replacement is often needed unexpectedly. The most common cases:
+A tire replacement is often needed unexpectedly. The most common cases:
 
-[+995 591 90 90 13](tel:+995591909013) · [WhatsApp](https://wa.me/995591909013?text=Hello%2C%20I%27m%20interested%20in%20tyres)
+[+995 591 90 90 13](tel:+995591909013) · [WhatsApp](https://wa.me/995591909013?text=Hello%2C%20I%27m%20interested%20in%20tires)
 
-- The tyre burst or the sidewall is damaged — this kind of damage can't be repaired
+- The tire burst or the sidewall is damaged — this kind of damage can't be repaired
 - The puncture is too large or on the sidewall
 - A bulge appeared after hitting a pothole or a kerb
-- The tread is worn — below 3 mm on summer tyres, 4 mm on winter tyres
-- The tyre has cracks, or it is over 6 years old and the rubber has hardened
+- The tread is worn — below 3 mm on summer tires, 4 mm on winter tires
+- The tire has cracks, or it is over 6 years old and the rubber has hardened
 - The winter or summer season has arrived
-- The tyre wears unevenly or vibration remains after balancing
-- One tyre is damaged and you need a matching one for the same axle
+- The tire wears unevenly or vibration remains after balancing
+- One tire is damaged and you need a matching one for the same axle
 
 ## How it works
 
@@ -96,19 +96,19 @@ A tyre replacement is often needed unexpectedly. The most common cases:
 
 ### Choose your size
 
-Call or message us on WhatsApp with your tyre size — we'll tell you the available options and the price.
+Call or message us on WhatsApp with your tire size — we'll tell you the available options and the price.
 
 - • 2
 
 ### We deliver
 
-We bring the tyres to your home, office or roadside — anywhere in Tbilisi.
+We bring the tires to your home, office or roadside — anywhere in Tbilisi.
 
 - • 3
 
 ### We fit them
 
-We mount the tyres on your rims and fit the wheels on the spot.
+We mount the tires on your rims and fit the wheels on the spot.
 
 - • 4
 
@@ -116,62 +116,62 @@ We mount the tyres on your rims and fit the wheels on the spot.
 
 We balance the wheels and check the pressure, so you are back on the road safely.
 
-## Tyres we offer
+## Tires we offer
 
-### New tyres
+### New tires
 
-New tyres from different manufacturers — summer, winter and all-season.
+New tires from different manufacturers — summer, winter and all-season.
 
 [Learn more →](https://vulkanizacia.ge/tyres/new-tyres/)
 
-### Used tyres
+### Used tires
 
-Used tyres in good condition at affordable prices.
+Used tires in good condition at affordable prices.
 
 [Learn more →](https://vulkanizacia.ge/tyres/used-tyres/)
 
-### Winter tyres
+### Winter tires
 
-Tyres made for snow and cold weather — fitted at your location.
+Tires made for snow and cold weather — fitted at your location.
 
 [Learn more →](https://vulkanizacia.ge/tyres/winter-tyres/)
 
 ### Summer and all-season
 
-Tyres for city driving in Tbilisi and long trips.
+Tires for city driving in Tbilisi and long trips.
 
 [Learn more →](https://vulkanizacia.ge/tyres/summer-all-season-tyres/)
 
-## Tyre burst on the road?
+## Tire burst on the road?
 
-If the tyre can't be repaired, we bring a new or used tyre in your size and fit it on the spot — even without a spare.
+If the tire can't be repaired, we bring a new or used tire in your size and fit it on the spot — even without a spare.
 
-[Mobile tyre service →](https://vulkanizacia.ge/services/modzravi-vulkanizacia/index-en.html)
+[Mobile tire service →](https://vulkanizacia.ge/services/modzravi-vulkanizacia/index-en.html)
 
 [+995 591 90 90 13](tel:+995591909013)
 
-## Tyres by rim size
+## Tires by rim size
 
 [R133 sizes](https://vulkanizacia.ge/tyres/r13/) · [R146 sizes](https://vulkanizacia.ge/tyres/r14/) · [R159 sizes](https://vulkanizacia.ge/tyres/r15/) · [R1610 sizes](https://vulkanizacia.ge/tyres/r16/) · [R1714 sizes](https://vulkanizacia.ge/tyres/r17/) · [R1811 sizes](https://vulkanizacia.ge/tyres/r18/) · [R195 sizes](https://vulkanizacia.ge/tyres/r19/) · [R206 sizes](https://vulkanizacia.ge/tyres/r20/)
 
 ## Frequently asked questions
 
-### Where do I find my tyre size?
+### Where do I find my tire size?
 
-It is printed on the tyre sidewall, for example 205/55 R16. It is also on the sticker in the driver's door frame or in the car manual.
+It is printed on the tire sidewall, for example 205/55 R16. It is also on the sticker in the driver's door frame or in the car manual.
 
-### How much does a tyre cost?
+### How much does a tire cost?
 
 It depends on the size, season, manufacturer and whether it is new or used. Call us or send your size on WhatsApp — we'll tell you the available options and the price.
 
-### Do you also fit and balance the tyres?
+### Do you also fit and balance the tires?
 
 Yes — we offer the full service: delivery, fitting and balancing. We agree the price with you in advance.
 
-### Are used tyres safe?
+### Are used tires safe?
 
-We choose used tyres in good condition — with enough tread and no damage. You can inspect them yourself before fitting.
+We choose used tires in good condition — with enough tread and no damage. You can inspect them yourself before fitting.
 
 ### My size isn't on the list?
 
-Contact us — the list shows only the most popular sizes. We can help you find tyres in other sizes too.
+Contact us — the list shows only the most popular sizes. We can help you find tires in other sizes too.

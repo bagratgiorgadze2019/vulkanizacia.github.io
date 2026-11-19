@@ -1,6 +1,6 @@
-# R18 tyres
+# R18 tires
 
-> R18 (18-inch) tyres in Tbilisi — 11 sizes, new and used, summer and winter. We deliver, fit and balance them on site, 24/7.
+> R18 (18-inch) tires in Tbilisi — 11 sizes, new and used, summer and winter. We deliver, fit and balance them on site, 24/7.
 
 Canonical: https://vulkanizacia.ge/tyres/r18/
 
@@ -20,18 +20,18 @@ Canonical: https://vulkanizacia.ge/tyres/r18/
 
 [ქა](https://vulkanizacia.ge/saburavebi/r18/) · [EN](https://vulkanizacia.ge/tyres/r18/) · [RU](https://vulkanizacia.ge/shiny/r18/)
 
-Tyres by rim size
+Tires by rim size
 
 
-Tyres for 18-inch rims — for business-class cars, crossovers and SUVs. New and used, summer, winter and all-season. Choose your size or message us on WhatsApp.
+Tires for 18-inch rims — for business-class cars, crossovers and SUVs. New and used, summer, winter and all-season. Choose your size or message us on WhatsApp.
 
-[+995 591 90 90 13](tel:+995591909013) · [WhatsApp](https://wa.me/995591909013?text=Hello%2C%20I%27m%20interested%20in%20R18%20tyres)
+[+995 591 90 90 13](tel:+995591909013) · [WhatsApp](https://wa.me/995591909013?text=Hello%2C%20I%27m%20interested%20in%20R18%20tires)
 
-## R18 tyre sizes
+## R18 tire sizes
 
 [225/40 R18](https://vulkanizacia.ge/tyres/225-40-r18/) · [225/45 R18](https://vulkanizacia.ge/tyres/225-45-r18/) · [225/55 R18](https://vulkanizacia.ge/tyres/225-55-r18/) · [235/40 R18](https://vulkanizacia.ge/tyres/235-40-r18/) · [235/50 R18](https://vulkanizacia.ge/tyres/235-50-r18/) · [235/55 R18](https://vulkanizacia.ge/tyres/235-55-r18/) · [235/60 R18](https://vulkanizacia.ge/tyres/235-60-r18/) · [245/40 R18](https://vulkanizacia.ge/tyres/245-40-r18/) · [245/45 R18](https://vulkanizacia.ge/tyres/245-45-r18/) · [255/55 R18](https://vulkanizacia.ge/tyres/255-55-r18/) · [265/60 R18](https://vulkanizacia.ge/tyres/265-60-r18/)
 
-Can't see your size? [Message us on WhatsApp →](https://wa.me/995591909013?text=Hello%2C%20I%27m%20interested%20in%20R18%20tyres) · [Size filter →](https://vulkanizacia.ge/tyres/)
+Can't see your size? [Message us on WhatsApp →](https://wa.me/995591909013?text=Hello%2C%20I%27m%20interested%20in%20R18%20tires) · [Size filter →](https://vulkanizacia.ge/tyres/)
 
 ## R18 sizes
 
@@ -50,16 +50,16 @@ Can't see your size? [Message us on WhatsApp →](https://wa.me/995591909013?tex
 
 R18 means an 18-inch (457 mm) rim. Figures are calculated from the size.
 
-## When you need a tyre replacement
+## When you need a tire replacement
 
-- The tyre burst or the sidewall is damaged — this kind of damage can't be repaired
+- The tire burst or the sidewall is damaged — this kind of damage can't be repaired
 - The puncture is too large or on the sidewall
 - A bulge appeared after hitting a pothole or a kerb
-- The tread is worn — below 3 mm on summer tyres, 4 mm on winter tyres
-- The tyre has cracks, or it is over 6 years old and the rubber has hardened
+- The tread is worn — below 3 mm on summer tires, 4 mm on winter tires
+- The tire has cracks, or it is over 6 years old and the rubber has hardened
 - The winter or summer season has arrived
-- The tyre wears unevenly or vibration remains after balancing
-- One tyre is damaged and you need a matching one for the same axle
+- The tire wears unevenly or vibration remains after balancing
+- One tire is damaged and you need a matching one for the same axle
 
 ## How it works
 
@@ -67,19 +67,19 @@ R18 means an 18-inch (457 mm) rim. Figures are calculated from the size.
 
 ### Choose your size
 
-Call or message us on WhatsApp with your tyre size — we'll tell you the available options and the price.
+Call or message us on WhatsApp with your tire size — we'll tell you the available options and the price.
 
 - • 2
 
 ### We deliver
 
-We bring the tyres to your home, office or roadside — anywhere in Tbilisi.
+We bring the tires to your home, office or roadside — anywhere in Tbilisi.
 
 - • 3
 
 ### We fit them
 
-We mount the tyres on your rims and fit the wheels on the spot.
+We mount the tires on your rims and fit the wheels on the spot.
 
 - • 4
 
@@ -91,23 +91,23 @@ We balance the wheels and check the pressure, so you are back on the road safely
 
 ### What does R18 mean?
 
-R18 means the tyre fits an 18-inch (457 mm) rim; the letter R stands for radial construction.
+R18 means the tire fits an 18-inch (457 mm) rim; the letter R stands for radial construction.
 
-### How much does an R18 tyre cost?
+### How much does an R18 tire cost?
 
 The price depends on the size, season and manufacturer. Send us your size on WhatsApp or call — we'll tell you the available options and the price.
 
-### Can you fit R18 tyres on site?
+### Can you fit R18 tires on site?
 
-Yes — we deliver to any district of Tbilisi, fit and balance the tyres on the spot. We work 24/7.
+Yes — we deliver to any district of Tbilisi, fit and balance the tires on the spot. We work 24/7.
 
-## Need tyres?
+## Need tires?
 
 Send us your size — we'll tell you the available options and the price. We work 24/7.
 
-[+995 591 90 90 13](tel:+995591909013) · [WhatsApp](https://wa.me/995591909013?text=Hello%2C%20I%27m%20interested%20in%20R18%20tyres)
+[+995 591 90 90 13](tel:+995591909013) · [WhatsApp](https://wa.me/995591909013?text=Hello%2C%20I%27m%20interested%20in%20R18%20tires)
 
-## Tyres by type
+## Tires by type
 
 - [New tyres](https://vulkanizacia.ge/tyres/new-tyres/)
 - [Used tyres](https://vulkanizacia.ge/tyres/used-tyres/)

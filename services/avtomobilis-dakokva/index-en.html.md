@@ -82,6 +82,7 @@ Contact us — we work 24/7.
 - [Wheel balancing](https://vulkanizacia.ge/services/balansireba/index-en.html)
 - [Battery replacement](https://vulkanizacia.ge/services/akumulatoris-shecvla/index-en.html)
 - [Car lockout opening](https://vulkanizacia.ge/services/daketili-avtomobilis-gakhsna/index-en.html)
+- [Tire pressure sensors (TPMS)](https://vulkanizacia.ge/services/saburavis-wnevis-sensori/index-en.html)
 
 [All services →](https://vulkanizacia.ge/index-en.html#services)
 

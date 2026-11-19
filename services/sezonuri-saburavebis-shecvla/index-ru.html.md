@@ -82,6 +82,7 @@ Canonical: https://vulkanizacia.ge/services/sezonuri-saburavebis-shecvla/index-r
 - [Замена аккумулятора](https://vulkanizacia.ge/services/akumulatoris-shecvla/index-ru.html)
 - [Прикуривание автомобиля](https://vulkanizacia.ge/services/avtomobilis-dakokva/index-ru.html)
 - [Вскрытие автомобиля](https://vulkanizacia.ge/services/daketili-avtomobilis-gakhsna/index-ru.html)
+- [Датчики давления в шинах (TPMS)](https://vulkanizacia.ge/services/saburavis-wnevis-sensori/index-ru.html)
 
 [Все услуги →](https://vulkanizacia.ge/index-ru.html#services)
 

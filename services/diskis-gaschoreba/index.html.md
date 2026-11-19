@@ -82,6 +82,7 @@ Canonical: https://vulkanizacia.ge/services/diskis-gaschoreba/
 - [დაკეტილი ავტომობილის გახსნა](https://vulkanizacia.ge/services/daketili-avtomobilis-gakhsna/)
 - [ბალანსირება](https://vulkanizacia.ge/services/balansireba/)
 - [სეზონური შეცვლა](https://vulkanizacia.ge/services/sezonuri-saburavebis-shecvla/)
+- [საბურავის წნევის სენსორი (ბლუთუზი)](https://vulkanizacia.ge/services/saburavis-wnevis-sensori/)
 
 [ყველა სერვისი →](https://vulkanizacia.ge/index.html#services)
 

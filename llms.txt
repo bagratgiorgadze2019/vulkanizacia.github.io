@@ -40,6 +40,36 @@ Each service has a dedicated page (Georgian / English / Russian via index-en.htm
 - By rim: [R13](https://vulkanizacia.ge/saburavebi/r13/), [R14](https://vulkanizacia.ge/saburavebi/r14/), [R15](https://vulkanizacia.ge/saburavebi/r15/), [R16](https://vulkanizacia.ge/saburavebi/r16/), [R17](https://vulkanizacia.ge/saburavebi/r17/), [R18](https://vulkanizacia.ge/saburavebi/r18/), [R19](https://vulkanizacia.ge/saburavebi/r19/), [R20](https://vulkanizacia.ge/saburavebi/r20/)
 - Sizes: [155/70 R13](https://vulkanizacia.ge/saburavebi/155-70-r13/), [165/70 R13](https://vulkanizacia.ge/saburavebi/165-70-r13/), [175/70 R13](https://vulkanizacia.ge/saburavebi/175-70-r13/), [165/70 R14](https://vulkanizacia.ge/saburavebi/165-70-r14/), [175/65 R14](https://vulkanizacia.ge/saburavebi/175-65-r14/), [175/70 R14](https://vulkanizacia.ge/saburavebi/175-70-r14/), [185/60 R14](https://vulkanizacia.ge/saburavebi/185-60-r14/), [185/65 R14](https://vulkanizacia.ge/saburavebi/185-65-r14/), [185/70 R14](https://vulkanizacia.ge/saburavebi/185-70-r14/), [185/55 R15](https://vulkanizacia.ge/saburavebi/185-55-r15/), [185/60 R15](https://vulkanizacia.ge/saburavebi/185-60-r15/), [185/65 R15](https://vulkanizacia.ge/saburavebi/185-65-r15/), [195/50 R15](https://vulkanizacia.ge/saburavebi/195-50-r15/), [195/55 R15](https://vulkanizacia.ge/saburavebi/195-55-r15/), [195/60 R15](https://vulkanizacia.ge/saburavebi/195-60-r15/), [195/65 R15](https://vulkanizacia.ge/saburavebi/195-65-r15/), [205/65 R15](https://vulkanizacia.ge/saburavebi/205-65-r15/), [215/70 R15](https://vulkanizacia.ge/saburavebi/215-70-r15/), [195/55 R16](https://vulkanizacia.ge/saburavebi/195-55-r16/), [195/60 R16](https://vulkanizacia.ge/saburavebi/195-60-r16/), [205/50 R16](https://vulkanizacia.ge/saburavebi/205-50-r16/), [205/55 R16](https://vulkanizacia.ge/saburavebi/205-55-r16/), [205/60 R16](https://vulkanizacia.ge/saburavebi/205-60-r16/), [215/55 R16](https://vulkanizacia.ge/saburavebi/215-55-r16/), [215/60 R16](https://vulkanizacia.ge/saburavebi/215-60-r16/), [215/65 R16](https://vulkanizacia.ge/saburavebi/215-65-r16/), [225/60 R16](https://vulkanizacia.ge/saburavebi/225-60-r16/), [225/70 R16](https://vulkanizacia.ge/saburavebi/225-70-r16/), [205/50 R17](https://vulkanizacia.ge/saburavebi/205-50-r17/), [215/45 R17](https://vulkanizacia.ge/saburavebi/215-45-r17/), [215/50 R17](https://vulkanizacia.ge/saburavebi/215-50-r17/), [215/55 R17](https://vulkanizacia.ge/saburavebi/215-55-r17/), [215/60 R17](https://vulkanizacia.ge/saburavebi/215-60-r17/), [225/45 R17](https://vulkanizacia.ge/saburavebi/225-45-r17/), [225/50 R17](https://vulkanizacia.ge/saburavebi/225-50-r17/), [225/55 R17](https://vulkanizacia.ge/saburavebi/225-55-r17/), [225/60 R17](https://vulkanizacia.ge/saburavebi/225-60-r17/), [225/65 R17](https://vulkanizacia.ge/saburavebi/225-65-r17/), [235/45 R17](https://vulkanizacia.ge/saburavebi/235-45-r17/), [235/55 R17](https://vulkanizacia.ge/saburavebi/235-55-r17/), [235/65 R17](https://vulkanizacia.ge/saburavebi/235-65-r17/), [265/65 R17](https://vulkanizacia.ge/saburavebi/265-65-r17/), [225/40 R18](https://vulkanizacia.ge/saburavebi/225-40-r18/), [225/45 R18](https://vulkanizacia.ge/saburavebi/225-45-r18/), [225/55 R18](https://vulkanizacia.ge/saburavebi/225-55-r18/), [235/40 R18](https://vulkanizacia.ge/saburavebi/235-40-r18/), [235/50 R18](https://vulkanizacia.ge/saburavebi/235-50-r18/), [235/55 R18](https://vulkanizacia.ge/saburavebi/235-55-r18/), [235/60 R18](https://vulkanizacia.ge/saburavebi/235-60-r18/), [245/40 R18](https://vulkanizacia.ge/saburavebi/245-40-r18/), [245/45 R18](https://vulkanizacia.ge/saburavebi/245-45-r18/), [255/55 R18](https://vulkanizacia.ge/saburavebi/255-55-r18/), [265/60 R18](https://vulkanizacia.ge/saburavebi/265-60-r18/), [235/55 R19](https://vulkanizacia.ge/saburavebi/235-55-r19/), [245/40 R19](https://vulkanizacia.ge/saburavebi/245-40-r19/), [245/45 R19](https://vulkanizacia.ge/saburavebi/245-45-r19/), [255/50 R19](https://vulkanizacia.ge/saburavebi/255-50-r19/), [275/40 R19](https://vulkanizacia.ge/saburavebi/275-40-r19/), [235/35 R20](https://vulkanizacia.ge/saburavebi/235-35-r20/), [245/35 R20](https://vulkanizacia.ge/saburavebi/245-35-r20/), [245/45 R20](https://vulkanizacia.ge/saburavebi/245-45-r20/), [255/45 R20](https://vulkanizacia.ge/saburavebi/255-45-r20/), [275/40 R20](https://vulkanizacia.ge/saburavebi/275-40-r20/), [275/45 R20](https://vulkanizacia.ge/saburavebi/275-45-r20/)
 <!-- tyres:end -->
+<!-- landings:start -->
+## Mobile tire service by area (ვულკანიზაცია ადგილზე / выездной шиномонтаж)
+- Mobile tire service, 24/7: https://vulkanizacia.ge/vulkanizacia-adgilze/ · EN https://vulkanizacia.ge/mobile-tire-repair-tbilisi/ · RU https://vulkanizacia.ge/vyezdnoy-shinomontazh-tbilisi/
+- Vake (Tbilisi): https://vulkanizacia.ge/vulkanizacia-vakeshi/
+- Saburtalo (Tbilisi): https://vulkanizacia.ge/vulkanizacia-saburtaloze/
+- Vera (Tbilisi): https://vulkanizacia.ge/vulkanizacia-veraze/
+- Mtatsminda (Tbilisi): https://vulkanizacia.ge/vulkanizacia-mtatsmindaze/
+- Old Tbilisi (Tbilisi): https://vulkanizacia.ge/vulkanizacia-dzvel-tbilisshi/
+- Avlabari (Tbilisi): https://vulkanizacia.ge/vulkanizacia-avlabarshi/
+- Isani (Tbilisi): https://vulkanizacia.ge/vulkanizacia-isanshi/
+- Samgori (Tbilisi): https://vulkanizacia.ge/vulkanizacia-samgorshi/
+- Varketili (Tbilisi): https://vulkanizacia.ge/vulkanizacia-varketilshi/
+- Chugureti (Tbilisi): https://vulkanizacia.ge/vulkanizacia-chughuretshi/
+- Didube (Tbilisi): https://vulkanizacia.ge/vulkanizacia-didubeshi/
+- Nadzaladevi (Tbilisi): https://vulkanizacia.ge/vulkanizacia-nadzaladevshi/
+- Gldani (Tbilisi): https://vulkanizacia.ge/vulkanizacia-gldanshi/
+- Dighomi (Tbilisi): https://vulkanizacia.ge/vulkanizacia-dighomshi/
+- Temka (Tbilisi): https://vulkanizacia.ge/vulkanizacia-temkaze/
+- Ortachala (Tbilisi): https://vulkanizacia.ge/vulkanizacia-ortachalashi/
+- Krtsanisi (Tbilisi): https://vulkanizacia.ge/vulkanizacia-krtsanisshi/
+- Avchala (Tbilisi): https://vulkanizacia.ge/vulkanizacia-avchalashi/
+- Lilo (Tbilisi): https://vulkanizacia.ge/vulkanizacia-liloshi/
+- Vazisubani (Tbilisi): https://vulkanizacia.ge/vulkanizacia-vazisubanshi/
+- Tskneti (Tbilisi): https://vulkanizacia.ge/vulkanizacia-tsknetshi/
+- Okrokana (Tbilisi): https://vulkanizacia.ge/vulkanizacia-okroqanashi/
+- Rustavi and Ponichala: https://vulkanizacia.ge/vulkanizacia-rustavshi/
+- Mtskheta, Natakhtari, Saguramo, Tserovani: https://vulkanizacia.ge/vulkanizacia-mcxetashi/
+- Tire size calculator: https://vulkanizacia.ge/saburavis-kalkulatori/ · EN https://vulkanizacia.ge/tire-size-calculator/ · RU https://vulkanizacia.ge/shinnyy-kalkulyator/
+- Tire pressure sensors (TPMS) — depends on make and model: https://vulkanizacia.ge/services/saburavis-wnevis-sensori/
+<!-- landings:end -->
 ## Service area
 Mobile service across all Tbilisi districts: Saburtalo, Vake, Vera, Mtatsminda, Old Tbilisi, Isani, Samgori, Varketili, Chughureti, Didube, Nadzaladevi, Gldani, Avchala, Dighomi, Temka, Avlabari.
 

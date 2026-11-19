@@ -1,6 +1,6 @@
-# 225/40 R18 tyres
+# 225/40 R18 tires
 
-> 225/40 R18 tyres — new and used, summer and winter. We deliver, fit and balance them on site in Tbilisi, 24/7. Price and stock: ☎ +995 591 90 90 13
+> 225/40 R18 tires — new and used, summer and winter. We deliver, fit and balance them on site in Tbilisi, 24/7. Price and stock: ☎ +995 591 90 90 13
 
 Canonical: https://vulkanizacia.ge/tyres/225-40-r18/
 
@@ -20,42 +20,42 @@ Canonical: https://vulkanizacia.ge/tyres/225-40-r18/
 
 [ქა](https://vulkanizacia.ge/saburavebi/225-40-r18/) · [EN](https://vulkanizacia.ge/tyres/225-40-r18/) · [RU](https://vulkanizacia.ge/shiny/225-40-r18/)
 
-Tyres
+Tires
 
 
-New and used 225/40 R18 tyres — summer, winter and all-season. We deliver, fit and balance them on the spot.
+New and used 225/40 R18 tires — summer, winter and all-season. We deliver, fit and balance them on the spot.
 
  • New • Used • Winter • Summer / all-season
 
-[+995 591 90 90 13](tel:+995591909013) · [WhatsApp](https://wa.me/995591909013?text=Hello%2C%20I%27m%20interested%20in%20tyres%20225/40%20R18)
+[+995 591 90 90 13](tel:+995591909013) · [WhatsApp](https://wa.me/995591909013?text=Hello%2C%20I%27m%20interested%20in%20tires%20225/40%20R18)
 
-225/40 R18 is a low-profile tyre — often used on sporty and premium cars. Its low sidewall is easier to damage on potholes and kerbs, so replacing it is often sudden and urgent — we bring it and fit it on the spot.
+225/40 R18 is a low-profile tire — often used on sporty and premium cars. Its low sidewall is easier to damage on potholes and kerbs, so replacing it is often sudden and urgent — we bring it and fit it on the spot.
 
 ## 225/40 R18 size — specifications
 
 - Width — 225 mm
 - Profile — 40% — sidewall height ≈ 90 mm
 - Rim diameter — 18″ (457 mm)
-- Overall tyre diameter — ≈ 637 mm
+- Overall tire diameter — ≈ 637 mm
 
 Figures are calculated from the size; the exact dimensions of a specific model may differ slightly.
 
 ## What the service includes
 
-- Delivery of 225/40 R18 tyres to your location
-- Mounting the tyre on the rim and fitting the wheel
+- Delivery of 225/40 R18 tires to your location
+- Mounting the tire on the rim and fitting the wheel
 - [Wheel balancing](https://vulkanizacia.ge/services/balansireba/index-en.html)
 - Pressure check
 
-## When you need a tyre replacement
+## When you need a tire replacement
 
-- The tyre burst or the sidewall is damaged — this kind of damage can't be repaired
+- The tire burst or the sidewall is damaged — this kind of damage can't be repaired
 - The puncture is too large or on the sidewall
 - A bulge appeared after hitting a pothole or a kerb
-- The tread is worn — below 3 mm on summer tyres, 4 mm on winter tyres
-- The tyre has cracks, or it is over 6 years old and the rubber has hardened
+- The tread is worn — below 3 mm on summer tires, 4 mm on winter tires
+- The tire has cracks, or it is over 6 years old and the rubber has hardened
 
-In any of these cases, call us — we bring a 225/40 R18 tyre and replace it on the spot. [More: when should a tyre be replaced →](https://vulkanizacia.ge/blog/when-to-replace-tyres/)
+In any of these cases, call us — we bring a 225/40 R18 tire and replace it on the spot. [More: when should a tire be replaced →](https://vulkanizacia.ge/blog/when-to-replace-tyres/)
 
 ## Similar sizes
 
@@ -65,37 +65,37 @@ These sizes fit the same R18 rim and have a similar overall diameter to 225/40 R
 
 ## You may also need
 
-- [Seasonal tyre change on site](https://vulkanizacia.ge/services/sezonuri-saburavebis-shecvla/index-en.html)
-- [How to read a tyre size](https://vulkanizacia.ge/blog/how-to-read-tyre-size/)
-- [When should a tyre be replaced](https://vulkanizacia.ge/blog/when-to-replace-tyres/)
+- [Seasonal tire change on site](https://vulkanizacia.ge/services/sezonuri-saburavebis-shecvla/index-en.html)
+- [How to read a tire size](https://vulkanizacia.ge/blog/how-to-read-tyre-size/)
+- [When should a tire be replaced](https://vulkanizacia.ge/blog/when-to-replace-tyres/)
 
 ## Frequently asked questions
 
-### How much does a 225/40 R18 tyre cost?
+### How much does a 225/40 R18 tire cost?
 
 It depends on whether it is new or used, the season and the manufacturer. Call us or message us on WhatsApp — we'll tell you the available options and the price.
 
-### Can you bring a 225/40 R18 tyre and fit it on site?
+### Can you bring a 225/40 R18 tire and fit it on site?
 
-Yes — we deliver to any district of Tbilisi, fit and balance the tyre on the spot. We work 24/7.
+Yes — we deliver to any district of Tbilisi, fit and balance the tire on the spot. We work 24/7.
 
 ### Can I fit a different size instead of 225/40 R18?
 
 Approved alternatives depend on your car manufacturer. Sizes with a similar diameter: 235/40 R18, 245/40 R18. Check your car manual before changing size.
 
-## Need 225/40 R18 tyres?
+## Need 225/40 R18 tires?
 
 Call or message us — we'll tell you the available options and the price.
 
-[+995 591 90 90 13](tel:+995591909013) · [WhatsApp](https://wa.me/995591909013?text=Hello%2C%20I%27m%20interested%20in%20tyres%20225/40%20R18)
+[+995 591 90 90 13](tel:+995591909013) · [WhatsApp](https://wa.me/995591909013?text=Hello%2C%20I%27m%20interested%20in%20tires%20225/40%20R18)
 
 ## Other R18 sizes
 
 [225/45 R18](https://vulkanizacia.ge/tyres/225-45-r18/) · [225/55 R18](https://vulkanizacia.ge/tyres/225-55-r18/) · [235/40 R18](https://vulkanizacia.ge/tyres/235-40-r18/) · [235/50 R18](https://vulkanizacia.ge/tyres/235-50-r18/) · [235/55 R18](https://vulkanizacia.ge/tyres/235-55-r18/) · [235/60 R18](https://vulkanizacia.ge/tyres/235-60-r18/) · [245/40 R18](https://vulkanizacia.ge/tyres/245-40-r18/) · [245/45 R18](https://vulkanizacia.ge/tyres/245-45-r18/) · [255/55 R18](https://vulkanizacia.ge/tyres/255-55-r18/) · [265/60 R18](https://vulkanizacia.ge/tyres/265-60-r18/)
 
-[R18 tyres →](https://vulkanizacia.ge/tyres/r18/) · [All sizes →](https://vulkanizacia.ge/tyres/)
+[R18 tires →](https://vulkanizacia.ge/tyres/r18/) · [All sizes →](https://vulkanizacia.ge/tyres/)
 
-## Tyres by type
+## Tires by type
 
 - [New tyres](https://vulkanizacia.ge/tyres/new-tyres/)
 - [Used tyres](https://vulkanizacia.ge/tyres/used-tyres/)

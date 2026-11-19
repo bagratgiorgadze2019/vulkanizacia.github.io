@@ -82,6 +82,7 @@ Canonical: https://vulkanizacia.ge/services/akumulatoris-shecvla/
 - [ბალანსირება](https://vulkanizacia.ge/services/balansireba/)
 - [ავტომობილის დაქოქვა](https://vulkanizacia.ge/services/avtomobilis-dakokva/)
 - [დაკეტილი ავტომობილის გახსნა](https://vulkanizacia.ge/services/daketili-avtomobilis-gakhsna/)
+- [საბურავის წნევის სენსორი (ბლუთუზი)](https://vulkanizacia.ge/services/saburavis-wnevis-sensori/)
 
 [ყველა სერვისი →](https://vulkanizacia.ge/index.html#services)
 
