@@ -238,10 +238,10 @@ def a11y(files):
         s = re.sub(r'<a href="tel:\+995591909013" class="(inline-flex items-center gap-2 rounded-lg bg-brand px-3 py-2[^"]*)">',
                    lambda m: f'<a href="tel:+995591909013" class="{m.group(1)}" aria-label="{CALL_LABEL.get(lang, "Call")}: +995 591 90 90 13">', s)
         s = s.replace('class="block hover:text-brand"', 'class="block py-1.5 hover:text-brand"')
-        # logo text in the page's language (header + footer)
-        logo = {"en": "Vulkanizacia", "ru": "Вулканизация"}.get(lang)
-        if logo:
-            s = s.replace('ვულკანიზაცია<span class="text-brand">.ge</span>', logo + '<span class="text-brand">.ge</span>')
+        # brand is always written "Vulkanizacia.ge" (owner's rule), in every language — logo and visible text.
+        # Only the schema alternateName keeps the Georgian spelling, so Georgian-typed searches still match.
+        s = re.sub(r'(?:ვულკანიზაცია|Вулканизация)<span class="text-brand">\.ge</span>', 'Vulkanizacia<span class="text-brand">.ge</span>', s)
+        s = re.sub(r'(?<!"alternateName": ")(?:ვულკანიზაცია|Вулканизация)\.ge', "Vulkanizacia.ge", s)
         s = re.sub(r'class="([^"]*bg-\[#25D366\][^"]*)"', lambda m: 'class="' + m.group(1).replace("text-white", "text-zinc-950") + '"', s)
         s = s.replace("bg-[#7360f2]", "bg-[#5b4bd8]")
         s = re.sub(r'(?<![:\w-])text-zinc-(500|600)(?![\w-])', "text-zinc-400", s)
