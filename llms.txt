@@ -43,28 +43,7 @@ Each service has a dedicated page (Georgian / English / Russian via index-en.htm
 <!-- landings:start -->
 ## Mobile tire service by area (ვულკანიზაცია ადგილზე / выездной шиномонтаж)
 - Mobile tire service, 24/7: https://vulkanizacia.ge/vulkanizacia-adgilze/ · EN https://vulkanizacia.ge/mobile-tire-repair-tbilisi/ · RU https://vulkanizacia.ge/vyezdnoy-shinomontazh-tbilisi/
-- Vake (Tbilisi): https://vulkanizacia.ge/vulkanizacia-vakeshi/
-- Saburtalo (Tbilisi): https://vulkanizacia.ge/vulkanizacia-saburtaloze/
-- Vera (Tbilisi): https://vulkanizacia.ge/vulkanizacia-veraze/
-- Mtatsminda (Tbilisi): https://vulkanizacia.ge/vulkanizacia-mtatsmindaze/
-- Old Tbilisi (Tbilisi): https://vulkanizacia.ge/vulkanizacia-dzvel-tbilisshi/
-- Avlabari (Tbilisi): https://vulkanizacia.ge/vulkanizacia-avlabarshi/
-- Isani (Tbilisi): https://vulkanizacia.ge/vulkanizacia-isanshi/
-- Samgori (Tbilisi): https://vulkanizacia.ge/vulkanizacia-samgorshi/
-- Varketili (Tbilisi): https://vulkanizacia.ge/vulkanizacia-varketilshi/
-- Chugureti (Tbilisi): https://vulkanizacia.ge/vulkanizacia-chughuretshi/
-- Didube (Tbilisi): https://vulkanizacia.ge/vulkanizacia-didubeshi/
-- Nadzaladevi (Tbilisi): https://vulkanizacia.ge/vulkanizacia-nadzaladevshi/
-- Gldani (Tbilisi): https://vulkanizacia.ge/vulkanizacia-gldanshi/
-- Dighomi (Tbilisi): https://vulkanizacia.ge/vulkanizacia-dighomshi/
-- Temka (Tbilisi): https://vulkanizacia.ge/vulkanizacia-temkaze/
-- Ortachala (Tbilisi): https://vulkanizacia.ge/vulkanizacia-ortachalashi/
-- Krtsanisi (Tbilisi): https://vulkanizacia.ge/vulkanizacia-krtsanisshi/
-- Avchala (Tbilisi): https://vulkanizacia.ge/vulkanizacia-avchalashi/
-- Lilo (Tbilisi): https://vulkanizacia.ge/vulkanizacia-liloshi/
-- Vazisubani (Tbilisi): https://vulkanizacia.ge/vulkanizacia-vazisubanshi/
-- Tskneti (Tbilisi): https://vulkanizacia.ge/vulkanizacia-tsknetshi/
-- Okrokana (Tbilisi): https://vulkanizacia.ge/vulkanizacia-okroqanashi/
+- Districts covered (all Tbilisi, one page): Vake, Saburtalo, Vera, Mtatsminda, Old Tbilisi, Avlabari, Isani, Samgori, Varketili, Chugureti, Didube, Nadzaladevi, Gldani, Dighomi, Temka, Ortachala, Krtsanisi, Avchala, Lilo, Vazisubani, Tskneti, Okrokana
 - Rustavi and Ponichala: https://vulkanizacia.ge/vulkanizacia-rustavshi/
 - Mtskheta, Natakhtari, Saguramo, Tserovani: https://vulkanizacia.ge/vulkanizacia-mcxetashi/
 - Tire size calculator: https://vulkanizacia.ge/saburavis-kalkulatori/ · EN https://vulkanizacia.ge/tire-size-calculator/ · RU https://vulkanizacia.ge/shinnyy-kalkulyator/

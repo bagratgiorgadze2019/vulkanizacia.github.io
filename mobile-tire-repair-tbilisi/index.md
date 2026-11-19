@@ -39,9 +39,38 @@ A tire service that comes to you — day and night. No need to find a tire shop:
 
 We work 24/7 — at night, on weekends and holidays. In Tbilisi we usually arrive within 20–30 minutes; in nearby towns it depends on the distance. Good to know: in Georgia a tire repair shop is called “vulkanizacia” (ვულკანიზაცია) — that is us.
 
-## Where we come
+## Tire repair in every Tbilisi district
 
-[Vake](https://vulkanizacia.ge/tire-repair-vake/) · [Saburtalo](https://vulkanizacia.ge/tire-repair-saburtalo/) · [Vera](https://vulkanizacia.ge/tire-repair-vera/) · [Mtatsminda](https://vulkanizacia.ge/tire-repair-mtatsminda/) · [Old Tbilisi](https://vulkanizacia.ge/tire-repair-old-tbilisi/) · [Avlabari](https://vulkanizacia.ge/tire-repair-avlabari/) · [Isani](https://vulkanizacia.ge/tire-repair-isani/) · [Samgori](https://vulkanizacia.ge/tire-repair-samgori/) · [Varketili](https://vulkanizacia.ge/tire-repair-varketili/) · [Chugureti](https://vulkanizacia.ge/tire-repair-chugureti/) · [Didube](https://vulkanizacia.ge/tire-repair-didube/) · [Nadzaladevi](https://vulkanizacia.ge/tire-repair-nadzaladevi/) · [Gldani](https://vulkanizacia.ge/tire-repair-gldani/) · [Dighomi](https://vulkanizacia.ge/tire-repair-dighomi/) · [Temka](https://vulkanizacia.ge/tire-repair-temka/) · [Ortachala](https://vulkanizacia.ge/tire-repair-ortachala/) · [Krtsanisi](https://vulkanizacia.ge/tire-repair-krtsanisi/) · [Avchala](https://vulkanizacia.ge/tire-repair-avchala/) · [Lilo](https://vulkanizacia.ge/tire-repair-lilo/) · [Vazisubani](https://vulkanizacia.ge/tire-repair-vazisubani/) · [Tskneti](https://vulkanizacia.ge/tire-repair-tskneti/) · [Okrokana](https://vulkanizacia.ge/tire-repair-okrokana/) · [Rustavi](https://vulkanizacia.ge/tire-repair-rustavi/) · [Mtskheta](https://vulkanizacia.ge/tire-repair-mtskheta/)
+We come to any district of Tbilisi:
+
+- Vake
+- Saburtalo
+- Vera
+- Mtatsminda
+- Old Tbilisi
+- Avlabari
+- Isani
+- Samgori
+- Varketili
+- Chugureti
+- Didube
+- Nadzaladevi
+- Gldani
+- Dighomi
+- Temka
+- Ortachala
+- Krtsanisi
+- Avchala
+- Lilo
+- Vazisubani
+- Tskneti
+- Okrokana
+
+In the city we usually arrive within 20–30 minutes; in the outskirts (Lilo, Tskneti, Okrokana) it depends on the distance.
+
+We also come to nearby towns:
+
+[Rustavi](https://vulkanizacia.ge/tire-repair-rustavi/) · [Mtskheta](https://vulkanizacia.ge/tire-repair-mtskheta/)
 
 ## How it works
 
@@ -98,6 +127,10 @@ Usually within 20–30 minutes in Tbilisi. In nearby towns it depends on the dis
 
 It depends on the job and the location. Call us — we agree the price in advance.
 
+### Which districts do you cover?
+
+Every district of Tbilisi — Vake, Saburtalo, Didube, Gldani, Isani, Samgori, Varketili, Dighomi and more — plus Rustavi and Mtskheta.
+
 ## Need a tire service?
 
 Call or message us — we work 24/7.
@@ -106,4 +139,4 @@ Call or message us — we work 24/7.
 
 ## Where we come
 
-[Vake](https://vulkanizacia.ge/tire-repair-vake/) · [Saburtalo](https://vulkanizacia.ge/tire-repair-saburtalo/) · [Vera](https://vulkanizacia.ge/tire-repair-vera/) · [Mtatsminda](https://vulkanizacia.ge/tire-repair-mtatsminda/) · [Old Tbilisi](https://vulkanizacia.ge/tire-repair-old-tbilisi/) · [Avlabari](https://vulkanizacia.ge/tire-repair-avlabari/) · [Isani](https://vulkanizacia.ge/tire-repair-isani/) · [Samgori](https://vulkanizacia.ge/tire-repair-samgori/) · [Varketili](https://vulkanizacia.ge/tire-repair-varketili/) · [Chugureti](https://vulkanizacia.ge/tire-repair-chugureti/) · [Didube](https://vulkanizacia.ge/tire-repair-didube/) · [Nadzaladevi](https://vulkanizacia.ge/tire-repair-nadzaladevi/) · [Gldani](https://vulkanizacia.ge/tire-repair-gldani/) · [Dighomi](https://vulkanizacia.ge/tire-repair-dighomi/) · [Temka](https://vulkanizacia.ge/tire-repair-temka/) · [Ortachala](https://vulkanizacia.ge/tire-repair-ortachala/) · [Krtsanisi](https://vulkanizacia.ge/tire-repair-krtsanisi/) · [Avchala](https://vulkanizacia.ge/tire-repair-avchala/) · [Lilo](https://vulkanizacia.ge/tire-repair-lilo/) · [Vazisubani](https://vulkanizacia.ge/tire-repair-vazisubani/) · [Tskneti](https://vulkanizacia.ge/tire-repair-tskneti/) · [Okrokana](https://vulkanizacia.ge/tire-repair-okrokana/) · [Rustavi](https://vulkanizacia.ge/tire-repair-rustavi/) · [Mtskheta](https://vulkanizacia.ge/tire-repair-mtskheta/)
+[Rustavi](https://vulkanizacia.ge/tire-repair-rustavi/) · [Mtskheta](https://vulkanizacia.ge/tire-repair-mtskheta/)

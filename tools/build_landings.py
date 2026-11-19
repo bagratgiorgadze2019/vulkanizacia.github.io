@@ -1,7 +1,7 @@
 """Keyword landing pages for vulkanizacia.ge, each in ka/en/ru (from Google autocomplete research, 2026-11-20).
 
   - mobile tyre service:  ვულკანიზაცია ადგილზე / mobile tire repair / выездной шиномонтаж
-  - all 22 Tbilisi districts (Vake … Okrokana), each with local landmarks
+  - all 22 Tbilisi districts listed on the mobile-service page (old per-district URLs redirect there)
   - nearby towns:         Rustavi (+ Ponichala), Mtskheta (+ Natakhtari, Saguramo, Tserovani)
   - tyre size calculator (interactive)
   - service: tyre pressure sensors (TPMS, "საბურავის ბლუთუზი")
@@ -214,49 +214,6 @@ DISTRICTS = {k: dict(ka=ka, en=en, ru=ru, outer=outer, slug=dict(ka=f"vulkanizac
              for k, ka, en, ru, ks, es, outer in _D}
 
 
-def dist_copy(key, lang):
-    d = DISTRICTS[key]
-    outer = d["outer"]
-    if lang == "ka":
-        name, loc, gen, lm = d["ka"]
-        eta = ("მისვლის დრო მანძილზეა დამოკიდებული — დარეკვისას ზუსტად გეტყვით." if outer else "თბილისში ჩვეულებრივ 20-30 წუთში მოვდივართ.")
-        eta_faq = ("დრო მანძილსა და მოძრაობაზეა დამოკიდებული — დარეკვისას ზუსტად გეტყვით." if outer else f"თბილისში, მათ შორის {loc}, ჩვეულებრივ 20-30 წუთში.")
-        return dict(name=name, kicker=f"{name} · 24/7", h1=f"ვულკანიზაცია {loc}",
-                    title=f"ვულკანიზაცია {loc} — მოძრავი ვულკანიზაცია 24/7",
-                    desc=f"ვულკანიზაცია {loc}: მოძრავი ვულკანიზაცია მოვა თქვენთან — {', '.join(lm[:2])} და მიმდებარე ქუჩები. საბურავის შეკეთება და შეცვლა ადგილზე, 24/7. ☎ {TEL_FMT}",
-                    keywords=f"ვულკანიზაცია {name}, ვულკანიზაცია {loc}, მოძრავი ვულკანიზაცია {name}, ვულკანიზაცია ახლოს, საბურავის შეცვლა {loc}",
-                    lead=f"გაგისკდათ საბურავი {loc}? მოძრავი ვულკანიზაცია მოვა თქვენთან და ადგილზე შეაკეთებს ან შეცვლის საბურავს — დღე და ღამე.",
-                    where=f"მოვდივართ {gen} ნებისმიერ წერტილში — {', '.join(lm)} და მიმდებარე ქუჩები. {eta}",
-                    faq=[(f"რამდენ ხანში მოხვალთ {loc}?", eta_faq),
-                         (f"ღამით {loc} მოდიხართ?", "დიახ, ვმუშაობთ 24/7, დასვენების და სადღესასწაულო დღეების ჩათვლით."),
-                         (f"შეგიძლიათ {loc} ახალი საბურავის მოტანა?", "დიახ — ახალ ან მეორად საბურავს თქვენს ზომაში მოგიტანთ და ადგილზე დაგიყენებთ.")])
-    if lang == "en":
-        name, lm = d["en"]
-        eta = ("Arrival time depends on the distance — we'll tell you exactly when you call." if outer else "In Tbilisi we usually arrive within 20–30 minutes.")
-        eta_faq = ("It depends on the distance and traffic — we'll tell you exactly when you call." if outer else f"Usually within 20–30 minutes anywhere in Tbilisi, including {name}.")
-        return dict(name=name, kicker=f"{name}, Tbilisi · 24/7", h1=f"Tire repair in {name}",
-                    title=f"Tire repair in {name}, Tbilisi — mobile tire service 24/7",
-                    desc=f"Mobile tire repair in {name}, Tbilisi: we come to you — {', '.join(lm[:2])} and the streets around. Puncture repair and tire change on site, 24/7. ☎ {TEL_FMT}",
-                    keywords=f"tire repair {name}, mobile tire repair {name}, vulcanization {name}, tire service {name} Tbilisi, flat tire {name}",
-                    lead=f"Flat tire in {name}? Our mobile tire service comes to you and repairs or replaces the tire on the spot — day and night.",
-                    where=f"We come to any point in {name} — {', '.join(lm)} and the surrounding streets. {eta}",
-                    faq=[(f"How fast can you get to {name}?", eta_faq),
-                         (f"Do you come to {name} at night?", "Yes, we work 24/7, including weekends and holidays."),
-                         (f"Can you bring a new tire to {name}?", "Yes — we bring a new or used tire in your size and fit it on the spot.")])
-    name, loc, acc, lm = d["ru"]
-    eta = ("Время приезда зависит от расстояния — точно скажем при звонке." if outer else "По Тбилиси обычно приезжаем за 20–30 минут.")
-    eta_faq = ("Зависит от расстояния и дорожной ситуации — точно скажем при звонке." if outer else f"По Тбилиси, включая {name}, обычно за 20–30 минут.")
-    return dict(name=name, kicker=f"{name}, Тбилиси · 24/7", h1=f"Шиномонтаж в {loc}",
-                title=f"Шиномонтаж в {loc} — выездной, круглосуточно",
-                desc=f"Выездной шиномонтаж в {loc}, Тбилиси: приедем к вам — {', '.join(lm[:2])} и соседние улицы. Ремонт прокола и замена колеса на месте, 24/7. ☎ {TEL_FMT}",
-                keywords=f"шиномонтаж {name}, выездной шиномонтаж {name}, вулканизация {name}, шиномонтаж {name} Тбилиси",
-                lead=f"Пробили колесо в {loc}? Выездной шиномонтаж приедет к вам и отремонтирует или заменит шину на месте — днём и ночью.",
-                where=f"Приезжаем в любую точку района {name} — {', '.join(lm)} и соседние улицы. {eta}",
-                faq=[(f"Как быстро приедете в {acc}?", eta_faq),
-                     (f"Приезжаете в {acc} ночью?", "Да, работаем круглосуточно, 24/7, включая выходные и праздники."),
-                     (f"Можете привезти новую шину в {acc}?", "Да — привезём новую или б/у шину вашего размера и установим на месте.")])
-
-
 def town_copy(key, lang):
     t = TOWNS[key][lang]
     faq = {"ka": [(f"რამდენ ხანში ჩამოხვალთ ({t['name']})?", "მოვდივართ თბილისიდან, ამიტომ დრო მანძილსა და მოძრაობაზეა დამოკიდებული — დარეკვისას ზუსტად გეტყვით."),
@@ -271,9 +228,36 @@ def town_copy(key, lang):
     return dict(t, kicker={"ka": f"{t['name']} · 24/7", "en": f"{t['name']} · 24/7", "ru": f"{t['name']} · 24/7"}[lang], faq=faq)
 
 
+AREA_T = {
+    "ka": dict(all="თბილისის ყველა უბანი", h="ვულკანიზაცია თბილისის ყველა უბანში", p="მოვდივართ თბილისის ნებისმიერ უბანში:",
+               eta="ქალაქში ჩვეულებრივ 20-30 წუთში მოვდივართ, გარეუბნებში (ლილო, წყნეთი, ოქროყანა) კი — მანძილის მიხედვით.",
+               towns="ასევე მოვდივართ თბილისის შემოგარენში:",
+               faq=("რომელ უბნებში მოდიხართ?", "თბილისის ყველა უბანში — ვაკე, საბურთალო, დიდუბე, გლდანი, ისანი, სამგორი, ვარკეთილი, დიღომი და სხვა — ასევე რუსთავსა და მცხეთაში.")),
+    "en": dict(all="All Tbilisi districts", h="Tire repair in every Tbilisi district", p="We come to any district of Tbilisi:",
+               eta="In the city we usually arrive within 20–30 minutes; in the outskirts (Lilo, Tskneti, Okrokana) it depends on the distance.",
+               towns="We also come to nearby towns:",
+               faq=("Which districts do you cover?", "Every district of Tbilisi — Vake, Saburtalo, Didube, Gldani, Isani, Samgori, Varketili, Dighomi and more — plus Rustavi and Mtskheta.")),
+    "ru": dict(all="Все районы Тбилиси", h="Шиномонтаж во всех районах Тбилиси", p="Выезжаем в любой район Тбилиси:",
+               eta="По городу обычно приезжаем за 20–30 минут, на окраины (Лило, Цхнети, Окрокана) — в зависимости от расстояния.",
+               towns="Также выезжаем в пригороды:",
+               faq=("В какие районы вы выезжаете?", "Во все районы Тбилиси — Ваке, Сабуртало, Дидубе, Глдани, Исани, Самгори, Варкетили, Дигоми и другие, а также в Рустави и Мцхету.")),
+}
+
+
+def district_names(lang):
+    return [d[lang][0] for d in DISTRICTS.values()]
+
+
+def districts_html(lang):
+    A = AREA_T[lang]
+    pills = "".join(f'<li class="rounded-full bg-zinc-900 px-3 py-1.5 text-sm text-zinc-200 ring-1 ring-zinc-800">{n}</li>' for n in district_names(lang))
+    return (f'\n    <h2 class="mt-10 text-2xl font-bold font-head">{A["h"]}</h2>\n    <p class="mt-4 leading-relaxed text-zinc-300">{A["p"]}</p>\n'
+            f'    <ul class="mt-4 flex flex-wrap gap-2">{pills}</ul>\n    <p class="mt-4 leading-relaxed text-zinc-300">{A["eta"]}</p>\n'
+            f'    <p class="mt-4 leading-relaxed text-zinc-300">{A["towns"]}</p>\n    {chips(area_links(lang))}\n')
+
+
 def area_links(lang):
-    out = [(dist_copy(k, lang)["name"], page_url(DISTRICTS[k]["slug"][lang])) for k in DISTRICTS]
-    out += [(TOWNS[k][lang]["name"], page_url(TOWNS[k]["slug"][lang])) for k in TOWNS]
+    out = [(TOWNS[k][lang]["name"], page_url(TOWNS[k]["slug"][lang])) for k in TOWNS]
     return out
 
 
@@ -327,7 +311,7 @@ def body_for(lang, c, urls, extra_html=""):
       </div>
       <div class="rounded-2xl bg-zinc-900 p-6 ring-1 ring-zinc-800">
         <h2 class="text-lg font-bold font-head">{U['areas_h']}</h2>
-        {chips([(n, u) for n, u in area_links(lang) if u != urls[lang]])}
+        {chips([(n, u) for n, u in [(AREA_T[lang]["all"], page_url(MOBILE["slug"][lang]))] + area_links(lang) if u != urls[lang]])}
       </div>
     </div>
   </aside>
@@ -352,19 +336,10 @@ def build_mobile():
     for lang in LANGS:
         c = MOBILE[lang]
         U = C[lang]
+        c = dict(c, faq=c["faq"] + [AREA_T[lang]["faq"]])
         extra = (f'\n    <h2 class="mt-10 text-2xl font-bold font-head">{c["extra_h"]}</h2>\n    <p class="mt-4 leading-relaxed text-zinc-300">{c["extra"]}</p>\n'
-                 f'    <h2 class="mt-10 text-2xl font-bold font-head">{U["areas_h"]}</h2>\n    {chips(area_links(lang))}\n')
+                 + districts_html(lang))
         write(lang, urls, c, body_for(lang, c, urls, extra))
-
-
-def build_districts():
-    for key, d in DISTRICTS.items():
-        urls = tri(d["slug"])
-        for lang in LANGS:
-            c = dist_copy(key, lang)
-            extra = f'\n    <h2 class="mt-10 text-2xl font-bold font-head">{C[lang]["areas_h"]}</h2>\n    <p class="mt-4 leading-relaxed text-zinc-300">{c["where"]}</p>\n'
-            c["area"] = {"@type": "Place", "name": f"{d['en'][0]}, Tbilisi, Georgia"}
-            write(lang, urls, c, body_for(lang, c, urls, extra))
 
 
 def build_towns():
@@ -602,7 +577,7 @@ def sync_links():
 
 def all_urls():
     out = []
-    for group in [MOBILE["slug"], CALC["slug"]] + [d["slug"] for d in DISTRICTS.values()] + [t["slug"] for t in TOWNS.values()]:
+    for group in [MOBILE["slug"], CALC["slug"]] + [t["slug"] for t in TOWNS.values()]:
         out += [page_url(group[l]) for l in LANGS]
     out += [T.svc_url(TPMS_SLUG, l) for l in LANGS]
     return out
@@ -620,7 +595,7 @@ def sync_sitemap_llms():
     s = p.read_text(encoding="utf-8")
     block = ("\n## Mobile tire service by area (ვულკანიზაცია ადგილზე / выездной шиномонтаж)\n"
              f"- Mobile tire service, 24/7: {SITE}/{MOBILE['slug']['ka']}/ · EN {SITE}/{MOBILE['slug']['en']}/ · RU {SITE}/{MOBILE['slug']['ru']}/\n"
-             + "".join(f"- {DISTRICTS[k]['en'][0]} (Tbilisi): {SITE}/{DISTRICTS[k]['slug']['ka']}/\n" for k in DISTRICTS)
+             + f"- Districts covered (all Tbilisi, one page): {', '.join(district_names('en'))}\n"
              + f"- Rustavi and Ponichala: {SITE}/{TOWNS['rustavi']['slug']['ka']}/\n"
              + f"- Mtskheta, Natakhtari, Saguramo, Tserovani: {SITE}/{TOWNS['mtskheta']['slug']['ka']}/\n"
              + f"- Tire size calculator: {SITE}/{CALC['slug']['ka']}/ · EN {SITE}/{CALC['slug']['en']}/ · RU {SITE}/{CALC['slug']['ru']}/\n"
@@ -629,9 +604,26 @@ def sync_sitemap_llms():
     p.write_text(s, encoding="utf-8")
 
 
+def write_district_redirects():
+    """Separate district pages (live < 1 hour on 2026-11-20) were merged into the mobile-service page; keep their URLs working."""
+    import shutil
+    for d in DISTRICTS.values():
+        for lang in LANGS:
+            new = page_url(MOBILE["slug"][lang])
+            folder = ROOT / d["slug"][lang]
+            if folder.is_dir():
+                shutil.rmtree(folder)
+            folder.mkdir()
+            (folder / "index.html").write_text(
+                f'<!DOCTYPE html>\n<html><head><meta charset="utf-8"><title>Redirect</title>'
+                f'<link rel="canonical" href="{SITE}{new}"><meta name="robots" content="noindex, follow">'
+                f'<meta http-equiv="refresh" content="0; url={new}"></head>'
+                f'<body><a href="{new}">{SITE}{new}</a></body></html>\n', encoding="utf-8")
+
+
 def main():
     build_mobile()
-    build_districts()
+    write_district_redirects()
     build_towns()
     build_calc()
     build_tpms()

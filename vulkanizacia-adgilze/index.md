@@ -39,9 +39,38 @@ Canonical: https://vulkanizacia.ge/vulkanizacia-adgilze/
 
 ვმუშაობთ 24/7 — ღამით, დასვენების დღეებსა და დღესასწაულებზეც. თბილისში ჩვეულებრივ 20-30 წუთში მოვდივართ, შემოგარენში კი — მანძილის მიხედვით.
 
-## სად მოვდივართ
+## ვულკანიზაცია თბილისის ყველა უბანში
 
-[ვაკე](https://vulkanizacia.ge/vulkanizacia-vakeshi/) · [საბურთალო](https://vulkanizacia.ge/vulkanizacia-saburtaloze/) · [ვერა](https://vulkanizacia.ge/vulkanizacia-veraze/) · [მთაწმინდა](https://vulkanizacia.ge/vulkanizacia-mtatsmindaze/) · [ძველი თბილისი](https://vulkanizacia.ge/vulkanizacia-dzvel-tbilisshi/) · [ავლაბარი](https://vulkanizacia.ge/vulkanizacia-avlabarshi/) · [ისანი](https://vulkanizacia.ge/vulkanizacia-isanshi/) · [სამგორი](https://vulkanizacia.ge/vulkanizacia-samgorshi/) · [ვარკეთილი](https://vulkanizacia.ge/vulkanizacia-varketilshi/) · [ჩუღურეთი](https://vulkanizacia.ge/vulkanizacia-chughuretshi/) · [დიდუბე](https://vulkanizacia.ge/vulkanizacia-didubeshi/) · [ნაძალადევი](https://vulkanizacia.ge/vulkanizacia-nadzaladevshi/) · [გლდანი](https://vulkanizacia.ge/vulkanizacia-gldanshi/) · [დიღომი](https://vulkanizacia.ge/vulkanizacia-dighomshi/) · [თემქა](https://vulkanizacia.ge/vulkanizacia-temkaze/) · [ორთაჭალა](https://vulkanizacia.ge/vulkanizacia-ortachalashi/) · [კრწანისი](https://vulkanizacia.ge/vulkanizacia-krtsanisshi/) · [ავჭალა](https://vulkanizacia.ge/vulkanizacia-avchalashi/) · [ლილო](https://vulkanizacia.ge/vulkanizacia-liloshi/) · [ვაზისუბანი](https://vulkanizacia.ge/vulkanizacia-vazisubanshi/) · [წყნეთი](https://vulkanizacia.ge/vulkanizacia-tsknetshi/) · [ოქროყანა](https://vulkanizacia.ge/vulkanizacia-okroqanashi/) · [რუსთავი](https://vulkanizacia.ge/vulkanizacia-rustavshi/) · [მცხეთა](https://vulkanizacia.ge/vulkanizacia-mcxetashi/)
+მოვდივართ თბილისის ნებისმიერ უბანში:
+
+- ვაკე
+- საბურთალო
+- ვერა
+- მთაწმინდა
+- ძველი თბილისი
+- ავლაბარი
+- ისანი
+- სამგორი
+- ვარკეთილი
+- ჩუღურეთი
+- დიდუბე
+- ნაძალადევი
+- გლდანი
+- დიღომი
+- თემქა
+- ორთაჭალა
+- კრწანისი
+- ავჭალა
+- ლილო
+- ვაზისუბანი
+- წყნეთი
+- ოქროყანა
+
+ქალაქში ჩვეულებრივ 20-30 წუთში მოვდივართ, გარეუბნებში (ლილო, წყნეთი, ოქროყანა) კი — მანძილის მიხედვით.
+
+ასევე მოვდივართ თბილისის შემოგარენში:
+
+[რუსთავი](https://vulkanizacia.ge/vulkanizacia-rustavshi/) · [მცხეთა](https://vulkanizacia.ge/vulkanizacia-mcxetashi/)
 
 ## როგორ მუშაობს
 
@@ -98,6 +127,10 @@ Canonical: https://vulkanizacia.ge/vulkanizacia-adgilze/
 
 ფასი დამოკიდებულია სამუშაოსა და ლოკაციაზე. დაგვირეკეთ — ფასს წინასწარ შეგითანხმებთ.
 
+### რომელ უბნებში მოდიხართ?
+
+თბილისის ყველა უბანში — ვაკე, საბურთალო, დიდუბე, გლდანი, ისანი, სამგორი, ვარკეთილი, დიღომი და სხვა — ასევე რუსთავსა და მცხეთაში.
+
 ## გჭირდებათ ვულკანიზაცია?
 
 დაგვირეკეთ ან მოგვწერეთ — ვმუშაობთ 24/7.
@@ -106,4 +139,4 @@ Canonical: https://vulkanizacia.ge/vulkanizacia-adgilze/
 
 ## სად მოვდივართ
 
-[ვაკე](https://vulkanizacia.ge/vulkanizacia-vakeshi/) · [საბურთალო](https://vulkanizacia.ge/vulkanizacia-saburtaloze/) · [ვერა](https://vulkanizacia.ge/vulkanizacia-veraze/) · [მთაწმინდა](https://vulkanizacia.ge/vulkanizacia-mtatsmindaze/) · [ძველი თბილისი](https://vulkanizacia.ge/vulkanizacia-dzvel-tbilisshi/) · [ავლაბარი](https://vulkanizacia.ge/vulkanizacia-avlabarshi/) · [ისანი](https://vulkanizacia.ge/vulkanizacia-isanshi/) · [სამგორი](https://vulkanizacia.ge/vulkanizacia-samgorshi/) · [ვარკეთილი](https://vulkanizacia.ge/vulkanizacia-varketilshi/) · [ჩუღურეთი](https://vulkanizacia.ge/vulkanizacia-chughuretshi/) · [დიდუბე](https://vulkanizacia.ge/vulkanizacia-didubeshi/) · [ნაძალადევი](https://vulkanizacia.ge/vulkanizacia-nadzaladevshi/) · [გლდანი](https://vulkanizacia.ge/vulkanizacia-gldanshi/) · [დიღომი](https://vulkanizacia.ge/vulkanizacia-dighomshi/) · [თემქა](https://vulkanizacia.ge/vulkanizacia-temkaze/) · [ორთაჭალა](https://vulkanizacia.ge/vulkanizacia-ortachalashi/) · [კრწანისი](https://vulkanizacia.ge/vulkanizacia-krtsanisshi/) · [ავჭალა](https://vulkanizacia.ge/vulkanizacia-avchalashi/) · [ლილო](https://vulkanizacia.ge/vulkanizacia-liloshi/) · [ვაზისუბანი](https://vulkanizacia.ge/vulkanizacia-vazisubanshi/) · [წყნეთი](https://vulkanizacia.ge/vulkanizacia-tsknetshi/) · [ოქროყანა](https://vulkanizacia.ge/vulkanizacia-okroqanashi/) · [რუსთავი](https://vulkanizacia.ge/vulkanizacia-rustavshi/) · [მცხეთა](https://vulkanizacia.ge/vulkanizacia-mcxetashi/)
+[რუსთავი](https://vulkanizacia.ge/vulkanizacia-rustavshi/) · [მცხეთა](https://vulkanizacia.ge/vulkanizacia-mcxetashi/)

@@ -39,9 +39,38 @@ Canonical: https://vulkanizacia.ge/vyezdnoy-shinomontazh-tbilisi/
 
 Работаем 24/7 — ночью, в выходные и праздники. По Тбилиси обычно приезжаем за 20–30 минут, в пригороды — в зависимости от расстояния. Важно знать: в Грузии шиномонтаж называют «вулканизация» (ვულკანიზაცია) — это мы.
 
-## Куда мы выезжаем
+## Шиномонтаж во всех районах Тбилиси
 
-[Ваке](https://vulkanizacia.ge/shinomontazh-vake/) · [Сабуртало](https://vulkanizacia.ge/shinomontazh-saburtalo/) · [Вера](https://vulkanizacia.ge/shinomontazh-vera/) · [Мтацминда](https://vulkanizacia.ge/shinomontazh-mtatsminda/) · [Старый Тбилиси](https://vulkanizacia.ge/shinomontazh-old-tbilisi/) · [Авлабари](https://vulkanizacia.ge/shinomontazh-avlabari/) · [Исани](https://vulkanizacia.ge/shinomontazh-isani/) · [Самгори](https://vulkanizacia.ge/shinomontazh-samgori/) · [Варкетили](https://vulkanizacia.ge/shinomontazh-varketili/) · [Чугурети](https://vulkanizacia.ge/shinomontazh-chugureti/) · [Дидубе](https://vulkanizacia.ge/shinomontazh-didube/) · [Надзаладеви](https://vulkanizacia.ge/shinomontazh-nadzaladevi/) · [Глдани](https://vulkanizacia.ge/shinomontazh-gldani/) · [Дигоми](https://vulkanizacia.ge/shinomontazh-dighomi/) · [Темка](https://vulkanizacia.ge/shinomontazh-temka/) · [Ортачала](https://vulkanizacia.ge/shinomontazh-ortachala/) · [Крцаниси](https://vulkanizacia.ge/shinomontazh-krtsanisi/) · [Авчала](https://vulkanizacia.ge/shinomontazh-avchala/) · [Лило](https://vulkanizacia.ge/shinomontazh-lilo/) · [Вазисубани](https://vulkanizacia.ge/shinomontazh-vazisubani/) · [Цхнети](https://vulkanizacia.ge/shinomontazh-tskneti/) · [Окрокана](https://vulkanizacia.ge/shinomontazh-okrokana/) · [Рустави](https://vulkanizacia.ge/shinomontazh-rustavi/) · [Мцхета](https://vulkanizacia.ge/shinomontazh-mtskheta/)
+Выезжаем в любой район Тбилиси:
+
+- Ваке
+- Сабуртало
+- Вера
+- Мтацминда
+- Старый Тбилиси
+- Авлабари
+- Исани
+- Самгори
+- Варкетили
+- Чугурети
+- Дидубе
+- Надзаладеви
+- Глдани
+- Дигоми
+- Темка
+- Ортачала
+- Крцаниси
+- Авчала
+- Лило
+- Вазисубани
+- Цхнети
+- Окрокана
+
+По городу обычно приезжаем за 20–30 минут, на окраины (Лило, Цхнети, Окрокана) — в зависимости от расстояния.
+
+Также выезжаем в пригороды:
+
+[Рустави](https://vulkanizacia.ge/shinomontazh-rustavi/) · [Мцхета](https://vulkanizacia.ge/shinomontazh-mtskheta/)
 
 ## Как это работает
 
@@ -98,6 +127,10 @@ Canonical: https://vulkanizacia.ge/vyezdnoy-shinomontazh-tbilisi/
 
 Цена зависит от работы и места. Позвоните — согласуем цену заранее.
 
+### В какие районы вы выезжаете?
+
+Во все районы Тбилиси — Ваке, Сабуртало, Дидубе, Глдани, Исани, Самгори, Варкетили, Дигоми и другие, а также в Рустави и Мцхету.
+
 ## Нужен шиномонтаж?
 
 Позвоните или напишите — работаем 24/7.
@@ -106,4 +139,4 @@ Canonical: https://vulkanizacia.ge/vyezdnoy-shinomontazh-tbilisi/
 
 ## Куда мы выезжаем
 
-[Ваке](https://vulkanizacia.ge/shinomontazh-vake/) · [Сабуртало](https://vulkanizacia.ge/shinomontazh-saburtalo/) · [Вера](https://vulkanizacia.ge/shinomontazh-vera/) · [Мтацминда](https://vulkanizacia.ge/shinomontazh-mtatsminda/) · [Старый Тбилиси](https://vulkanizacia.ge/shinomontazh-old-tbilisi/) · [Авлабари](https://vulkanizacia.ge/shinomontazh-avlabari/) · [Исани](https://vulkanizacia.ge/shinomontazh-isani/) · [Самгори](https://vulkanizacia.ge/shinomontazh-samgori/) · [Варкетили](https://vulkanizacia.ge/shinomontazh-varketili/) · [Чугурети](https://vulkanizacia.ge/shinomontazh-chugureti/) · [Дидубе](https://vulkanizacia.ge/shinomontazh-didube/) · [Надзаладеви](https://vulkanizacia.ge/shinomontazh-nadzaladevi/) · [Глдани](https://vulkanizacia.ge/shinomontazh-gldani/) · [Дигоми](https://vulkanizacia.ge/shinomontazh-dighomi/) · [Темка](https://vulkanizacia.ge/shinomontazh-temka/) · [Ортачала](https://vulkanizacia.ge/shinomontazh-ortachala/) · [Крцаниси](https://vulkanizacia.ge/shinomontazh-krtsanisi/) · [Авчала](https://vulkanizacia.ge/shinomontazh-avchala/) · [Лило](https://vulkanizacia.ge/shinomontazh-lilo/) · [Вазисубани](https://vulkanizacia.ge/shinomontazh-vazisubani/) · [Цхнети](https://vulkanizacia.ge/shinomontazh-tskneti/) · [Окрокана](https://vulkanizacia.ge/shinomontazh-okrokana/) · [Рустави](https://vulkanizacia.ge/shinomontazh-rustavi/) · [Мцхета](https://vulkanizacia.ge/shinomontazh-mtskheta/)
+[Рустави](https://vulkanizacia.ge/shinomontazh-rustavi/) · [Мцхета](https://vulkanizacia.ge/shinomontazh-mtskheta/)
