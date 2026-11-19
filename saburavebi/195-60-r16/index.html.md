@@ -4,6 +4,8 @@
 
 Canonical: https://vulkanizacia.ge/saburavebi/195-60-r16/
 
+[ka](https://vulkanizacia.ge/saburavebi/195-60-r16/) · [en](https://vulkanizacia.ge/tyres/195-60-r16/) · [ru](https://vulkanizacia.ge/shiny/195-60-r16/)
+
 ## ძირითადი ინფორმაცია
 - კომპანია: Vulkanizacia.ge — მოძრავი ვულკანიზაცია და საბურავები თბილისში
 - ტელეფონი: +995 591 90 90 13 (WhatsApp / Viber)
@@ -16,7 +18,7 @@ Canonical: https://vulkanizacia.ge/saburavebi/195-60-r16/
 
 [საბურავები →](https://vulkanizacia.ge/saburavebi/) · [სერვისები](https://vulkanizacia.ge/index.html#services) · [უპირატესობები](https://vulkanizacia.ge/index.html#why) · [კონტაქტი](https://vulkanizacia.ge/index.html#contact)
 
-[ქა](https://vulkanizacia.ge/saburavebi/195-60-r16/) · [EN](https://vulkanizacia.ge/saburavebi/index-en.html) · [RU](https://vulkanizacia.ge/saburavebi/index-ru.html)
+[ქა](https://vulkanizacia.ge/saburavebi/195-60-r16/) · [EN](https://vulkanizacia.ge/tyres/195-60-r16/) · [RU](https://vulkanizacia.ge/shiny/195-60-r16/)
 
 საბურავები
 

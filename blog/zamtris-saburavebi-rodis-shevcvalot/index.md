@@ -4,6 +4,8 @@
 
 Canonical: https://vulkanizacia.ge/blog/zamtris-saburavebi-rodis-shevcvalot/
 
+[ka](https://vulkanizacia.ge/blog/zamtris-saburavebi-rodis-shevcvalot/) · [en](https://vulkanizacia.ge/blog/winter-tyres-when-to-change/) · [ru](https://vulkanizacia.ge/blog/zimnie-shiny-kogda-menyat/)
+
 ## ძირითადი ინფორმაცია
 - კომპანია: Vulkanizacia.ge — მოძრავი ვულკანიზაცია და საბურავები თბილისში
 - ტელეფონი: +995 591 90 90 13 (WhatsApp / Viber)
@@ -16,7 +18,7 @@ Canonical: https://vulkanizacia.ge/blog/zamtris-saburavebi-rodis-shevcvalot/
 
 [საბურავები →](https://vulkanizacia.ge/saburavebi/) · [სერვისები](https://vulkanizacia.ge/index.html#services) · [რჩევები](https://vulkanizacia.ge/blog/) · [კონტაქტი](https://vulkanizacia.ge/index.html#contact)
 
-[ქა](https://vulkanizacia.ge/blog/zamtris-saburavebi-rodis-shevcvalot/) · [EN](https://vulkanizacia.ge/index-en.html) · [RU](https://vulkanizacia.ge/index-ru.html)
+[ქა](https://vulkanizacia.ge/blog/zamtris-saburavebi-rodis-shevcvalot/) · [EN](https://vulkanizacia.ge/blog/winter-tyres-when-to-change/) · [RU](https://vulkanizacia.ge/blog/zimnie-shiny-kogda-menyat/)
 
  2026-11-03 · რჩევები
 

@@ -216,6 +216,35 @@ def build(rel):
     return rel, lang, title, md
 
 
+CALL_LABEL = {"ka": "დარეკვა", "en": "Call", "ru": "Позвонить"}
+
+
+def a11y(files):
+    """Site-wide accessibility fixes (Lighthouse), idempotent:
+    - <main> landmark around the page content
+    - accessible name on the icon-only header call link (phones)
+    - bigger tap targets for footer phone/email links
+    - WCAG AA contrast: WhatsApp dark text on green, darker Viber purple, no zinc-500/600 text on the dark background
+    """
+    for rel in files:
+        p = ROOT / rel
+        s = p.read_text(encoding="utf-8")
+        o = s
+        lang = (re.search(r'<html lang="(\w+)"', s) or [None, "ka"])[1]
+        if "<main" not in s and "</header>" in s and "<footer" in s:
+            h = s.index("</header>") + len("</header>")
+            f = s.index("<!-- Footer -->") if "<!-- Footer -->" in s else s.index("<footer")
+            s = s[:h] + '\n<main id="main">' + s[h:f] + "</main>\n\n" + s[f:]
+        s = re.sub(r'<a href="tel:\+995591909013" class="(inline-flex items-center gap-2 rounded-lg bg-brand px-3 py-2[^"]*)">',
+                   lambda m: f'<a href="tel:+995591909013" class="{m.group(1)}" aria-label="{CALL_LABEL.get(lang, "Call")}: +995 591 90 90 13">', s)
+        s = s.replace('class="block hover:text-brand"', 'class="block py-1.5 hover:text-brand"')
+        s = re.sub(r'class="([^"]*bg-\[#25D366\][^"]*)"', lambda m: 'class="' + m.group(1).replace("text-white", "text-zinc-950") + '"', s)
+        s = s.replace("bg-[#7360f2]", "bg-[#5b4bd8]")
+        s = re.sub(r'(?<![:\w-])text-zinc-(500|600)(?![\w-])', "text-zinc-400", s)
+        if s != o:
+            p.write_text(s, encoding="utf-8")
+
+
 def bust_css(files):
     """Stamp /assets/styles.css?v=<hash> on every page so browsers never use a stale stylesheet."""
     import hashlib
@@ -232,7 +261,10 @@ def main():
     files = subprocess.run(["git", "ls-files", "*.html"], cwd=ROOT, capture_output=True, text=True).stdout.split()
     files += [str(p.relative_to(ROOT)) for p in ROOT.glob("**/*.html")
               if str(p.relative_to(ROOT)) not in files and "node_modules" not in p.parts]
+    a11y(sorted(set(files)))
     bust_css(sorted(set(files)))
+    # redirect stubs (old URLs) are not content pages
+    files = [f for f in files if 'http-equiv="refresh"' not in (ROOT / f).read_text(encoding="utf-8")]
     order = {"ka": 0, "en": 1, "ru": 2}
     pages = sorted((build(f) for f in sorted(set(files))),
                    key=lambda x: (order[x[1]], x[0] != "index.html" and not x[0].startswith("index-"), x[0]))

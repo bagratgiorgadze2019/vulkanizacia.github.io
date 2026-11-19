@@ -16,7 +16,7 @@ Canonical: https://vulkanizacia.ge/index-ru.html
 - Шины: https://vulkanizacia.ge/saburavebi/index-ru.html
 - Эвакуатор: https://towing.ge (+995 514 90 80 90)
 
-[Шины →](https://vulkanizacia.ge/saburavebi/index-ru.html) · [Услуги](https://vulkanizacia.ge/index-ru.html#services) · [Преимущества](https://vulkanizacia.ge/index-ru.html#why) · [Вопросы](https://vulkanizacia.ge/index-ru.html#faq) · [Контакты](https://vulkanizacia.ge/index-ru.html#contact)
+[Шины →](https://vulkanizacia.ge/shiny/) · [Услуги](https://vulkanizacia.ge/index-ru.html#services) · [Преимущества](https://vulkanizacia.ge/index-ru.html#why) · [Вопросы](https://vulkanizacia.ge/index-ru.html#faq) · [Контакты](https://vulkanizacia.ge/index-ru.html#contact)
 
 [ქა](https://vulkanizacia.ge/index.html) · [EN](https://vulkanizacia.ge/index-en.html) · [RU](https://vulkanizacia.ge/index-ru.html)
 
@@ -93,9 +93,9 @@ Canonical: https://vulkanizacia.ge/index-ru.html
 
 Новые и б/у шины — с доставкой, монтажом и балансировкой на месте.
 
-[Все размеры и подробности →](https://vulkanizacia.ge/saburavebi/index-ru.html)
+[Все размеры и подробности →](https://vulkanizacia.ge/shiny/)
 
-[185/65 R15](https://vulkanizacia.ge/saburavebi/185-65-r15/) · [195/65 R15](https://vulkanizacia.ge/saburavebi/195-65-r15/) · [205/55 R16](https://vulkanizacia.ge/saburavebi/205-55-r16/) · [215/60 R16](https://vulkanizacia.ge/saburavebi/215-60-r16/) · [215/55 R17](https://vulkanizacia.ge/saburavebi/215-55-r17/) · [225/45 R17](https://vulkanizacia.ge/saburavebi/225-45-r17/) · [225/55 R17](https://vulkanizacia.ge/saburavebi/225-55-r17/) · [225/65 R17](https://vulkanizacia.ge/saburavebi/225-65-r17/) · [235/55 R18](https://vulkanizacia.ge/saburavebi/235-55-r18/) · [245/45 R18](https://vulkanizacia.ge/saburavebi/245-45-r18/) · [235/55 R19](https://vulkanizacia.ge/saburavebi/235-55-r19/) · [235/35 R20](https://vulkanizacia.ge/saburavebi/235-35-r20/) · [R13](https://vulkanizacia.ge/saburavebi/r13/) · [R14](https://vulkanizacia.ge/saburavebi/r14/) · [R15](https://vulkanizacia.ge/saburavebi/r15/) · [R16](https://vulkanizacia.ge/saburavebi/r16/) · [R17](https://vulkanizacia.ge/saburavebi/r17/) · [R18](https://vulkanizacia.ge/saburavebi/r18/) · [R19](https://vulkanizacia.ge/saburavebi/r19/) · [R20](https://vulkanizacia.ge/saburavebi/r20/)
+[185/65 R15](https://vulkanizacia.ge/shiny/185-65-r15/) · [195/65 R15](https://vulkanizacia.ge/shiny/195-65-r15/) · [205/55 R16](https://vulkanizacia.ge/shiny/205-55-r16/) · [215/60 R16](https://vulkanizacia.ge/shiny/215-60-r16/) · [215/55 R17](https://vulkanizacia.ge/shiny/215-55-r17/) · [225/45 R17](https://vulkanizacia.ge/shiny/225-45-r17/) · [225/55 R17](https://vulkanizacia.ge/shiny/225-55-r17/) · [225/65 R17](https://vulkanizacia.ge/shiny/225-65-r17/) · [235/55 R18](https://vulkanizacia.ge/shiny/235-55-r18/) · [245/45 R18](https://vulkanizacia.ge/shiny/245-45-r18/) · [235/55 R19](https://vulkanizacia.ge/shiny/235-55-r19/) · [235/35 R20](https://vulkanizacia.ge/shiny/235-35-r20/) · [R13](https://vulkanizacia.ge/shiny/r13/) · [R14](https://vulkanizacia.ge/shiny/r14/) · [R15](https://vulkanizacia.ge/shiny/r15/) · [R16](https://vulkanizacia.ge/shiny/r16/) · [R17](https://vulkanizacia.ge/shiny/r17/) · [R18](https://vulkanizacia.ge/shiny/r18/) · [R19](https://vulkanizacia.ge/shiny/r19/) · [R20](https://vulkanizacia.ge/shiny/r20/)
 
 ## Почему мы
 

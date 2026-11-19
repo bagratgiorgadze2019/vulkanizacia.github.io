@@ -16,7 +16,7 @@ Canonical: https://vulkanizacia.ge/vulkanizaciya-po-vyzovu-tbilisi/
 - Шины: https://vulkanizacia.ge/saburavebi/index-ru.html
 - Эвакуатор: https://towing.ge (+995 514 90 80 90)
 
-[Шины →](https://vulkanizacia.ge/saburavebi/index-ru.html) · [Услуги](https://vulkanizacia.ge/index-ru.html#services) · [Преимущества](https://vulkanizacia.ge/index-ru.html#why) · [Контакты](https://vulkanizacia.ge/index-ru.html#contact)
+[Шины →](https://vulkanizacia.ge/shiny/) · [Услуги](https://vulkanizacia.ge/index-ru.html#services) · [Преимущества](https://vulkanizacia.ge/index-ru.html#why) · [Контакты](https://vulkanizacia.ge/index-ru.html#contact)
 
 [ქა](https://vulkanizacia.ge/vulkanizacia-gamodzaxebit-tbilisshi/) · [EN](https://vulkanizacia.ge/vulcanization-on-call-tbilisi/) · [RU](https://vulkanizacia.ge/vulkanizaciya-po-vyzovu-tbilisi/)
 

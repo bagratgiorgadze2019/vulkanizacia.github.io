@@ -4,6 +4,8 @@
 
 Canonical: https://vulkanizacia.ge/saburavebi/zamtris-saburavebi/
 
+[ka](https://vulkanizacia.ge/saburavebi/zamtris-saburavebi/) · [en](https://vulkanizacia.ge/tyres/winter-tyres/) · [ru](https://vulkanizacia.ge/shiny/zimnie-shiny/)
+
 ## ძირითადი ინფორმაცია
 - კომპანია: Vulkanizacia.ge — მოძრავი ვულკანიზაცია და საბურავები თბილისში
 - ტელეფონი: +995 591 90 90 13 (WhatsApp / Viber)
@@ -16,7 +18,7 @@ Canonical: https://vulkanizacia.ge/saburavebi/zamtris-saburavebi/
 
 [საბურავები →](https://vulkanizacia.ge/saburavebi/) · [სერვისები](https://vulkanizacia.ge/index.html#services) · [უპირატესობები](https://vulkanizacia.ge/index.html#why) · [კონტაქტი](https://vulkanizacia.ge/index.html#contact)
 
-[ქა](https://vulkanizacia.ge/saburavebi/zamtris-saburavebi/) · [EN](https://vulkanizacia.ge/saburavebi/index-en.html) · [RU](https://vulkanizacia.ge/saburavebi/index-ru.html)
+[ქა](https://vulkanizacia.ge/saburavebi/zamtris-saburavebi/) · [EN](https://vulkanizacia.ge/tyres/winter-tyres/) · [RU](https://vulkanizacia.ge/shiny/zimnie-shiny/)
 
 საბურავები
 

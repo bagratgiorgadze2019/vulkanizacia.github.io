@@ -4,6 +4,8 @@
 
 Canonical: https://vulkanizacia.ge/blog/saburavis-sheketeba-tu-shecvla/
 
+[ka](https://vulkanizacia.ge/blog/saburavis-sheketeba-tu-shecvla/) · [en](https://vulkanizacia.ge/blog/tyre-repair-or-replacement/) · [ru](https://vulkanizacia.ge/blog/remont-ili-zamena-shiny/)
+
 ## ძირითადი ინფორმაცია
 - კომპანია: Vulkanizacia.ge — მოძრავი ვულკანიზაცია და საბურავები თბილისში
 - ტელეფონი: +995 591 90 90 13 (WhatsApp / Viber)
@@ -16,7 +18,7 @@ Canonical: https://vulkanizacia.ge/blog/saburavis-sheketeba-tu-shecvla/
 
 [საბურავები →](https://vulkanizacia.ge/saburavebi/) · [სერვისები](https://vulkanizacia.ge/index.html#services) · [რჩევები](https://vulkanizacia.ge/blog/) · [კონტაქტი](https://vulkanizacia.ge/index.html#contact)
 
-[ქა](https://vulkanizacia.ge/blog/saburavis-sheketeba-tu-shecvla/) · [EN](https://vulkanizacia.ge/index-en.html) · [RU](https://vulkanizacia.ge/index-ru.html)
+[ქა](https://vulkanizacia.ge/blog/saburavis-sheketeba-tu-shecvla/) · [EN](https://vulkanizacia.ge/blog/tyre-repair-or-replacement/) · [RU](https://vulkanizacia.ge/blog/remont-ili-zamena-shiny/)
 
  2026-07-02 · რჩევები
 

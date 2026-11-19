@@ -4,6 +4,8 @@
 
 Canonical: https://vulkanizacia.ge/blog/diskis-dadugheba-rodis-sheidzleba/
 
+[ka](https://vulkanizacia.ge/blog/diskis-dadugheba-rodis-sheidzleba/) · [en](https://vulkanizacia.ge/blog/rim-welding-when-is-it-possible/) · [ru](https://vulkanizacia.ge/blog/svarka-diskov-kogda-vozmozhna/)
+
 ## ძირითადი ინფორმაცია
 - კომპანია: Vulkanizacia.ge — მოძრავი ვულკანიზაცია და საბურავები თბილისში
 - ტელეფონი: +995 591 90 90 13 (WhatsApp / Viber)
@@ -16,7 +18,7 @@ Canonical: https://vulkanizacia.ge/blog/diskis-dadugheba-rodis-sheidzleba/
 
 [საბურავები →](https://vulkanizacia.ge/saburavebi/) · [სერვისები](https://vulkanizacia.ge/index.html#services) · [რჩევები](https://vulkanizacia.ge/blog/) · [კონტაქტი](https://vulkanizacia.ge/index.html#contact)
 
-[ქა](https://vulkanizacia.ge/blog/diskis-dadugheba-rodis-sheidzleba/) · [EN](https://vulkanizacia.ge/index-en.html) · [RU](https://vulkanizacia.ge/index-ru.html)
+[ქა](https://vulkanizacia.ge/blog/diskis-dadugheba-rodis-sheidzleba/) · [EN](https://vulkanizacia.ge/blog/rim-welding-when-is-it-possible/) · [RU](https://vulkanizacia.ge/blog/svarka-diskov-kogda-vozmozhna/)
 
  2026-07-02 · რჩევები
 

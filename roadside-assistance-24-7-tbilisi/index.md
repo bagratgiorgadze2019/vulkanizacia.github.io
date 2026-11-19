@@ -16,7 +16,7 @@ Canonical: https://vulkanizacia.ge/roadside-assistance-24-7-tbilisi/
 - Tyres: https://vulkanizacia.ge/saburavebi/index-en.html
 - Tow truck: https://towing.ge (+995 514 90 80 90)
 
-[Tyres →](https://vulkanizacia.ge/saburavebi/index-en.html) · [Services](https://vulkanizacia.ge/index-en.html#services) · [Why us](https://vulkanizacia.ge/index-en.html#why) · [Contact](https://vulkanizacia.ge/index-en.html#contact)
+[Tyres →](https://vulkanizacia.ge/tyres/) · [Services](https://vulkanizacia.ge/index-en.html#services) · [Why us](https://vulkanizacia.ge/index-en.html#why) · [Contact](https://vulkanizacia.ge/index-en.html#contact)
 
 [ქა](https://vulkanizacia.ge/sagzao-daxmareba-24-7-tbilisi/) · [EN](https://vulkanizacia.ge/roadside-assistance-24-7-tbilisi/) · [RU](https://vulkanizacia.ge/tehpomoshch-na-doroge-24-7-tbilisi/)
 

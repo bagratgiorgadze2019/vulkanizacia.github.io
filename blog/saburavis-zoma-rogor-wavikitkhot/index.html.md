@@ -4,6 +4,8 @@
 
 Canonical: https://vulkanizacia.ge/blog/saburavis-zoma-rogor-wavikitkhot/
 
+[ka](https://vulkanizacia.ge/blog/saburavis-zoma-rogor-wavikitkhot/) · [en](https://vulkanizacia.ge/blog/how-to-read-tyre-size/) · [ru](https://vulkanizacia.ge/blog/kak-prochitat-razmer-shiny/)
+
 ## ძირითადი ინფორმაცია
 - კომპანია: Vulkanizacia.ge — მოძრავი ვულკანიზაცია და საბურავები თბილისში
 - ტელეფონი: +995 591 90 90 13 (WhatsApp / Viber)
@@ -16,7 +18,7 @@ Canonical: https://vulkanizacia.ge/blog/saburavis-zoma-rogor-wavikitkhot/
 
 [საბურავები →](https://vulkanizacia.ge/saburavebi/) · [სერვისები](https://vulkanizacia.ge/index.html#services) · [რჩევები](https://vulkanizacia.ge/blog/) · [კონტაქტი](https://vulkanizacia.ge/index.html#contact)
 
-[ქა](https://vulkanizacia.ge/blog/saburavis-zoma-rogor-wavikitkhot/) · [EN](https://vulkanizacia.ge/index-en.html) · [RU](https://vulkanizacia.ge/index-ru.html)
+[ქა](https://vulkanizacia.ge/blog/saburavis-zoma-rogor-wavikitkhot/) · [EN](https://vulkanizacia.ge/blog/how-to-read-tyre-size/) · [RU](https://vulkanizacia.ge/blog/kak-prochitat-razmer-shiny/)
 
  2026-11-03 · რჩევები
 

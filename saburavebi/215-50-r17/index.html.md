@@ -4,6 +4,8 @@
 
 Canonical: https://vulkanizacia.ge/saburavebi/215-50-r17/
 
+[ka](https://vulkanizacia.ge/saburavebi/215-50-r17/) · [en](https://vulkanizacia.ge/tyres/215-50-r17/) · [ru](https://vulkanizacia.ge/shiny/215-50-r17/)
+
 ## ძირითადი ინფორმაცია
 - კომპანია: Vulkanizacia.ge — მოძრავი ვულკანიზაცია და საბურავები თბილისში
 - ტელეფონი: +995 591 90 90 13 (WhatsApp / Viber)
@@ -16,7 +18,7 @@ Canonical: https://vulkanizacia.ge/saburavebi/215-50-r17/
 
 [საბურავები →](https://vulkanizacia.ge/saburavebi/) · [სერვისები](https://vulkanizacia.ge/index.html#services) · [უპირატესობები](https://vulkanizacia.ge/index.html#why) · [კონტაქტი](https://vulkanizacia.ge/index.html#contact)
 
-[ქა](https://vulkanizacia.ge/saburavebi/215-50-r17/) · [EN](https://vulkanizacia.ge/saburavebi/index-en.html) · [RU](https://vulkanizacia.ge/saburavebi/index-ru.html)
+[ქა](https://vulkanizacia.ge/saburavebi/215-50-r17/) · [EN](https://vulkanizacia.ge/tyres/215-50-r17/) · [RU](https://vulkanizacia.ge/shiny/215-50-r17/)
 
 საბურავები
 

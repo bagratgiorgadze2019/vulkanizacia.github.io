@@ -1,0 +1,10 @@
+{
+  "_comment": "Blog article URLs per language: /blog/<slug>/. Georgian slugs are the original (ranked) ones — never change them.",
+  "flat":     {"ka": "saburavi-gzashi-dagexa-ra-vqna",      "en": "flat-tyre-on-the-road-what-to-do", "ru": "lopnula-shina-v-doroge-chto-delat"},
+  "repair":   {"ka": "saburavis-sheketeba-tu-shecvla",      "en": "tyre-repair-or-replacement",       "ru": "remont-ili-zamena-shiny"},
+  "rim":      {"ka": "diskis-dadugheba-rodis-sheidzleba",   "en": "rim-welding-when-is-it-possible",  "ru": "svarka-diskov-kogda-vozmozhna"},
+  "winter":   {"ka": "zamtris-saburavebi-rodis-shevcvalot", "en": "winter-tyres-when-to-change",      "ru": "zimnie-shiny-kogda-menyat"},
+  "pressure": {"ka": "saburavis-wneva-ramdeni-unda-iyos",   "en": "tyre-pressure-what-should-it-be",  "ru": "davlenie-v-shinah"},
+  "when":     {"ka": "rodis-unda-sheicvalos-saburavi",      "en": "when-to-replace-tyres",            "ru": "kogda-menyat-shiny"},
+  "size":     {"ka": "saburavis-zoma-rogor-wavikitkhot",    "en": "how-to-read-tyre-size",            "ru": "kak-prochitat-razmer-shiny"}
+}

@@ -4,6 +4,8 @@
 
 Canonical: https://vulkanizacia.ge/blog/saburavis-wneva-ramdeni-unda-iyos/
 
+[ka](https://vulkanizacia.ge/blog/saburavis-wneva-ramdeni-unda-iyos/) · [en](https://vulkanizacia.ge/blog/tyre-pressure-what-should-it-be/) · [ru](https://vulkanizacia.ge/blog/davlenie-v-shinah/)
+
 ## ძირითადი ინფორმაცია
 - კომპანია: Vulkanizacia.ge — მოძრავი ვულკანიზაცია და საბურავები თბილისში
 - ტელეფონი: +995 591 90 90 13 (WhatsApp / Viber)
@@ -16,7 +18,7 @@ Canonical: https://vulkanizacia.ge/blog/saburavis-wneva-ramdeni-unda-iyos/
 
 [საბურავები →](https://vulkanizacia.ge/saburavebi/) · [სერვისები](https://vulkanizacia.ge/index.html#services) · [რჩევები](https://vulkanizacia.ge/blog/) · [კონტაქტი](https://vulkanizacia.ge/index.html#contact)
 
-[ქა](https://vulkanizacia.ge/blog/saburavis-wneva-ramdeni-unda-iyos/) · [EN](https://vulkanizacia.ge/index-en.html) · [RU](https://vulkanizacia.ge/index-ru.html)
+[ქა](https://vulkanizacia.ge/blog/saburavis-wneva-ramdeni-unda-iyos/) · [EN](https://vulkanizacia.ge/blog/tyre-pressure-what-should-it-be/) · [RU](https://vulkanizacia.ge/blog/davlenie-v-shinah/)
 
  2026-11-03 · რჩევები
 

@@ -32,6 +32,7 @@ Each service has a dedicated page (Georgian / English / Russian via index-en.htm
 <!-- tyres:start -->
 ## Tyres (საბურავები) — sale, delivery and fitting
 - Tyre catalogue by size, new and used, summer/winter/all-season; delivered, fitted and balanced on site in Tbilisi 24/7; price and stock by phone/WhatsApp +995 591 90 90 13: https://vulkanizacia.ge/saburavebi/
+- English: https://vulkanizacia.ge/tyres/ · Russian: https://vulkanizacia.ge/shiny/ (every size, rim and category page exists in all three languages)
 - ახალი საბურავები: https://vulkanizacia.ge/saburavebi/axali-saburavebi/
 - მეორადი საბურავები: https://vulkanizacia.ge/saburavebi/meoradi-saburavebi/
 - ზამთრის საბურავები: https://vulkanizacia.ge/saburavebi/zamtris-saburavebi/

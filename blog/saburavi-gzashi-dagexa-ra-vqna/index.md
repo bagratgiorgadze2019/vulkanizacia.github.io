@@ -4,6 +4,8 @@
 
 Canonical: https://vulkanizacia.ge/blog/saburavi-gzashi-dagexa-ra-vqna/
 
+[ka](https://vulkanizacia.ge/blog/saburavi-gzashi-dagexa-ra-vqna/) · [en](https://vulkanizacia.ge/blog/flat-tyre-on-the-road-what-to-do/) · [ru](https://vulkanizacia.ge/blog/lopnula-shina-v-doroge-chto-delat/)
+
 ## ძირითადი ინფორმაცია
 - კომპანია: Vulkanizacia.ge — მოძრავი ვულკანიზაცია და საბურავები თბილისში
 - ტელეფონი: +995 591 90 90 13 (WhatsApp / Viber)
@@ -16,7 +18,7 @@ Canonical: https://vulkanizacia.ge/blog/saburavi-gzashi-dagexa-ra-vqna/
 
 [საბურავები →](https://vulkanizacia.ge/saburavebi/) · [სერვისები](https://vulkanizacia.ge/index.html#services) · [რჩევები](https://vulkanizacia.ge/blog/) · [კონტაქტი](https://vulkanizacia.ge/index.html#contact)
 
-[ქა](https://vulkanizacia.ge/blog/saburavi-gzashi-dagexa-ra-vqna/) · [EN](https://vulkanizacia.ge/index-en.html) · [RU](https://vulkanizacia.ge/index-ru.html)
+[ქა](https://vulkanizacia.ge/blog/saburavi-gzashi-dagexa-ra-vqna/) · [EN](https://vulkanizacia.ge/blog/flat-tyre-on-the-road-what-to-do/) · [RU](https://vulkanizacia.ge/blog/lopnula-shina-v-doroge-chto-delat/)
 
  2026-07-02 · რჩევები
 

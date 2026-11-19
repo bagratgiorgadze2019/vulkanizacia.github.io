@@ -4,7 +4,7 @@
 
 Canonical: https://vulkanizacia.ge/saburavebi/
 
-[ka](https://vulkanizacia.ge/saburavebi/) · [en](https://vulkanizacia.ge/saburavebi/index-en.html) · [ru](https://vulkanizacia.ge/saburavebi/index-ru.html)
+[ka](https://vulkanizacia.ge/saburavebi/) · [en](https://vulkanizacia.ge/tyres/) · [ru](https://vulkanizacia.ge/shiny/)
 
 ## ძირითადი ინფორმაცია
 - კომპანია: Vulkanizacia.ge — მოძრავი ვულკანიზაცია და საბურავები თბილისში
@@ -18,7 +18,7 @@ Canonical: https://vulkanizacia.ge/saburavebi/
 
 [საბურავები →](https://vulkanizacia.ge/saburavebi/) · [სერვისები](https://vulkanizacia.ge/index.html#services) · [უპირატესობები](https://vulkanizacia.ge/index.html#why) · [კონტაქტი](https://vulkanizacia.ge/index.html#contact)
 
-[ქა](https://vulkanizacia.ge/saburavebi/) · [EN](https://vulkanizacia.ge/saburavebi/index-en.html) · [RU](https://vulkanizacia.ge/saburavebi/index-ru.html)
+[ქა](https://vulkanizacia.ge/saburavebi/) · [EN](https://vulkanizacia.ge/tyres/) · [RU](https://vulkanizacia.ge/shiny/)
 
 
 ახალი და მეორადი საბურავები — ზაფხულის, ზამთრის და ყველა სეზონის. შეარჩიეთ ზომა — მოგიტანთ, ადგილზე დაგიყენებთ და დავაბალანსებთ. 24/7.

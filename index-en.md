@@ -16,7 +16,7 @@ Canonical: https://vulkanizacia.ge/index-en.html
 - Tyres: https://vulkanizacia.ge/saburavebi/index-en.html
 - Tow truck: https://towing.ge (+995 514 90 80 90)
 
-[Tyres →](https://vulkanizacia.ge/saburavebi/index-en.html) · [Services](https://vulkanizacia.ge/index-en.html#services) · [Why us](https://vulkanizacia.ge/index-en.html#why) · [FAQ](https://vulkanizacia.ge/index-en.html#faq) · [Contact](https://vulkanizacia.ge/index-en.html#contact)
+[Tyres →](https://vulkanizacia.ge/tyres/) · [Services](https://vulkanizacia.ge/index-en.html#services) · [Why us](https://vulkanizacia.ge/index-en.html#why) · [FAQ](https://vulkanizacia.ge/index-en.html#faq) · [Contact](https://vulkanizacia.ge/index-en.html#contact)
 
 [ქა](https://vulkanizacia.ge/index.html) · [EN](https://vulkanizacia.ge/index-en.html) · [RU](https://vulkanizacia.ge/index-ru.html)
 
@@ -93,9 +93,9 @@ Locked out? We open your car without damage.
 
 New and used tyres — delivered, fitted and balanced on site.
 
-[All sizes and details →](https://vulkanizacia.ge/saburavebi/index-en.html)
+[All sizes and details →](https://vulkanizacia.ge/tyres/)
 
-[185/65 R15](https://vulkanizacia.ge/saburavebi/185-65-r15/) · [195/65 R15](https://vulkanizacia.ge/saburavebi/195-65-r15/) · [205/55 R16](https://vulkanizacia.ge/saburavebi/205-55-r16/) · [215/60 R16](https://vulkanizacia.ge/saburavebi/215-60-r16/) · [215/55 R17](https://vulkanizacia.ge/saburavebi/215-55-r17/) · [225/45 R17](https://vulkanizacia.ge/saburavebi/225-45-r17/) · [225/55 R17](https://vulkanizacia.ge/saburavebi/225-55-r17/) · [225/65 R17](https://vulkanizacia.ge/saburavebi/225-65-r17/) · [235/55 R18](https://vulkanizacia.ge/saburavebi/235-55-r18/) · [245/45 R18](https://vulkanizacia.ge/saburavebi/245-45-r18/) · [235/55 R19](https://vulkanizacia.ge/saburavebi/235-55-r19/) · [235/35 R20](https://vulkanizacia.ge/saburavebi/235-35-r20/) · [R13](https://vulkanizacia.ge/saburavebi/r13/) · [R14](https://vulkanizacia.ge/saburavebi/r14/) · [R15](https://vulkanizacia.ge/saburavebi/r15/) · [R16](https://vulkanizacia.ge/saburavebi/r16/) · [R17](https://vulkanizacia.ge/saburavebi/r17/) · [R18](https://vulkanizacia.ge/saburavebi/r18/) · [R19](https://vulkanizacia.ge/saburavebi/r19/) · [R20](https://vulkanizacia.ge/saburavebi/r20/)
+[185/65 R15](https://vulkanizacia.ge/tyres/185-65-r15/) · [195/65 R15](https://vulkanizacia.ge/tyres/195-65-r15/) · [205/55 R16](https://vulkanizacia.ge/tyres/205-55-r16/) · [215/60 R16](https://vulkanizacia.ge/tyres/215-60-r16/) · [215/55 R17](https://vulkanizacia.ge/tyres/215-55-r17/) · [225/45 R17](https://vulkanizacia.ge/tyres/225-45-r17/) · [225/55 R17](https://vulkanizacia.ge/tyres/225-55-r17/) · [225/65 R17](https://vulkanizacia.ge/tyres/225-65-r17/) · [235/55 R18](https://vulkanizacia.ge/tyres/235-55-r18/) · [245/45 R18](https://vulkanizacia.ge/tyres/245-45-r18/) · [235/55 R19](https://vulkanizacia.ge/tyres/235-55-r19/) · [235/35 R20](https://vulkanizacia.ge/tyres/235-35-r20/) · [R13](https://vulkanizacia.ge/tyres/r13/) · [R14](https://vulkanizacia.ge/tyres/r14/) · [R15](https://vulkanizacia.ge/tyres/r15/) · [R16](https://vulkanizacia.ge/tyres/r16/) · [R17](https://vulkanizacia.ge/tyres/r17/) · [R18](https://vulkanizacia.ge/tyres/r18/) · [R19](https://vulkanizacia.ge/tyres/r19/) · [R20](https://vulkanizacia.ge/tyres/r20/)
 
 ## Why choose us
 
