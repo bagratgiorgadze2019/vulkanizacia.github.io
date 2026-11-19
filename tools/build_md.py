@@ -216,10 +216,23 @@ def build(rel):
     return rel, lang, title, md
 
 
+def bust_css(files):
+    """Stamp /assets/styles.css?v=<hash> on every page so browsers never use a stale stylesheet."""
+    import hashlib
+    v = hashlib.sha1((ROOT / "assets" / "styles.css").read_bytes()).hexdigest()[:8]
+    for rel in files:
+        p = ROOT / rel
+        s = p.read_text(encoding="utf-8")
+        s2 = re.sub(r'href="/assets/styles\.css(\?v=[0-9a-f]+)?"', f'href="/assets/styles.css?v={v}"', s)
+        if s2 != s:
+            p.write_text(s2, encoding="utf-8")
+
+
 def main():
     files = subprocess.run(["git", "ls-files", "*.html"], cwd=ROOT, capture_output=True, text=True).stdout.split()
     files += [str(p.relative_to(ROOT)) for p in ROOT.glob("**/*.html")
               if str(p.relative_to(ROOT)) not in files and "node_modules" not in p.parts]
+    bust_css(sorted(set(files)))
     order = {"ka": 0, "en": 1, "ru": 2}
     pages = sorted((build(f) for f in sorted(set(files))),
                    key=lambda x: (order[x[1]], x[0] != "index.html" and not x[0].startswith("index-"), x[0]))

@@ -211,7 +211,7 @@ def steps(items):
 # ------------------------------------------------------------------ hub copy
 HUB_T = {
     "ka": dict(
-        title="საბურავები თბილისში — ახალი და მეორადი, მიწოდება და მონტაჟი ადგილზე",
+        title="საბურავები თბილისში — ახალი და მეორადი, მიწოდებით და მონტაჟით",
         desc="საბურავები თბილისში ზომების მიხედვით — ახალი და მეორადი, ზაფხულის, ზამთრის და ყველა სეზონის. მოგიტანთ, ადგილზე დაგიყენებთ და დავაბალანსებთ, 24/7.",
         keywords="საბურავები, საბურავები თბილისში, საბურავების მაღაზია, ზამთრის საბურავები, მეორადი საბურავები, საბურავების ყიდვა, საბურავები ზომით",
         crumbs=["მთავარი", "საბურავები"], home="/index.html",
@@ -247,7 +247,7 @@ HUB_T = {
         strip_h="საბურავები ზომების მიხედვით", strip_p="ახალი და მეორადი საბურავები — მიწოდებით, მონტაჟით და ბალანსირებით ადგილზე.", strip_all="ყველა ზომა და ინფორმაცია →",
         nav="საბურავები"),
     "en": dict(
-        title="Tyres in Tbilisi — new and used, delivered and fitted on site",
+        title="Tyres in Tbilisi — new and used, delivered and fitted",
         desc="Tyres in Tbilisi by size — new and used, summer, winter and all-season. We deliver, fit and balance them on the spot, 24/7.",
         keywords="tyres Tbilisi, buy tyres Tbilisi, winter tyres Tbilisi, used tyres Tbilisi, tyre shop Tbilisi",
         crumbs=["Home", "Tyres"], home="/index-en.html",
@@ -287,7 +287,7 @@ HUB_T = {
         strip_h="Tyres by size", strip_p="New and used tyres — delivered, fitted and balanced on site.", strip_all="All sizes and details →",
         nav="Tyres"),
     "ru": dict(
-        title="Шины в Тбилиси — новые и б/у, доставка и шиномонтаж на месте",
+        title="Шины в Тбилиси — новые и б/у, доставка и шиномонтаж",
         desc="Шины в Тбилиси по размерам — новые и б/у, летние, зимние и всесезонные. Привезём, установим и отбалансируем на месте, 24/7.",
         keywords="шины Тбилиси, купить шины Тбилиси, зимние шины Тбилиси, б/у шины Тбилиси, шиномонтаж Тбилиси",
         crumbs=["Главная", "Шины"], home="/index-ru.html",
@@ -330,14 +330,29 @@ HUB_T = {
 HUB_URLS = {lang: HUB + ("" if f == "index.html" else f) for lang, f in LANG_FILE.items()}
 
 
+UI = {"ka": dict(rim="დისკი", all_of="ყველა R{} →", shown="ნაჩვენებია {} ზომა"),
+      "en": dict(rim="rim", all_of="All R{} →", shown="Showing {} sizes"),
+      "ru": dict(rim="диск", all_of="Все R{} →", shown="Показано размеров: {}")}
+
+
+def n_sizes(lang, n):
+    if lang == "ka":
+        return f"{n} ზომა"
+    if lang == "en":
+        return f"{n} size" + ("" if n == 1 else "s")
+    tail = "размер" if n % 10 == 1 and n % 100 != 11 else ("размера" if 2 <= n % 10 <= 4 and not 12 <= n % 100 <= 14 else "размеров")
+    return f"{n} {tail}"
+
+
 def filter_html(t):
     """Size filter: free-text box ("235/35", "R20", "2353520") + rim buttons; filters the grid below."""
-    btn = "rounded-full px-3 py-1.5 text-sm font-semibold ring-1 ring-zinc-700 transition hover:ring-brand"
+    btn = "shrink-0 rounded-full px-4 py-2 text-sm font-semibold ring-1 ring-zinc-700 transition hover:ring-brand"
     rims = "".join(f'<button type="button" data-rim="{r}" class="{btn}">R{r}</button>' for r in RIMS)
     return f"""<div id="tyre-filter" class="mt-6 rounded-2xl bg-zinc-900 p-5 ring-1 ring-zinc-800">
     <label for="tyre-q" class="font-semibold">{t['picker']}</label>
     <input id="tyre-q" type="search" inputmode="numeric" autocomplete="off" placeholder="{t['filter_ph']}" class="mt-3 w-full rounded-xl bg-zinc-950 px-4 py-3 text-lg text-zinc-100 ring-1 ring-zinc-700 placeholder:text-zinc-600 focus:outline-none focus:ring-brand">
-    <div class="mt-3 flex flex-wrap gap-2"><button type="button" data-rim="" class="{btn} bg-brand text-zinc-950">{t['all']}</button>{rims}</div>
+    <div class="-mx-5 mt-3 flex gap-2 overflow-x-auto px-5 pb-1 sm:mx-0 sm:flex-wrap sm:overflow-visible sm:px-0"><button type="button" data-rim="" class="{btn} bg-brand text-zinc-950">{t['all']}</button>{rims}</div>
+    <p id="tyre-count" class="mt-3 text-sm font-semibold text-zinc-300" aria-live="polite">{UI[t['lang']]['shown'].format(len(SIZES))}</p>
     <p class="mt-3 text-sm text-zinc-400">{t['hint']} <a href="/blog/saburavis-zoma-rogor-wavikitkhot/" class="text-brand hover:text-amber-400">{t['hint_link']}</a></p>
   </div>"""
 
@@ -357,6 +372,7 @@ def filter_js(t):
       }});
       rows.forEach(function (r) {{ r.hidden = !r.querySelector('[data-size]:not([hidden])'); }});
       none.hidden = shown > 0;
+      document.getElementById('tyre-count').textContent = {json.dumps(UI[t['lang']]['shown'])}.replace('{{}}', shown);
       if (!shown) none.querySelector('a').href = 'https://wa.me/{WA}?text=' + encodeURIComponent(waText.replace('{{}}', q.value || ('R' + rim)));
     }}
     q.addEventListener('input', run);
@@ -372,17 +388,27 @@ def filter_js(t):
 
 
 def size_grid(t):
+    ui = UI[t["lang"]]
+    tile = ("flex min-h-12 items-center justify-center rounded-xl bg-zinc-950 px-2 py-3 text-center font-semibold tabular-nums "
+            "ring-1 ring-zinc-800 transition hover:text-brand hover:ring-brand active:scale-95")
     out = []
     for r in RIMS:
-        chips = "".join(chip(s).replace("<a ", f'<a data-size="{s["w"]}{s["p"]}{s["r"]}" data-rim="{s["r"]}" ', 1) for s in SIZES if s["r"] == r)
-        out.append(f'<div data-row class="flex flex-wrap items-center gap-2"><a href="{rim_url(r)}" class="w-12 shrink-0 font-bold text-brand hover:text-amber-400">R{r}</a>{chips}</div>')
+        rs = [s for s in SIZES if s["r"] == r]
+        tiles = "".join(f'<a data-size="{s["w"]}{s["p"]}{s["r"]}" data-rim="{s["r"]}" href="{size_url(s)}" class="{tile}">{s["label"]}</a>' for s in rs)
+        out.append(f'''<section data-row class="rounded-2xl bg-zinc-900/70 p-4 ring-1 ring-zinc-800 sm:p-5">
+    <div class="flex items-baseline justify-between gap-3">
+      <h3 class="text-xl font-bold font-head"><a href="{rim_url(r)}" class="hover:text-brand">R{r}</a> <span class="text-sm font-normal text-zinc-400">· {r}″ {ui['rim']} · {n_sizes(t['lang'], len(rs))}</span></h3>
+      <a href="{rim_url(r)}" class="shrink-0 text-sm font-semibold text-brand hover:text-amber-400">{ui['all_of'].format(r)}</a>
+    </div>
+    <div class="mt-3 grid grid-cols-2 gap-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6">{tiles}</div>
+  </section>''')
     none = (f'<p id="tyre-none" hidden class="rounded-xl bg-zinc-900 p-4 text-zinc-300 ring-1 ring-zinc-800">{t["notfound"]} '
             f'<a href="https://wa.me/{WA}" target="_blank" rel="noopener" class="font-semibold text-[#25D366] hover:opacity-90">WhatsApp →</a></p>')
-    return '<div id="tyre-grid" class="mt-6 space-y-3">' + "".join(out) + none + "</div>"
+    return '<div id="tyre-grid" class="mt-6 space-y-4">' + "".join(out) + none + "</div>"
 
 
 def build_hub(lang):
-    t = HUB_T[lang]
+    t = dict(HUB_T[lang], lang=lang)
     url = HUB_URLS[lang]
     types = "".join(
         f'<div class="rounded-2xl bg-zinc-900 p-5 ring-1 ring-zinc-800"><h3 class="text-lg font-bold font-head">{n}</h3><p class="mt-1.5 text-sm text-zinc-400">{d}</p>'
@@ -431,7 +457,7 @@ def build_hub(lang):
 
 <section class="mx-auto max-w-6xl px-4 pb-6">
   <h2 class="text-2xl font-bold font-head sm:text-3xl">{t['rims_h']}</h2>
-  <div class="mt-6 grid grid-cols-4 gap-3 sm:grid-cols-8">{''.join(f'<a href="{rim_url(r)}" class="rounded-xl bg-zinc-900 py-4 text-center text-lg font-bold ring-1 ring-zinc-800 transition hover:text-brand hover:ring-brand/60">R{r}</a>' for r in RIMS)}</div>
+  <div class="mt-6 grid grid-cols-4 gap-3 sm:grid-cols-8">{''.join(f'<a href="{rim_url(r)}" class="flex flex-col items-center justify-center rounded-2xl bg-zinc-900 px-2 py-4 ring-1 ring-zinc-800 transition hover:ring-brand active:scale-95"><span class="text-2xl font-extrabold font-head">R{r}</span><span class="mt-1 text-xs text-zinc-400">{n_sizes(lang, sum(1 for x in SIZES if x["r"] == r))}</span></a>' for r in RIMS)}</div>
 </section>
 
 <section class="mx-auto max-w-3xl px-4 py-12">
@@ -731,6 +757,15 @@ def ensure_nav():
         p = ROOT / rel
         s = p.read_text(encoding="utf-8")
         lang = re.search(r'<html lang="(\w+)"', s).group(1)
+        # phones: the main menu is hidden, so add a compact "tyres" button next to the call button
+        if 'data-mobile-tyres' not in s and '<div class="flex items-center gap-2">' in s:
+            mob = (f'<a data-mobile-tyres href="{HUB_URLS[lang]}" class="rounded-lg bg-zinc-900 px-2.5 py-2 text-xs font-semibold '
+                   f'ring-1 ring-zinc-700 hover:text-brand max-[379px]:px-2 md:hidden">{HUB_T[lang]["nav"]}</a>')
+            s = s.replace('<div class="flex items-center gap-2">', '<div class="flex items-center gap-2">' + mob, 1)
+            # make room on phones: slightly smaller logo text below the sm breakpoint
+            s = s.replace('class="flex items-center gap-2 text-lg font-extrabold font-head"',
+                          'class="flex items-center gap-2 text-base font-extrabold font-head max-[379px]:gap-1.5 max-[379px]:text-sm sm:text-lg"', 1)
+            p.write_text(s, encoding="utf-8")
         m = re.search(r'(<div class="hidden items-center gap-6 text-sm font-medium md:flex">)(.*?)(</div>)', s, re.S)
         if not m or 'href="/saburavebi/' in m.group(2):
             continue

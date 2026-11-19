@@ -22,21 +22,53 @@ New and used tyres — summer, winter and all-season. Choose your size and we de
 
 ## Popular sizes
 
-[R13](https://vulkanizacia.ge/saburavebi/r13/) · [155/70 R13](https://vulkanizacia.ge/saburavebi/155-70-r13/) · [165/70 R13](https://vulkanizacia.ge/saburavebi/165-70-r13/) · [175/70 R13](https://vulkanizacia.ge/saburavebi/175-70-r13/)
+### [R13](https://vulkanizacia.ge/saburavebi/r13/)· 13″ rim · 3 sizes
 
-[R14](https://vulkanizacia.ge/saburavebi/r14/) · [165/70 R14](https://vulkanizacia.ge/saburavebi/165-70-r14/) · [175/65 R14](https://vulkanizacia.ge/saburavebi/175-65-r14/) · [175/70 R14](https://vulkanizacia.ge/saburavebi/175-70-r14/) · [185/60 R14](https://vulkanizacia.ge/saburavebi/185-60-r14/) · [185/65 R14](https://vulkanizacia.ge/saburavebi/185-65-r14/) · [185/70 R14](https://vulkanizacia.ge/saburavebi/185-70-r14/)
+[All R13 →](https://vulkanizacia.ge/saburavebi/r13/)
 
-[R15](https://vulkanizacia.ge/saburavebi/r15/) · [185/55 R15](https://vulkanizacia.ge/saburavebi/185-55-r15/) · [185/60 R15](https://vulkanizacia.ge/saburavebi/185-60-r15/) · [185/65 R15](https://vulkanizacia.ge/saburavebi/185-65-r15/) · [195/50 R15](https://vulkanizacia.ge/saburavebi/195-50-r15/) · [195/55 R15](https://vulkanizacia.ge/saburavebi/195-55-r15/) · [195/60 R15](https://vulkanizacia.ge/saburavebi/195-60-r15/) · [195/65 R15](https://vulkanizacia.ge/saburavebi/195-65-r15/) · [205/65 R15](https://vulkanizacia.ge/saburavebi/205-65-r15/) · [215/70 R15](https://vulkanizacia.ge/saburavebi/215-70-r15/)
+[155/70 R13](https://vulkanizacia.ge/saburavebi/155-70-r13/) · [165/70 R13](https://vulkanizacia.ge/saburavebi/165-70-r13/) · [175/70 R13](https://vulkanizacia.ge/saburavebi/175-70-r13/)
 
-[R16](https://vulkanizacia.ge/saburavebi/r16/) · [195/55 R16](https://vulkanizacia.ge/saburavebi/195-55-r16/) · [195/60 R16](https://vulkanizacia.ge/saburavebi/195-60-r16/) · [205/50 R16](https://vulkanizacia.ge/saburavebi/205-50-r16/) · [205/55 R16](https://vulkanizacia.ge/saburavebi/205-55-r16/) · [205/60 R16](https://vulkanizacia.ge/saburavebi/205-60-r16/) · [215/55 R16](https://vulkanizacia.ge/saburavebi/215-55-r16/) · [215/60 R16](https://vulkanizacia.ge/saburavebi/215-60-r16/) · [215/65 R16](https://vulkanizacia.ge/saburavebi/215-65-r16/) · [225/60 R16](https://vulkanizacia.ge/saburavebi/225-60-r16/) · [225/70 R16](https://vulkanizacia.ge/saburavebi/225-70-r16/)
+### [R14](https://vulkanizacia.ge/saburavebi/r14/)· 14″ rim · 6 sizes
 
-[R17](https://vulkanizacia.ge/saburavebi/r17/) · [205/50 R17](https://vulkanizacia.ge/saburavebi/205-50-r17/) · [215/45 R17](https://vulkanizacia.ge/saburavebi/215-45-r17/) · [215/50 R17](https://vulkanizacia.ge/saburavebi/215-50-r17/) · [215/55 R17](https://vulkanizacia.ge/saburavebi/215-55-r17/) · [215/60 R17](https://vulkanizacia.ge/saburavebi/215-60-r17/) · [225/45 R17](https://vulkanizacia.ge/saburavebi/225-45-r17/) · [225/50 R17](https://vulkanizacia.ge/saburavebi/225-50-r17/) · [225/55 R17](https://vulkanizacia.ge/saburavebi/225-55-r17/) · [225/60 R17](https://vulkanizacia.ge/saburavebi/225-60-r17/) · [225/65 R17](https://vulkanizacia.ge/saburavebi/225-65-r17/) · [235/45 R17](https://vulkanizacia.ge/saburavebi/235-45-r17/) · [235/55 R17](https://vulkanizacia.ge/saburavebi/235-55-r17/) · [235/65 R17](https://vulkanizacia.ge/saburavebi/235-65-r17/) · [265/65 R17](https://vulkanizacia.ge/saburavebi/265-65-r17/)
+[All R14 →](https://vulkanizacia.ge/saburavebi/r14/)
 
-[R18](https://vulkanizacia.ge/saburavebi/r18/) · [225/40 R18](https://vulkanizacia.ge/saburavebi/225-40-r18/) · [225/45 R18](https://vulkanizacia.ge/saburavebi/225-45-r18/) · [225/55 R18](https://vulkanizacia.ge/saburavebi/225-55-r18/) · [235/40 R18](https://vulkanizacia.ge/saburavebi/235-40-r18/) · [235/50 R18](https://vulkanizacia.ge/saburavebi/235-50-r18/) · [235/55 R18](https://vulkanizacia.ge/saburavebi/235-55-r18/) · [235/60 R18](https://vulkanizacia.ge/saburavebi/235-60-r18/) · [245/40 R18](https://vulkanizacia.ge/saburavebi/245-40-r18/) · [245/45 R18](https://vulkanizacia.ge/saburavebi/245-45-r18/) · [255/55 R18](https://vulkanizacia.ge/saburavebi/255-55-r18/) · [265/60 R18](https://vulkanizacia.ge/saburavebi/265-60-r18/)
+[165/70 R14](https://vulkanizacia.ge/saburavebi/165-70-r14/) · [175/65 R14](https://vulkanizacia.ge/saburavebi/175-65-r14/) · [175/70 R14](https://vulkanizacia.ge/saburavebi/175-70-r14/) · [185/60 R14](https://vulkanizacia.ge/saburavebi/185-60-r14/) · [185/65 R14](https://vulkanizacia.ge/saburavebi/185-65-r14/) · [185/70 R14](https://vulkanizacia.ge/saburavebi/185-70-r14/)
 
-[R19](https://vulkanizacia.ge/saburavebi/r19/) · [235/55 R19](https://vulkanizacia.ge/saburavebi/235-55-r19/) · [245/40 R19](https://vulkanizacia.ge/saburavebi/245-40-r19/) · [245/45 R19](https://vulkanizacia.ge/saburavebi/245-45-r19/) · [255/50 R19](https://vulkanizacia.ge/saburavebi/255-50-r19/) · [275/40 R19](https://vulkanizacia.ge/saburavebi/275-40-r19/)
+### [R15](https://vulkanizacia.ge/saburavebi/r15/)· 15″ rim · 9 sizes
 
-[R20](https://vulkanizacia.ge/saburavebi/r20/) · [235/35 R20](https://vulkanizacia.ge/saburavebi/235-35-r20/) · [245/35 R20](https://vulkanizacia.ge/saburavebi/245-35-r20/) · [245/45 R20](https://vulkanizacia.ge/saburavebi/245-45-r20/) · [255/45 R20](https://vulkanizacia.ge/saburavebi/255-45-r20/) · [275/40 R20](https://vulkanizacia.ge/saburavebi/275-40-r20/) · [275/45 R20](https://vulkanizacia.ge/saburavebi/275-45-r20/)
+[All R15 →](https://vulkanizacia.ge/saburavebi/r15/)
+
+[185/55 R15](https://vulkanizacia.ge/saburavebi/185-55-r15/) · [185/60 R15](https://vulkanizacia.ge/saburavebi/185-60-r15/) · [185/65 R15](https://vulkanizacia.ge/saburavebi/185-65-r15/) · [195/50 R15](https://vulkanizacia.ge/saburavebi/195-50-r15/) · [195/55 R15](https://vulkanizacia.ge/saburavebi/195-55-r15/) · [195/60 R15](https://vulkanizacia.ge/saburavebi/195-60-r15/) · [195/65 R15](https://vulkanizacia.ge/saburavebi/195-65-r15/) · [205/65 R15](https://vulkanizacia.ge/saburavebi/205-65-r15/) · [215/70 R15](https://vulkanizacia.ge/saburavebi/215-70-r15/)
+
+### [R16](https://vulkanizacia.ge/saburavebi/r16/)· 16″ rim · 10 sizes
+
+[All R16 →](https://vulkanizacia.ge/saburavebi/r16/)
+
+[195/55 R16](https://vulkanizacia.ge/saburavebi/195-55-r16/) · [195/60 R16](https://vulkanizacia.ge/saburavebi/195-60-r16/) · [205/50 R16](https://vulkanizacia.ge/saburavebi/205-50-r16/) · [205/55 R16](https://vulkanizacia.ge/saburavebi/205-55-r16/) · [205/60 R16](https://vulkanizacia.ge/saburavebi/205-60-r16/) · [215/55 R16](https://vulkanizacia.ge/saburavebi/215-55-r16/) · [215/60 R16](https://vulkanizacia.ge/saburavebi/215-60-r16/) · [215/65 R16](https://vulkanizacia.ge/saburavebi/215-65-r16/) · [225/60 R16](https://vulkanizacia.ge/saburavebi/225-60-r16/) · [225/70 R16](https://vulkanizacia.ge/saburavebi/225-70-r16/)
+
+### [R17](https://vulkanizacia.ge/saburavebi/r17/)· 17″ rim · 14 sizes
+
+[All R17 →](https://vulkanizacia.ge/saburavebi/r17/)
+
+[205/50 R17](https://vulkanizacia.ge/saburavebi/205-50-r17/) · [215/45 R17](https://vulkanizacia.ge/saburavebi/215-45-r17/) · [215/50 R17](https://vulkanizacia.ge/saburavebi/215-50-r17/) · [215/55 R17](https://vulkanizacia.ge/saburavebi/215-55-r17/) · [215/60 R17](https://vulkanizacia.ge/saburavebi/215-60-r17/) · [225/45 R17](https://vulkanizacia.ge/saburavebi/225-45-r17/) · [225/50 R17](https://vulkanizacia.ge/saburavebi/225-50-r17/) · [225/55 R17](https://vulkanizacia.ge/saburavebi/225-55-r17/) · [225/60 R17](https://vulkanizacia.ge/saburavebi/225-60-r17/) · [225/65 R17](https://vulkanizacia.ge/saburavebi/225-65-r17/) · [235/45 R17](https://vulkanizacia.ge/saburavebi/235-45-r17/) · [235/55 R17](https://vulkanizacia.ge/saburavebi/235-55-r17/) · [235/65 R17](https://vulkanizacia.ge/saburavebi/235-65-r17/) · [265/65 R17](https://vulkanizacia.ge/saburavebi/265-65-r17/)
+
+### [R18](https://vulkanizacia.ge/saburavebi/r18/)· 18″ rim · 11 sizes
+
+[All R18 →](https://vulkanizacia.ge/saburavebi/r18/)
+
+[225/40 R18](https://vulkanizacia.ge/saburavebi/225-40-r18/) · [225/45 R18](https://vulkanizacia.ge/saburavebi/225-45-r18/) · [225/55 R18](https://vulkanizacia.ge/saburavebi/225-55-r18/) · [235/40 R18](https://vulkanizacia.ge/saburavebi/235-40-r18/) · [235/50 R18](https://vulkanizacia.ge/saburavebi/235-50-r18/) · [235/55 R18](https://vulkanizacia.ge/saburavebi/235-55-r18/) · [235/60 R18](https://vulkanizacia.ge/saburavebi/235-60-r18/) · [245/40 R18](https://vulkanizacia.ge/saburavebi/245-40-r18/) · [245/45 R18](https://vulkanizacia.ge/saburavebi/245-45-r18/) · [255/55 R18](https://vulkanizacia.ge/saburavebi/255-55-r18/) · [265/60 R18](https://vulkanizacia.ge/saburavebi/265-60-r18/)
+
+### [R19](https://vulkanizacia.ge/saburavebi/r19/)· 19″ rim · 5 sizes
+
+[All R19 →](https://vulkanizacia.ge/saburavebi/r19/)
+
+[235/55 R19](https://vulkanizacia.ge/saburavebi/235-55-r19/) · [245/40 R19](https://vulkanizacia.ge/saburavebi/245-40-r19/) · [245/45 R19](https://vulkanizacia.ge/saburavebi/245-45-r19/) · [255/50 R19](https://vulkanizacia.ge/saburavebi/255-50-r19/) · [275/40 R19](https://vulkanizacia.ge/saburavebi/275-40-r19/)
+
+### [R20](https://vulkanizacia.ge/saburavebi/r20/)· 20″ rim · 6 sizes
+
+[All R20 →](https://vulkanizacia.ge/saburavebi/r20/)
+
+[235/35 R20](https://vulkanizacia.ge/saburavebi/235-35-r20/) · [245/35 R20](https://vulkanizacia.ge/saburavebi/245-35-r20/) · [245/45 R20](https://vulkanizacia.ge/saburavebi/245-45-r20/) · [255/45 R20](https://vulkanizacia.ge/saburavebi/255-45-r20/) · [275/40 R20](https://vulkanizacia.ge/saburavebi/275-40-r20/) · [275/45 R20](https://vulkanizacia.ge/saburavebi/275-45-r20/)
 
 ## When you need a new tyre
 
@@ -109,7 +141,7 @@ If the tyre can't be repaired, we bring a new or used tyre in your size and fit 
 
 ## Tyres by rim size
 
-[R13](https://vulkanizacia.ge/saburavebi/r13/) · [R14](https://vulkanizacia.ge/saburavebi/r14/) · [R15](https://vulkanizacia.ge/saburavebi/r15/) · [R16](https://vulkanizacia.ge/saburavebi/r16/) · [R17](https://vulkanizacia.ge/saburavebi/r17/) · [R18](https://vulkanizacia.ge/saburavebi/r18/) · [R19](https://vulkanizacia.ge/saburavebi/r19/) · [R20](https://vulkanizacia.ge/saburavebi/r20/)
+[R133 sizes](https://vulkanizacia.ge/saburavebi/r13/) · [R146 sizes](https://vulkanizacia.ge/saburavebi/r14/) · [R159 sizes](https://vulkanizacia.ge/saburavebi/r15/) · [R1610 sizes](https://vulkanizacia.ge/saburavebi/r16/) · [R1714 sizes](https://vulkanizacia.ge/saburavebi/r17/) · [R1811 sizes](https://vulkanizacia.ge/saburavebi/r18/) · [R195 sizes](https://vulkanizacia.ge/saburavebi/r19/) · [R206 sizes](https://vulkanizacia.ge/saburavebi/r20/)
 
 ## Frequently asked questions
 
