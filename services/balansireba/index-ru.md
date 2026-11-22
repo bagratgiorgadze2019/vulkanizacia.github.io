@@ -84,6 +84,9 @@ Canonical: https://vulkanizacia.ge/services/balansireba/index-ru.html
 - [Вскрытие автомобиля](https://vulkanizacia.ge/services/daketili-avtomobilis-gakhsna/index-ru.html)
 - [Датчики давления в шинах (TPMS)](https://vulkanizacia.ge/services/saburavis-wnevis-sensori/index-ru.html)
 - [Замена колодок](https://vulkanizacia.ge/services/khundebis-shecvla/index-ru.html)
+- [Мойка авто на выезд](https://vulkanizacia.ge/services/mankanis-recxva/index-ru.html)
+- [Химчистка салона](https://vulkanizacia.ge/services/mankanis-qimwmenda/index-ru.html)
+- [Полировка фар](https://vulkanizacia.ge/services/parebis-polireba/index-ru.html)
 
 [Все услуги →](https://vulkanizacia.ge/index-ru.html#services)
 

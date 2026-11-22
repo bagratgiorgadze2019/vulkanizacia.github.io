@@ -84,6 +84,9 @@ Canonical: https://vulkanizacia.ge/services/daketili-avtomobilis-gakhsna/
 - [ავტომობილის დაქოქვა](https://vulkanizacia.ge/services/avtomobilis-dakokva/)
 - [საბურავის წნევის სენსორი (ბლუთუზი)](https://vulkanizacia.ge/services/saburavis-wnevis-sensori/)
 - [ხუნდების შეცვლა](https://vulkanizacia.ge/services/khundebis-shecvla/)
+- [მანქანის რეცხვა](https://vulkanizacia.ge/services/mankanis-recxva/)
+- [მანქანის ქიმწმენდა](https://vulkanizacia.ge/services/mankanis-qimwmenda/)
+- [ფარების პოლირება](https://vulkanizacia.ge/services/parebis-polireba/)
 
 [ყველა სერვისი →](https://vulkanizacia.ge/index.html#services)
 

@@ -636,6 +636,177 @@ def build_brakes():
         write(lang, urls, c, body)
 
 
+# ------------------------------------------------------------------ car-care services on call (autocomplete research 2026-11-22)
+# blocks: ("h", text) | ("p", text) | ("ul", [items])   — {wash}/{clean}/{lights}/{mobile} are filled with links
+CARE = {
+    "mankanis-recxva": dict(img="car-wash", icon='<path stroke-linecap="round" stroke-linejoin="round" d="M12 3.75c-2.5 3.2-4.5 5.9-4.5 8.25a4.5 4.5 0 0 0 9 0c0-2.35-2-5.05-4.5-8.25Z"/><path stroke-linecap="round" d="M3.75 20.25h16.5"/>',
+        ka=dict(kicker="მობილური სამრეცხაო", h1="მანქანის რეცხვა გამოძახებით", svc_type="მანქანის რეცხვა ადგილზე", short="მანქანის რეცხვა",
+                card="გავრეცხავთ იქ, სადაც მანქანა დგას — წყალი და დენი თან მოგვაქვს, 24/7.",
+                title="მანქანის რეცხვა გამოძახებით — ადგილზე მისვლით, 24/7 თბილისში",
+                desc=f"მანქანის რეცხვა გამოძახებით თბილისში: მოვალთ თქვენთან და მანქანას ადგილზე გავრეცხავთ — გარედან, სალონი და ძრავი. წყალი და დენი თან მოგვაქვს, 24/7. ☎ {TEL_FMT}",
+                keywords="მანქანის რეცხვა გამოძახებით, მანქანის რეცხვა ადგილზე, მანქანის რეცხვა ადგილზე მისვლით, ავტომობილის რეცხვა გამოძახებით, მობილური სამრეცხაო, ავტო სამრეცხაო გამოძახებით, მანქანის რეცხვა 24 7, მანქანის რეცხვა ფასი, მანქანის ძრავის რეცხვა, მანქანის სალონის რეცხვა",
+                lead="სამრეცხაოში რიგში დგომა აღარ გჭირდებათ — მანქანას გავრეცხავთ იქ, სადაც დგას: სახლთან, სამსახურთან ან ავტოსადგომზე. წყალი და დენი თან მოგვაქვს — თქვენგან არაფერია საჭირო.",
+                inc_h="რას მოიცავს რეცხვა", inc=["მანქანის რეცხვა გარედან", "საბურავებისა და დისკების რეცხვა", "სალონის დასუფთავება მტვერსასრუტით", "მინების წმენდა შიგნიდან და გარედან", "ძრავის რეცხვა — სურვილის შემთხვევაში"],
+                blocks=[("h", "წყალი და დენი — ჩვენზეა"), ("p", "მოვდივართ საკუთარი წყლით, დენითა და აღჭურვილობით — ონკანთან ან დენთან წვდომა არ გჭირდებათ. მანქანას ვრეცხავთ იქ, სადაც ის დგას, თუ ადგილი ამის საშუალებას იძლევა."),
+                        ("h", "როდის არის მოსახერხებელი"), ("ul", ["როცა სამრეცხაოში წასასვლელად დრო არ გაქვთ", "სახლთან ან ოფისთან მდგარი მანქანისთვის", "მანქანის გაყიდვამდე ან მნიშვნელოვან შეხვედრამდე", "რამდენიმე მანქანისთვის ერთად — ოჯახის ან კომპანიის"]),
+                        ("h", "ასევე შეგიძლიათ შეუკვეთოთ"), ("p", "{clean} — სავარძლების, ჭერისა და ნოხების ქიმწმენდა ორთქლით. {lights} — გაყვითლებული ფარების გაპრიალება და დამწვარი ნათურის შეცვლა.")],
+                faq=[("რა ღირს მანქანის რეცხვა გამოძახებით?", "ფასი დამოკიდებულია მანქანის ზომასა და სამუშაოზე — მხოლოდ გარედან, სალონით თუ ძრავით. დაგვირეკეთ ან მოგვწერეთ WhatsApp-ზე — ფასს წინასწარ შეგითანხმებთ."),
+                     ("წყალი და დენი უნდა მოგცეთ?", "არა — წყალი, დენი და აღჭურვილობა თან მოგვაქვს."),
+                     ("სად შეგიძლიათ მანქანის გარეცხვა?", "სახლთან, სამსახურთან ან ავტოსადგომზე — იქ, სადაც რეცხვა დაშვებულია და ადგილი საკმარისია. თუ ეჭვი გაქვთ, დაგვირეკეთ და გეტყვით."),
+                     ("ძრავსაც რეცხავთ?", "დიახ, სურვილის შემთხვევაში ძრავსაც გავრეცხავთ."),
+                     ("ღამითაც მოდიხართ?", "დიახ, ვმუშაობთ 24/7.")]),
+        en=dict(kicker="Mobile car wash", h1="Mobile car wash in Tbilisi", svc_type="Mobile car wash", short="Mobile car wash",
+                card="We wash your car where it's parked — we bring water and power, 24/7.",
+                title="Mobile car wash in Tbilisi — we wash your car where it's parked, 24/7",
+                desc=f"Mobile car wash in Tbilisi: we come to you and wash your car on the spot — outside, interior and engine. We bring our own water and power, 24/7. ☎ {TEL_FMT}",
+                keywords="mobile car wash Tbilisi, car wash Tbilisi, car wash at home Tbilisi, car wash 24/7 Tbilisi, mobile car wash and detailing, engine wash Tbilisi",
+                lead="No more queues at the car wash — we wash your car where it's parked: at home, at work or in a car park. We bring our own water and power, so you don't need anything.",
+                inc_h="What the wash includes", inc=["Exterior wash", "Wheels and rims", "Interior vacuuming", "Windows inside and out", "Engine wash — on request"],
+                blocks=[("h", "We bring the water and power"), ("p", "We arrive with our own water, power and equipment — you don't need a tap or a socket. We wash the car where it is parked, as long as the spot allows it."),
+                        ("h", "When it's most convenient"), ("ul", ["When you have no time to go to a car wash", "For a car parked at home or at the office", "Before selling the car or an important meeting", "For several cars at once — family or company"]),
+                        ("h", "You can also order"), ("p", "{clean} — steam cleaning of seats, ceiling and mats. {lights} — restoring yellowed headlights and replacing a dead bulb.")],
+                faq=[("How much does a mobile car wash cost?", "It depends on the car size and the job — outside only, with interior or with the engine. Call or message us on WhatsApp — we agree the price in advance."),
+                     ("Do I need to provide water or power?", "No — we bring water, power and equipment."),
+                     ("Where can you wash my car?", "At home, at work or in a car park — wherever washing is allowed and there is enough space. If in doubt, call us."),
+                     ("Do you wash engines too?", "Yes, on request we also wash the engine."),
+                     ("Do you come at night?", "Yes, we work 24/7.")]),
+        ru=dict(kicker="Мобильная мойка", h1="Мойка авто на выезд", svc_type="Выездная мойка автомобиля", short="Мойка авто на выезд",
+                card="Помоем машину там, где она стоит, — воду и электричество привозим, 24/7.",
+                title="Мойка авто на выезд в Тбилиси — мойка машины у дома, 24/7",
+                desc=f"Мойка авто на выезд в Тбилиси: приедем и помоем машину на месте — снаружи, салон и двигатель. Воду и электричество привозим с собой, 24/7. ☎ {TEL_FMT}",
+                keywords="мойка авто на выезд, выездная мойка авто, мойка машины на дому, мойка авто с выездом на дом, мойка Тбилиси, мойка машин Тбилиси, мойка двигателя Тбилиси",
+                lead="Не нужно стоять в очереди на мойке — помоем машину там, где она стоит: у дома, у работы или на парковке. Воду и электричество привозим с собой — от вас ничего не нужно.",
+                inc_h="Что входит в мойку", inc=["Мойка кузова снаружи", "Мойка колёс и дисков", "Уборка салона пылесосом", "Мытьё стёкол изнутри и снаружи", "Мойка двигателя — по желанию"],
+                blocks=[("h", "Вода и электричество — наши"), ("p", "Приезжаем со своей водой, электричеством и оборудованием — кран или розетка не нужны. Моем машину там, где она стоит, если место это позволяет."),
+                        ("h", "Когда это удобно"), ("ul", ["Когда нет времени ехать на мойку", "Для машины у дома или у офиса", "Перед продажей машины или важной встречей", "Для нескольких машин сразу — семьи или компании"]),
+                        ("h", "Также можно заказать"), ("p", "{clean} — химчистка сидений, потолка и ковриков паром. {lights} — полировка пожелтевших фар и замена перегоревшей лампы.")],
+                faq=[("Сколько стоит мойка авто на выезд?", "Цена зависит от размера машины и объёма работы — только снаружи, с салоном или с двигателем. Позвоните или напишите в WhatsApp — согласуем цену заранее."),
+                     ("Нужно ли давать воду или электричество?", "Нет — воду, электричество и оборудование привозим с собой."),
+                     ("Где вы можете помыть машину?", "У дома, у работы или на парковке — там, где мойка разрешена и достаточно места. Если сомневаетесь — позвоните."),
+                     ("Моете двигатель?", "Да, по желанию моем и двигатель."),
+                     ("Вы приезжаете ночью?", "Да, работаем круглосуточно, 24/7.")])),
+    "mankanis-qimwmenda": dict(img="car-interior", icon='<path stroke-linecap="round" stroke-linejoin="round" d="M9.813 15.904 9 18.75l-.813-2.846a4.5 4.5 0 0 0-3.09-3.09L2.25 12l2.846-.813a4.5 4.5 0 0 0 3.09-3.09L9 5.25l.813 2.846a4.5 4.5 0 0 0 3.09 3.09L15.75 12l-2.846.813a4.5 4.5 0 0 0-3.09 3.09ZM18.259 8.715 18 9.75l-.259-1.035a3.375 3.375 0 0 0-2.455-2.456L14.25 6l1.036-.259a3.375 3.375 0 0 0 2.455-2.456L18 2.25l.259 1.035a3.375 3.375 0 0 0 2.456 2.456L21.75 6l-1.035.259a3.375 3.375 0 0 0-2.456 2.456Z"/>',
+        ka=dict(kicker="სალონის ქიმწმენდა ორთქლით", h1="მანქანის ქიმწმენდა გამოძახებით", svc_type="მანქანის სალონის ქიმწმენდა", short="მანქანის ქიმწმენდა",
+                card="სავარძლები, ჭერი, ნოხები და ტყავის სალონი — ორთქლით, ადგილზე.",
+                title="მანქანის ქიმწმენდა გამოძახებით — სალონის ქიმწმენდა ორთქლით, თბილისი",
+                desc=f"მანქანის ქიმწმენდა გამოძახებით თბილისში: სავარძლები, ტყავის სალონი, ჭერი და ნოხები — ორთქლით, ადგილზე მისვლით, 24/7. ფასი დამოკიდებულია მანქანასა და სამუშაოზე. ☎ {TEL_FMT}",
+                keywords="მანქანის ქიმწმენდა, მანქანის ქიმწმენდა გამოძახებით, მანქანის ქიმწმენდა ორთქლით, მანქანის ქიმწმენდა ადგილზე მისვლით, სალონის ქიმწმენდა, მანქანის სალონის ქიმწმენდა, მანქანის სალონის ქიმწმენდა ფასი, ტყავის სალონის ქიმწმენდა, მანქანის სავარძლების ქიმწმენდა, მანქანის ჭერის ქიმწმენდა, მანქანის ქიმწმენდა თბილისში",
+                lead="მანქანის სალონის ქიმწმენდა თქვენთან — სახლთან ან სამსახურთან. სავარძლებს, ჭერს, ნოხებსა და ტყავის სალონს ორთქლით ვწმენდთ ადგილზე — მანქანის სადმე წაყვანა აღარ გჭირდებათ.",
+                inc_h="რას მოიცავს ქიმწმენდა", inc=["ქსოვილის სავარძლების ქიმწმენდა", "ტყავის სალონის წმენდა", "ჭერის ქიმწმენდა", "ნოხებისა და იატაკის წმენდა", "პანელის, კარებისა და საჭის წმენდა"],
+                blocks=[("h", "რატომ ორთქლით"), ("p", "ცხელი ორთქლი კარგად ხსნის ჭუჭყსა და ლაქებს, ამცირებს უსიამოვნო სუნს და სალონს ზედმეტად არ ასველებს — ამიტომ მანქანა უფრო სწრაფად შრება."),
+                        ("h", "როდის გჭირდებათ ქიმწმენდა"), ("ul", ["სავარძლებზე ლაქებია — ყავის, საჭმლის ან ბავშვის კვალი", "სალონში უსიამოვნო სუნია", "მანქანის გაყიდვამდე ან ყიდვის შემდეგ", "შინაური ცხოველის გადაყვანის შემდეგ", "ზამთრის შემდეგ, როცა ნოხები და იატაკი ტალახშია"]),
+                        ("h", "ასევე შეგიძლიათ შეუკვეთოთ"), ("p", "{wash} — გარედან რეცხვა, მინები და ძრავი, ჩვენი წყლითა და დენით. {lights} — ფარების პოლირება და ნათურების შეცვლა.")],
+                faq=[("რა ღირს მანქანის ქიმწმენდა?", "ფასი დამოკიდებულია მანქანის ზომაზე, სალონის მდგომარეობასა და იმაზე, რისი გაწმენდაა საჭირო. გამოგვიგზავნეთ სალონის ფოტო WhatsApp-ზე — ფასს წინასწარ გეტყვით."),
+                     ("რამდენ ხანს გრძელდება ქიმწმენდა?", "დამოკიდებულია სამუშაოზე — სრულ ქიმწმენდას რამდენიმე საათი სჭირდება. ზუსტ დროს წინასწარ გეტყვით."),
+                     ("რამდენ ხანში შრება სალონი?", "ორთქლით წმენდისას სალონი ნაკლებად სველდება და ჩვეულებრივ რამდენიმე საათში შრება, ზაფხულში — უფრო სწრაფად."),
+                     ("ტყავის სალონსაც წმენდთ?", "დიახ — ტყავის სავარძლებს სპეციალური საშუალებით ვწმენდთ, რომ ტყავი არ დაზიანდეს."),
+                     ("ღამითაც მოდიხართ?", "დიახ, ვმუშაობთ 24/7.")]),
+        en=dict(kicker="Steam interior cleaning", h1="Car interior cleaning on site", svc_type="Car interior cleaning", short="Car interior cleaning",
+                card="Seats, ceiling, mats and leather interiors — steam cleaned on site.",
+                title="Car interior cleaning in Tbilisi — mobile steam cleaning, 24/7",
+                desc=f"Car interior cleaning in Tbilisi: seats, leather interiors, ceiling and mats — steam cleaned at your place, 24/7. Price depends on the car and the job. ☎ {TEL_FMT}",
+                keywords="car interior cleaning Tbilisi, car detailing Tbilisi, mobile car detailing, interior detailing, steam car cleaning, car seat cleaning, leather interior cleaning",
+                lead="Car interior cleaning at your place — at home or at work. We steam clean seats, ceiling, mats and leather interiors on the spot, so you don't need to take the car anywhere.",
+                inc_h="What the cleaning includes", inc=["Fabric seat cleaning", "Leather interior cleaning", "Ceiling (headliner) cleaning", "Mats and floor cleaning", "Dashboard, doors and steering wheel"],
+                blocks=[("h", "Why steam"), ("p", "Hot steam lifts dirt and stains, reduces bad smells and doesn't soak the interior — so the car dries faster."),
+                        ("h", "When you need it"), ("ul", ["Stains on the seats — coffee, food or kids", "A bad smell in the car", "Before selling or after buying a car", "After transporting a pet", "After winter, when mats and floor are muddy"]),
+                        ("h", "You can also order"), ("p", "{wash} — exterior, windows and engine, with our own water and power. {lights} — headlight restoration and bulb replacement.")],
+                faq=[("How much does car interior cleaning cost?", "It depends on the car size, the condition of the interior and what needs cleaning. Send us a photo on WhatsApp — we tell you the price in advance."),
+                     ("How long does it take?", "It depends on the job — a full interior clean takes a few hours. We tell you the exact time in advance."),
+                     ("How long does the interior take to dry?", "Steam cleaning doesn't soak the interior, so it usually dries within a few hours — faster in summer."),
+                     ("Do you clean leather interiors?", "Yes — we clean leather seats with a suitable product so the leather isn't damaged."),
+                     ("Do you come at night?", "Yes, we work 24/7.")]),
+        ru=dict(kicker="Химчистка паром", h1="Химчистка салона авто с выездом", svc_type="Химчистка салона автомобиля", short="Химчистка салона",
+                card="Сиденья, потолок, коврики и кожаный салон — паром, на месте.",
+                title="Химчистка салона авто в Тбилиси — с выездом, паром, 24/7",
+                desc=f"Химчистка салона авто в Тбилиси с выездом: сиденья, кожаный салон, потолок и коврики — паром, на месте, 24/7. Цена зависит от машины и объёма работ. ☎ {TEL_FMT}",
+                keywords="химчистка салона авто Тбилиси, химчистка авто Тбилиси, химчистка салона с выездом, химчистка салона паром, химчистка кожаного салона, химчистка сидений, химчистка потолка авто",
+                lead="Химчистка салона у вас — у дома или у работы. Паром чистим сиденья, потолок, коврики и кожаный салон на месте — никуда везти машину не нужно.",
+                inc_h="Что входит в химчистку", inc=["Химчистка тканевых сидений", "Чистка кожаного салона", "Химчистка потолка", "Чистка ковриков и пола", "Чистка панели, дверей и руля"],
+                blocks=[("h", "Почему паром"), ("p", "Горячий пар хорошо удаляет грязь и пятна, уменьшает неприятный запах и не мочит салон — поэтому машина быстрее сохнет."),
+                        ("h", "Когда нужна химчистка"), ("ul", ["Пятна на сиденьях — кофе, еда или следы детей", "В салоне неприятный запах", "Перед продажей или после покупки машины", "После перевозки домашнего животного", "После зимы, когда коврики и пол в грязи"]),
+                        ("h", "Также можно заказать"), ("p", "{wash} — кузов, стёкла и двигатель, с нашей водой и электричеством. {lights} — полировка фар и замена ламп.")],
+                faq=[("Сколько стоит химчистка салона?", "Цена зависит от размера машины, состояния салона и того, что нужно почистить. Пришлите фото салона в WhatsApp — скажем цену заранее."),
+                     ("Сколько длится химчистка?", "Зависит от объёма — полная химчистка занимает несколько часов. Точное время скажем заранее."),
+                     ("Сколько сохнет салон?", "При чистке паром салон почти не намокает и обычно сохнет за несколько часов, летом — быстрее."),
+                     ("Чистите кожаный салон?", "Да — кожаные сиденья чистим подходящим средством, чтобы не повредить кожу."),
+                     ("Вы приезжаете ночью?", "Да, работаем круглосуточно, 24/7.")])),
+    "parebis-polireba": dict(img="headlights", icon='<path stroke-linecap="round" stroke-linejoin="round" d="M12 18v-5.25m0 0a6.01 6.01 0 0 0 1.5-.189m-1.5.189a6.01 6.01 0 0 1-1.5-.189m3.75 7.478a12.06 12.06 0 0 1-4.5 0m3.75 2.383a14.406 14.406 0 0 1-3 0M14.25 18v-.192c0-.983.658-1.823 1.508-2.316a7.5 7.5 0 1 0-7.517 0c.85.493 1.509 1.333 1.509 2.316V18"/>',
+        ka=dict(kicker="ფარები და ნათურები", h1="ფარების პოლირება გამოძახებით", svc_type="ფარების პოლირება და ნათურების შეცვლა", short="ფარების პოლირება",
+                card="ფარების პოლირება ორთქლით ან ხელით და ნათურების შეცვლა — ადგილზე.",
+                title="ფარების პოლირება გამოძახებით და ნათურების შეცვლა — ადგილზე, 24/7",
+                desc=f"ფარების პოლირება გამოძახებით თბილისში — ორთქლით ან ხელით, ფარის მდგომარეობის მიხედვით. მანქანის ნათურების შეცვლა: H4, H7, H11, ლედ ნათურები. ადგილზე, 24/7. ☎ {TEL_FMT}",
+                keywords="ფარების პოლირება, ფარების პოლირება გამოძახებით, ფარების პოლირება ორთქლით, ფარების პოლირება ადგილზე მისვლით, ფარების პოლირება ფასი, მანქანის ფარების პოლირება, ფარების გაპრიალება, ნათურის შეცვლა, მანქანის ნათურის შეცვლა, ფარის ნათურის შეცვლა, მანქანის ნათურები h4, h7, h11, მანქანის ლედ ნათურები",
+                lead="გაყვითლებული ან დაბინდული ფარები ცუდად ანათებს და მანქანას ძველ იერს აძლევს. ფარებს ადგილზე გავაპრიალებთ, დამწვარ ნათურას კი იქვე შევცვლით.",
+                inc_h="რას ვაკეთებთ ადგილზე", inc=["ფარების პოლირება ორთქლით", "ფარების პოლირება ხელით — დამუშავება და გაპრიალება", "ფარის ნათურის შეცვლა — ახლო და შორი შუქი", "გაბარიტისა და სანისლე ფარის ნათურების შეცვლა"],
+                blocks=[("h", "ორთქლით თუ ხელით — რომელი ჯობს"), ("p", "ორთქლით პოლირება ძლიერ გაყვითლებულ და დაბინდულ ფარებს უხდება: ზედაპირს ჯერ ვამუშავებთ, შემდეგ კი ორთქლით აღვადგენთ გამჭვირვალობას. ხელით პოლირება მსუბუქად დაბინდულ ფარებს უხდება. მეთოდს ფარის მდგომარეობის მიხედვით შევარჩევთ."),
+                        ("h", "მანქანის ნათურის შეცვლა"), ("p", "ვცვლით ფარის, გაბარიტისა და სანისლე ფარის ნათურებს — H1, H4, H7, H11 და სხვა ტიპის ჰალოგენის და ლედ ნათურებს. შეგვიძლია მოგიტანოთ ნათურა თქვენი მანქანისთვის, ან დაგიყენებთ თქვენსას. ზოგიერთ მოდელზე ნათურასთან მისასვლელად ფარის ან ბამპერის მოხსნაა საჭირო — ამას დარეკვისას დაგიზუსტებთ."),
+                        ("h", "როდის გჭირდებათ ფარების პოლირება"), ("ul", ["ფარები გაყვითლდა ან დაიბინდა", "ღამით გზა ცუდად ჩანს", "ტექდათვალიერების წინ", "მანქანის გაყიდვამდე"]),
+                        ("h", "ასევე შეგიძლიათ შეუკვეთოთ"), ("p", "{wash} — ჩვენი წყლითა და დენით. {clean} — სალონის ქიმწმენდა ორთქლით.")],
+                faq=[("რა ღირს ფარების პოლირება?", "ფასი დამოკიდებულია ფარების მდგომარეობასა და მეთოდზე. გამოგვიგზავნეთ ფარების ფოტო WhatsApp-ზე — ფასს წინასწარ გეტყვით."),
+                     ("რა განსხვავებაა ორთქლით და ხელით პოლირებას შორის?", "ორთქლით პოლირება ძლიერ გაყვითლებულ და დაბინდულ ფარებს უხდება, ხელით პოლირება — მსუბუქად დაბინდულს. მეთოდს ადგილზე შევარჩევთ."),
+                     ("რომელ ნათურებს ცვლით?", "ფარის, გაბარიტისა და სანისლე ფარის ნათურებს — H1, H4, H7, H11 და სხვა ტიპის ჰალოგენის და ლედ ნათურებს."),
+                     ("ნათურას თქვენ მოიტანთ?", "შეგვიძლია მოგიტანოთ თქვენი მანქანისთვის შესაფერისი ნათურა, ან დაგიყენებთ თქვენ მიერ შეძენილს."),
+                     ("ღამითაც მოდიხართ?", "დიახ, ვმუშაობთ 24/7.")]),
+        en=dict(kicker="Headlights and bulbs", h1="Headlight restoration on site", svc_type="Headlight restoration and bulb replacement", short="Headlight restoration",
+                card="Steam or hand headlight polishing and bulb replacement — on site.",
+                title="Headlight restoration in Tbilisi — on site, plus car bulb replacement 24/7",
+                desc=f"Headlight restoration in Tbilisi — steam or hand polishing, depending on the headlight. Car bulb replacement: H4, H7, H11 and LED bulbs. On site, 24/7. ☎ {TEL_FMT}",
+                keywords="headlight restoration Tbilisi, headlight polishing Tbilisi, steam headlight restoration, headlight bulb replacement, car bulb replacement, H4 H7 H11 bulbs, LED headlight bulbs",
+                lead="Yellowed or cloudy headlights light the road poorly and make the car look old. We restore the headlights on site and replace a dead bulb right there.",
+                inc_h="What we do on site", inc=["Steam headlight restoration", "Hand polishing — sanding and polishing", "Headlight bulb replacement — low and high beam", "Side light and fog light bulbs"],
+                blocks=[("h", "Steam or hand polishing — which is better"), ("p", "Steam restoration suits badly yellowed and cloudy headlights: we first prepare the surface, then restore clarity with steam. Hand polishing suits lightly clouded headlights. We choose the method by the headlight's condition."),
+                        ("h", "Car bulb replacement"), ("p", "We replace headlight, side light and fog light bulbs — H1, H4, H7, H11 and other halogen and LED bulbs. We can bring a bulb for your car or fit yours. On some models the headlight or bumper has to come off to reach the bulb — we'll confirm when you call."),
+                        ("h", "When you need headlight restoration"), ("ul", ["The headlights are yellow or cloudy", "The road is hard to see at night", "Before a technical inspection", "Before selling the car"]),
+                        ("h", "You can also order"), ("p", "{wash} — with our own water and power. {clean} — steam interior cleaning.")],
+                faq=[("How much does headlight restoration cost?", "It depends on the headlights' condition and the method. Send us a photo of the headlights on WhatsApp — we tell you the price in advance."),
+                     ("What's the difference between steam and hand polishing?", "Steam suits badly yellowed and cloudy headlights, hand polishing suits lightly clouded ones. We choose on site."),
+                     ("Which bulbs do you replace?", "Headlight, side light and fog light bulbs — H1, H4, H7, H11 and other halogen and LED bulbs."),
+                     ("Do you bring the bulb?", "We can bring a suitable bulb for your car, or fit one you bought."),
+                     ("Do you come at night?", "Yes, we work 24/7.")]),
+        ru=dict(kicker="Фары и лампы", h1="Полировка фар с выездом", svc_type="Полировка фар и замена ламп", short="Полировка фар",
+                card="Полировка фар паром или вручную и замена ламп — на месте.",
+                title="Полировка фар в Тбилиси с выездом — паром, замена ламп 24/7",
+                desc=f"Полировка фар в Тбилиси с выездом — паром или вручную, в зависимости от состояния фары. Замена ламп: H4, H7, H11, светодиодные. На месте, 24/7. ☎ {TEL_FMT}",
+                keywords="полировка фар Тбилиси, полировка фар паром, полировка фар с выездом, полировка фар цена, замена ламп в фарах, замена ламп ближнего света, светодиодные лампы H4 H7 H11",
+                lead="Пожелтевшие или мутные фары плохо светят и старят машину. Отполируем фары на месте, а перегоревшую лампу заменим сразу же.",
+                inc_h="Что мы делаем на месте", inc=["Полировка фар паром", "Полировка фар вручную — шлифовка и полировка", "Замена ламп ближнего и дальнего света", "Замена ламп габаритов и противотуманных фар"],
+                blocks=[("h", "Паром или вручную — что лучше"), ("p", "Полировка паром подходит для сильно пожелтевших и мутных фар: сначала обрабатываем поверхность, затем паром восстанавливаем прозрачность. Ручная полировка подходит для слегка помутневших фар. Метод выбираем по состоянию фары."),
+                        ("h", "Замена ламп"), ("p", "Меняем лампы фар, габаритов и противотуманок — H1, H4, H7, H11 и другие галогенные и светодиодные лампы. Можем привезти лампу для вашей машины или установить вашу. На некоторых моделях для доступа к лампе нужно снять фару или бампер — уточним при звонке."),
+                        ("h", "Когда нужна полировка фар"), ("ul", ["Фары пожелтели или помутнели", "Ночью плохо видно дорогу", "Перед техосмотром", "Перед продажей машины"]),
+                        ("h", "Также можно заказать"), ("p", "{wash} — с нашей водой и электричеством. {clean} — химчистка салона паром.")],
+                faq=[("Сколько стоит полировка фар?", "Цена зависит от состояния фар и метода. Пришлите фото фар в WhatsApp — скажем цену заранее."),
+                     ("Чем отличается полировка паром от ручной?", "Паром — для сильно пожелтевших и мутных фар, вручную — для слегка помутневших. Метод выбираем на месте."),
+                     ("Какие лампы вы меняете?", "Лампы фар, габаритов и противотуманок — H1, H4, H7, H11 и другие галогенные и светодиодные лампы."),
+                     ("Вы привозите лампу?", "Можем привезти подходящую лампу для вашей машины или установить купленную вами."),
+                     ("Вы приезжаете ночью?", "Да, работаем круглосуточно, 24/7.")])),
+}
+
+
+def care_links(lang):
+    return {k: T.a(T.svc_url(slug, lang), CARE[slug][lang]["h1"]) for k, slug in
+            (("wash", "mankanis-recxva"), ("clean", "mankanis-qimwmenda"), ("lights", "parebis-polireba"))}
+
+
+def build_care():
+    for slug, D in CARE.items():
+        urls = {l: T.svc_url(slug, l) for l in LANGS}
+        for lang in LANGS:
+            c = dict(D[lang], img=D["img"])
+            fill = care_links(lang)
+            extra = ""
+            for kind, val in c["blocks"]:
+                if kind == "h":
+                    extra += f'\n    <h2 class="mt-10 text-2xl font-bold font-head">{val}</h2>\n'
+                elif kind == "p":
+                    extra += f'    <p class="mt-4 leading-relaxed text-zinc-300">{val.format(**fill)}</p>\n'
+                else:
+                    extra += "    " + T.ul(val) + "\n"
+            body = body_for(lang, c, urls, extra).replace(f'<h2 class="text-2xl font-bold font-head">{C[lang]["onsite_h"]}</h2>\n    {T.ul(C[lang]["onsite"])}',
+                                                           f'<h2 class="text-2xl font-bold font-head">{c["inc_h"]}</h2>\n    {T.ul(c["inc"])}')
+            write(lang, urls, c, body)
+
+
 # homepage service cards (marker block) — brakes + TPMS; 9 cards = clean 3x3 grid
 CARD_ICON = {
     BRAKES_SLUG: '<circle cx="12" cy="12" r="8.25"/><circle cx="12" cy="12" r="2.25"/><path stroke-linecap="round" d="M15.5 6.2a6.8 6.8 0 0 1 2.3 5.8"/>',
@@ -649,6 +820,7 @@ TPMS_CARD = {"ka": "სენსორის შემოწმება, შე
 def home_cards(lang, more):
     arrow = '<svg class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M13.5 4.5 21 12m0 0-7.5 7.5M21 12H3"/></svg>'
     items = [(BRAKES_SLUG, BRAKES[lang]["h1"], BRAKES[lang]["card"], "brakes"), (TPMS_SLUG, TPMS[lang]["h1"], TPMS_CARD[lang], "van-rear")]
+    items += [(slug, D[lang]["h1"], D[lang]["card"], D["img"]) for slug, D in CARE.items()]
     out = ""
     for slug, name, text, img in items:
         href = T.svc_url(slug, lang)
@@ -656,7 +828,7 @@ def home_cards(lang, more):
         <article class="group overflow-hidden rounded-2xl bg-zinc-900 ring-1 ring-zinc-800 transition hover:ring-brand/60">
           <div class="relative h-44 overflow-hidden">
             <picture><source srcset="/assets/{img}.avif" type="image/avif"><source srcset="/assets/{img}.webp" type="image/webp"><img loading="lazy" src="/assets/{img}.jpg" alt="{escape(name)}" class="h-full w-full object-cover transition duration-500 group-hover:scale-105"></picture>
-            <div class="absolute left-3 top-3 grid h-10 w-10 place-items-center rounded-xl bg-brand text-zinc-950 shadow-lg"><svg class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke-width="1.7" stroke="currentColor" aria-hidden="true">{CARD_ICON[slug]}</svg></div>
+            <div class="absolute left-3 top-3 grid h-10 w-10 place-items-center rounded-xl bg-brand text-zinc-950 shadow-lg"><svg class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke-width="1.7" stroke="currentColor" aria-hidden="true">{CARD_ICON.get(slug) or CARE[slug]["icon"]}</svg></div>
           </div>
           <div class="p-5">
             <h3 class="text-lg font-bold font-head"><a href="{href}" class="hover:text-brand transition-colors">{name}</a></h3>
@@ -688,7 +860,7 @@ def sync_home_services():
             if not cat:
                 return m.group(0)
             have = {o["itemOffered"].get("url") for o in cat["itemListElement"]}
-            for name, href in ((BRAKES[lang]["h1"], T.svc_url(BRAKES_SLUG, lang)), (TPMS[lang]["h1"], T.svc_url(TPMS_SLUG, lang))):
+            for name, href in [(BRAKES[lang]["h1"], T.svc_url(BRAKES_SLUG, lang)), (TPMS[lang]["h1"], T.svc_url(TPMS_SLUG, lang))] + [(D[lang]["h1"], T.svc_url(sl, lang)) for sl, D in CARE.items()]:
                 if SITE + href not in have:
                     cat["itemListElement"].append({"@type": "Offer", "itemOffered": {"@type": "Service", "name": name, "url": SITE + href}})
             return m.group(1) + _json.dumps(d, ensure_ascii=False, separators=(",", ":")) + m.group(3)
@@ -701,7 +873,7 @@ def sync_links():
     # homepages: one block with districts, towns, mobile page, calculator
     for lang, f in (("ka", "index.html"), ("en", "index-en.html"), ("ru", "index-ru.html")):
         U = C[lang]
-        items = [(MOBILE[lang]["h1"], page_url(MOBILE["slug"][lang]))] + area_links(lang) + [(U["calc"], page_url(CALC["slug"][lang])), (TPMS[lang]["h1"], T.svc_url(TPMS_SLUG, lang)), (BRAKES[lang]["h1"], T.svc_url(BRAKES_SLUG, lang))]
+        items = [(MOBILE[lang]["h1"], page_url(MOBILE["slug"][lang]))] + area_links(lang) + [(U["calc"], page_url(CALC["slug"][lang])), (TPMS[lang]["h1"], T.svc_url(TPMS_SLUG, lang)), (BRAKES[lang]["h1"], T.svc_url(BRAKES_SLUG, lang))] + [(D[lang]["h1"], T.svc_url(sl, lang)) for sl, D in CARE.items()]
         block = f"""
 <section class="mx-auto max-w-6xl px-4 pb-12">
   <h2 class="text-2xl font-bold font-head sm:text-3xl">{U['block_h']}</h2>
@@ -716,6 +888,8 @@ def sync_links():
     # "other services" sidebars on service pages: add the TPMS and brake services
     for slug, label in ((TPMS_SLUG, lambda l: TPMS[l]["h1"]), (BRAKES_SLUG, lambda l: BRAKES[l]["short"])):
         add_sidebar(slug, label)
+    for slug in CARE:
+        add_sidebar(slug, lambda l, slug=slug: CARE[slug][l]["short"])
 
 
 def add_sidebar(slug, label):
@@ -730,7 +904,7 @@ def add_sidebar(slug, label):
                 continue
             li = (f'<li><a href="{href}" class="flex items-center gap-2 text-zinc-300 hover:text-brand transition">'
                   '<svg class="h-4 w-4 text-brand shrink-0" fill="none" viewBox="0 0 24 24" stroke-width="1.7" stroke="currentColor" aria-hidden="true">'
-                  f'{CARD_ICON[slug]}</svg><span>{label(lang)}</span></a></li>')
+                  f'{CARD_ICON.get(slug) or CARE[slug]["icon"]}</svg><span>{label(lang)}</span></a></li>')
             s = s[:m.end(2)] + li + s[m.end(2):]
             p.write_text(s, encoding="utf-8")
 
@@ -740,6 +914,7 @@ def all_urls():
     for group in [MOBILE["slug"], CALC["slug"]] + [t["slug"] for t in TOWNS.values()]:
         out += [page_url(group[l]) for l in LANGS]
     out += [T.svc_url(TPMS_SLUG, l) for l in LANGS] + [T.svc_url(BRAKES_SLUG, l) for l in LANGS]
+    out += [T.svc_url(sl, l) for sl in CARE for l in LANGS]
     return out
 
 
@@ -761,7 +936,10 @@ def sync_sitemap_llms():
              + f"- Tire size calculator: {SITE}/{CALC['slug']['ka']}/ · EN {SITE}/{CALC['slug']['en']}/ · RU {SITE}/{CALC['slug']['ru']}/\n"
              + f"- Tire pressure sensors (TPMS) — depends on make and model: {SITE}{T.svc_url(TPMS_SLUG, 'ka')}\n"
              + f"- Mobile brake service (ხუნდების შეცვლა გამოძახებით / замена колодок с выездом): front and rear brake pads, brake discs, pad wear sensor; we bring pads for the car's make and model or fit the customer's own; 24/7; price depends on make and model: {SITE}{T.svc_url(BRAKES_SLUG, 'ka')} · EN {SITE}{T.svc_url(BRAKES_SLUG, 'en')} · RU {SITE}{T.svc_url(BRAKES_SLUG, 'ru')}\n"
-             + f"- Guide: when to replace brake pads (6 signs): {SITE}{T.blog_url(BRAKES_ARTICLE, 'ka')}\n")
+             + f"- Guide: when to replace brake pads (6 signs): {SITE}{T.blog_url(BRAKES_ARTICLE, 'ka')}\n"
+             + f"- Mobile car wash (მანქანის რეცხვა გამოძახებით / мойка авто на выезд): exterior, wheels, interior vacuum, windows, engine on request; we bring our own water and power; 24/7: {SITE}{T.svc_url('mankanis-recxva', 'ka')}\n"
+             + f"- Car interior steam cleaning (მანქანის ქიმწმენდა გამოძახებით / химчистка салона с выездом): fabric and leather seats, ceiling, mats; 24/7: {SITE}{T.svc_url('mankanis-qimwmenda', 'ka')}\n"
+             + f"- Headlight restoration (ფარების პოლირება — steam or hand) and car bulb replacement (H1/H4/H7/H11, halogen and LED): {SITE}{T.svc_url('parebis-polireba', 'ka')}\n")
     s = T.sync_block(s, "<!-- landings:start -->", "<!-- landings:end -->", block, "## Service area") if "## Service area" in s else s + "\n<!-- landings:start -->" + block + "<!-- landings:end -->\n"
     p.write_text(s, encoding="utf-8")
 
@@ -790,6 +968,7 @@ def main():
     build_calc()
     build_tpms()
     build_brakes()
+    build_care()
     sync_links()
     sync_home_services()
     sync_sitemap_llms()

@@ -84,6 +84,9 @@ Contact us — we work 24/7.
 - [Car lockout opening](https://vulkanizacia.ge/services/daketili-avtomobilis-gakhsna/index-en.html)
 - [Tire pressure sensors (TPMS)](https://vulkanizacia.ge/services/saburavis-wnevis-sensori/index-en.html)
 - [Brake pad replacement](https://vulkanizacia.ge/services/khundebis-shecvla/index-en.html)
+- [Mobile car wash](https://vulkanizacia.ge/services/mankanis-recxva/index-en.html)
+- [Car interior cleaning](https://vulkanizacia.ge/services/mankanis-qimwmenda/index-en.html)
+- [Headlight restoration](https://vulkanizacia.ge/services/parebis-polireba/index-en.html)
 
 [All services →](https://vulkanizacia.ge/index-en.html#services)
 

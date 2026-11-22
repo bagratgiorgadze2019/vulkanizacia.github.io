@@ -101,6 +101,24 @@ Canonical: https://vulkanizacia.ge/index-ru.html
 
 [Подробнее](https://vulkanizacia.ge/services/saburavis-wnevis-sensori/index-ru.html)
 
+### [Мойка авто на выезд](https://vulkanizacia.ge/services/mankanis-recxva/index-ru.html)
+
+Помоем машину там, где она стоит, — воду и электричество привозим, 24/7.
+
+[Подробнее](https://vulkanizacia.ge/services/mankanis-recxva/index-ru.html)
+
+### [Химчистка салона авто с выездом](https://vulkanizacia.ge/services/mankanis-qimwmenda/index-ru.html)
+
+Сиденья, потолок, коврики и кожаный салон — паром, на месте.
+
+[Подробнее](https://vulkanizacia.ge/services/mankanis-qimwmenda/index-ru.html)
+
+### [Полировка фар с выездом](https://vulkanizacia.ge/services/parebis-polireba/index-ru.html)
+
+Полировка фар паром или вручную и замена ламп — на месте.
+
+[Подробнее](https://vulkanizacia.ge/services/parebis-polireba/index-ru.html)
+
 ## Шины по размерам
 
 Новые и б/у шины — с доставкой, монтажом и балансировкой на месте.
@@ -113,7 +131,7 @@ Canonical: https://vulkanizacia.ge/index-ru.html
 
 Выездной шиномонтаж приедет к вам — в любой район Тбилиси и пригороды.
 
-[Выездной шиномонтаж в Тбилиси](https://vulkanizacia.ge/vyezdnoy-shinomontazh-tbilisi/) · [Рустави](https://vulkanizacia.ge/shinomontazh-rustavi/) · [Мцхета](https://vulkanizacia.ge/shinomontazh-mtskheta/) · [Шинный калькулятор](https://vulkanizacia.ge/shinnyy-kalkulyator/) · [Датчики давления в шинах (TPMS)](https://vulkanizacia.ge/services/saburavis-wnevis-sensori/index-ru.html) · [Замена тормозных колодок с выездом](https://vulkanizacia.ge/services/khundebis-shecvla/index-ru.html)
+[Выездной шиномонтаж в Тбилиси](https://vulkanizacia.ge/vyezdnoy-shinomontazh-tbilisi/) · [Рустави](https://vulkanizacia.ge/shinomontazh-rustavi/) · [Мцхета](https://vulkanizacia.ge/shinomontazh-mtskheta/) · [Шинный калькулятор](https://vulkanizacia.ge/shinnyy-kalkulyator/) · [Датчики давления в шинах (TPMS)](https://vulkanizacia.ge/services/saburavis-wnevis-sensori/index-ru.html) · [Замена тормозных колодок с выездом](https://vulkanizacia.ge/services/khundebis-shecvla/index-ru.html) · [Мойка авто на выезд](https://vulkanizacia.ge/services/mankanis-recxva/index-ru.html) · [Химчистка салона авто с выездом](https://vulkanizacia.ge/services/mankanis-qimwmenda/index-ru.html) · [Полировка фар с выездом](https://vulkanizacia.ge/services/parebis-polireba/index-ru.html)
 
 ## Почему мы
 

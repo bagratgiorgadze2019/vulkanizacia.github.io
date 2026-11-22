@@ -50,6 +50,9 @@ Each service has a dedicated page (Georgian / English / Russian via index-en.htm
 - Tire pressure sensors (TPMS) — depends on make and model: https://vulkanizacia.ge/services/saburavis-wnevis-sensori/
 - Mobile brake service (ხუნდების შეცვლა გამოძახებით / замена колодок с выездом): front and rear brake pads, brake discs, pad wear sensor; we bring pads for the car's make and model or fit the customer's own; 24/7; price depends on make and model: https://vulkanizacia.ge/services/khundebis-shecvla/ · EN https://vulkanizacia.ge/services/khundebis-shecvla/index-en.html · RU https://vulkanizacia.ge/services/khundebis-shecvla/index-ru.html
 - Guide: when to replace brake pads (6 signs): https://vulkanizacia.ge/blog/rodis-unda-sheicvalos-khundebi/
+- Mobile car wash (მანქანის რეცხვა გამოძახებით / мойка авто на выезд): exterior, wheels, interior vacuum, windows, engine on request; we bring our own water and power; 24/7: https://vulkanizacia.ge/services/mankanis-recxva/
+- Car interior steam cleaning (მანქანის ქიმწმენდა გამოძახებით / химчистка салона с выездом): fabric and leather seats, ceiling, mats; 24/7: https://vulkanizacia.ge/services/mankanis-qimwmenda/
+- Headlight restoration (ფარების პოლირება — steam or hand) and car bulb replacement (H1/H4/H7/H11, halogen and LED): https://vulkanizacia.ge/services/parebis-polireba/
 <!-- landings:end -->
 ## Service area
 Mobile service across all Tbilisi districts: Saburtalo, Vake, Vera, Mtatsminda, Old Tbilisi, Isani, Samgori, Varketili, Chughureti, Didube, Nadzaladevi, Gldani, Avchala, Dighomi, Temka, Avlabari.

@@ -109,6 +109,24 @@ Canonical: https://vulkanizacia.ge/
 
 [ვრცლად](https://vulkanizacia.ge/services/saburavis-wnevis-sensori/)
 
+### [მანქანის რეცხვა გამოძახებით](https://vulkanizacia.ge/services/mankanis-recxva/)
+
+გავრეცხავთ იქ, სადაც მანქანა დგას — წყალი და დენი თან მოგვაქვს, 24/7.
+
+[ვრცლად](https://vulkanizacia.ge/services/mankanis-recxva/)
+
+### [მანქანის ქიმწმენდა გამოძახებით](https://vulkanizacia.ge/services/mankanis-qimwmenda/)
+
+სავარძლები, ჭერი, ნოხები და ტყავის სალონი — ორთქლით, ადგილზე.
+
+[ვრცლად](https://vulkanizacia.ge/services/mankanis-qimwmenda/)
+
+### [ფარების პოლირება გამოძახებით](https://vulkanizacia.ge/services/parebis-polireba/)
+
+ფარების პოლირება ორთქლით ან ხელით და ნათურების შეცვლა — ადგილზე.
+
+[ვრცლად](https://vulkanizacia.ge/services/parebis-polireba/)
+
 ## საბურავები ზომების მიხედვით
 
 ახალი და მეორადი საბურავები — მიწოდებით, მონტაჟით და ბალანსირებით ადგილზე.
@@ -121,7 +139,7 @@ Canonical: https://vulkanizacia.ge/
 
 მოძრავი ვულკანიზაცია მოვა თქვენთან — თბილისის ყველა უბანსა და შემოგარენში.
 
-[ვულკანიზაცია ადგილზე](https://vulkanizacia.ge/vulkanizacia-adgilze/) · [რუსთავი](https://vulkanizacia.ge/vulkanizacia-rustavshi/) · [მცხეთა](https://vulkanizacia.ge/vulkanizacia-mcxetashi/) · [საბურავის კალკულატორი](https://vulkanizacia.ge/saburavis-kalkulatori/) · [საბურავის წნევის სენსორი (ბლუთუზი)](https://vulkanizacia.ge/services/saburavis-wnevis-sensori/) · [ხუნდების შეცვლა გამოძახებით](https://vulkanizacia.ge/services/khundebis-shecvla/)
+[ვულკანიზაცია ადგილზე](https://vulkanizacia.ge/vulkanizacia-adgilze/) · [რუსთავი](https://vulkanizacia.ge/vulkanizacia-rustavshi/) · [მცხეთა](https://vulkanizacia.ge/vulkanizacia-mcxetashi/) · [საბურავის კალკულატორი](https://vulkanizacia.ge/saburavis-kalkulatori/) · [საბურავის წნევის სენსორი (ბლუთუზი)](https://vulkanizacia.ge/services/saburavis-wnevis-sensori/) · [ხუნდების შეცვლა გამოძახებით](https://vulkanizacia.ge/services/khundebis-shecvla/) · [მანქანის რეცხვა გამოძახებით](https://vulkanizacia.ge/services/mankanis-recxva/) · [მანქანის ქიმწმენდა გამოძახებით](https://vulkanizacia.ge/services/mankanis-qimwmenda/) · [ფარების პოლირება გამოძახებით](https://vulkanizacia.ge/services/parebis-polireba/)
 
 ## რატომ ჩვენ
 
@@ -3012,6 +3030,9 @@ Canonical: https://vulkanizacia.ge/services/akumulatoris-shecvla/
 - [დაკეტილი ავტომობილის გახსნა](https://vulkanizacia.ge/services/daketili-avtomobilis-gakhsna/)
 - [საბურავის წნევის სენსორი (ბლუთუზი)](https://vulkanizacia.ge/services/saburavis-wnevis-sensori/)
 - [ხუნდების შეცვლა](https://vulkanizacia.ge/services/khundebis-shecvla/)
+- [მანქანის რეცხვა](https://vulkanizacia.ge/services/mankanis-recxva/)
+- [მანქანის ქიმწმენდა](https://vulkanizacia.ge/services/mankanis-qimwmenda/)
+- [ფარების პოლირება](https://vulkanizacia.ge/services/parebis-polireba/)
 
 [ყველა სერვისი →](https://vulkanizacia.ge/index.html#services)
 
@@ -3112,6 +3133,9 @@ Canonical: https://vulkanizacia.ge/services/avtomobilis-dakokva/
 - [დაკეტილი ავტომობილის გახსნა](https://vulkanizacia.ge/services/daketili-avtomobilis-gakhsna/)
 - [საბურავის წნევის სენსორი (ბლუთუზი)](https://vulkanizacia.ge/services/saburavis-wnevis-sensori/)
 - [ხუნდების შეცვლა](https://vulkanizacia.ge/services/khundebis-shecvla/)
+- [მანქანის რეცხვა](https://vulkanizacia.ge/services/mankanis-recxva/)
+- [მანქანის ქიმწმენდა](https://vulkanizacia.ge/services/mankanis-qimwmenda/)
+- [ფარების პოლირება](https://vulkanizacia.ge/services/parebis-polireba/)
 
 [ყველა სერვისი →](https://vulkanizacia.ge/index.html#services)
 
@@ -3212,6 +3236,9 @@ Canonical: https://vulkanizacia.ge/services/balansireba/
 - [დაკეტილი ავტომობილის გახსნა](https://vulkanizacia.ge/services/daketili-avtomobilis-gakhsna/)
 - [საბურავის წნევის სენსორი (ბლუთუზი)](https://vulkanizacia.ge/services/saburavis-wnevis-sensori/)
 - [ხუნდების შეცვლა](https://vulkanizacia.ge/services/khundebis-shecvla/)
+- [მანქანის რეცხვა](https://vulkanizacia.ge/services/mankanis-recxva/)
+- [მანქანის ქიმწმენდა](https://vulkanizacia.ge/services/mankanis-qimwmenda/)
+- [ფარების პოლირება](https://vulkanizacia.ge/services/parebis-polireba/)
 
 [ყველა სერვისი →](https://vulkanizacia.ge/index.html#services)
 
@@ -3312,6 +3339,9 @@ Canonical: https://vulkanizacia.ge/services/daketili-avtomobilis-gakhsna/
 - [ავტომობილის დაქოქვა](https://vulkanizacia.ge/services/avtomobilis-dakokva/)
 - [საბურავის წნევის სენსორი (ბლუთუზი)](https://vulkanizacia.ge/services/saburavis-wnevis-sensori/)
 - [ხუნდების შეცვლა](https://vulkanizacia.ge/services/khundebis-shecvla/)
+- [მანქანის რეცხვა](https://vulkanizacia.ge/services/mankanis-recxva/)
+- [მანქანის ქიმწმენდა](https://vulkanizacia.ge/services/mankanis-qimwmenda/)
+- [ფარების პოლირება](https://vulkanizacia.ge/services/parebis-polireba/)
 
 [ყველა სერვისი →](https://vulkanizacia.ge/index.html#services)
 
@@ -3412,6 +3442,9 @@ Canonical: https://vulkanizacia.ge/services/diskis-dadugheba/
 - [დაკეტილი ავტომობილის გახსნა](https://vulkanizacia.ge/services/daketili-avtomobilis-gakhsna/)
 - [საბურავის წნევის სენსორი (ბლუთუზი)](https://vulkanizacia.ge/services/saburavis-wnevis-sensori/)
 - [ხუნდების შეცვლა](https://vulkanizacia.ge/services/khundebis-shecvla/)
+- [მანქანის რეცხვა](https://vulkanizacia.ge/services/mankanis-recxva/)
+- [მანქანის ქიმწმენდა](https://vulkanizacia.ge/services/mankanis-qimwmenda/)
+- [ფარების პოლირება](https://vulkanizacia.ge/services/parebis-polireba/)
 
 [ყველა სერვისი →](https://vulkanizacia.ge/index.html#services)
 
@@ -3512,6 +3545,9 @@ Canonical: https://vulkanizacia.ge/services/diskis-gaschoreba/
 - [სეზონური შეცვლა](https://vulkanizacia.ge/services/sezonuri-saburavebis-shecvla/)
 - [საბურავის წნევის სენსორი (ბლუთუზი)](https://vulkanizacia.ge/services/saburavis-wnevis-sensori/)
 - [ხუნდების შეცვლა](https://vulkanizacia.ge/services/khundebis-shecvla/)
+- [მანქანის რეცხვა](https://vulkanizacia.ge/services/mankanis-recxva/)
+- [მანქანის ქიმწმენდა](https://vulkanizacia.ge/services/mankanis-qimwmenda/)
+- [ფარების პოლირება](https://vulkanizacia.ge/services/parebis-polireba/)
 
 [ყველა სერვისი →](https://vulkanizacia.ge/index.html#services)
 
@@ -3612,6 +3648,9 @@ Canonical: https://vulkanizacia.ge/services/evakuatori/
 - [დაკეტილი ავტომობილის გახსნა](https://vulkanizacia.ge/services/daketili-avtomobilis-gakhsna/)
 - [საბურავის წნევის სენსორი (ბლუთუზი)](https://vulkanizacia.ge/services/saburavis-wnevis-sensori/)
 - [ხუნდების შეცვლა](https://vulkanizacia.ge/services/khundebis-shecvla/)
+- [მანქანის რეცხვა](https://vulkanizacia.ge/services/mankanis-recxva/)
+- [მანქანის ქიმწმენდა](https://vulkanizacia.ge/services/mankanis-qimwmenda/)
+- [ფარების პოლირება](https://vulkanizacia.ge/services/parebis-polireba/)
 
 [ყველა სერვისი →](https://vulkanizacia.ge/index.html#services)
 
@@ -3761,6 +3800,263 @@ Canonical: https://vulkanizacia.ge/services/khundebis-shecvla/
 
 ---
 
+Source: https://vulkanizacia.ge/services/mankanis-qimwmenda/index.html.md
+
+# მანქანის ქიმწმენდა გამოძახებით
+
+> მანქანის ქიმწმენდა გამოძახებით თბილისში: სავარძლები, ტყავის სალონი, ჭერი და ნოხები — ორთქლით, ადგილზე მისვლით, 24/7. ფასი დამოკიდებულია მანქანასა და სამუშაოზე. ☎ +995 591 90 90 13
+
+Canonical: https://vulkanizacia.ge/services/mankanis-qimwmenda/
+
+[ka](https://vulkanizacia.ge/services/mankanis-qimwmenda/) · [en](https://vulkanizacia.ge/services/mankanis-qimwmenda/index-en.html) · [ru](https://vulkanizacia.ge/services/mankanis-qimwmenda/index-ru.html)
+
+## ძირითადი ინფორმაცია
+- კომპანია: Vulkanizacia.ge — მოძრავი ვულკანიზაცია და საბურავები თბილისში
+- ტელეფონი: +995 591 90 90 13 (WhatsApp / Viber)
+- ელ-ფოსტა: info@vulkanizacia.ge
+- სამუშაო საათები: 24/7, დასვენების და სადღესასწაულო დღეების ჩათვლით
+- მისვლის დრო: თბილისში ჩვეულებრივ 20–30 წუთი
+- მომსახურება: საბურავის შეკეთება და შეცვლა ადგილზე, ახალი და მეორადი საბურავები ზომების მიხედვით, ბალანსირება, დისკის დადუღება და გასწორება
+- საბურავები: https://vulkanizacia.ge/saburavebi/
+- ევაკუატორი: https://towing.ge (+995 514 90 80 90)
+
+[საბურავები →](https://vulkanizacia.ge/saburavebi/) · [სერვისები](https://vulkanizacia.ge/index.html#services) · [უპირატესობები](https://vulkanizacia.ge/index.html#why) · [კონტაქტი](https://vulkanizacia.ge/index.html#contact)
+
+[ქა](https://vulkanizacia.ge/services/mankanis-qimwmenda/) · [EN](https://vulkanizacia.ge/services/mankanis-qimwmenda/index-en.html) · [RU](https://vulkanizacia.ge/services/mankanis-qimwmenda/index-ru.html)
+
+სალონის ქიმწმენდა ორთქლით
+
+
+მანქანის სალონის ქიმწმენდა თქვენთან — სახლთან ან სამსახურთან. სავარძლებს, ჭერს, ნოხებსა და ტყავის სალონს ორთქლით ვწმენდთ ადგილზე — მანქანის სადმე წაყვანა აღარ გჭირდებათ.
+
+[+995 591 90 90 13](tel:+995591909013) · [WhatsApp](https://wa.me/995591909013?text=%E1%83%92%E1%83%90%E1%83%9B%E1%83%90%E1%83%A0%E1%83%AF%E1%83%9D%E1%83%91%E1%83%90%2C%20%E1%83%9B%E1%83%AD%E1%83%98%E1%83%A0%E1%83%93%E1%83%94%E1%83%91%E1%83%90%20%E1%83%95%E1%83%A3%E1%83%9A%E1%83%99%E1%83%90%E1%83%9C%E1%83%98%E1%83%96%E1%83%90%E1%83%AA%E1%83%98%E1%83%90)
+
+## რას მოიცავს ქიმწმენდა
+
+- ქსოვილის სავარძლების ქიმწმენდა
+- ტყავის სალონის წმენდა
+- ჭერის ქიმწმენდა
+- ნოხებისა და იატაკის წმენდა
+- პანელის, კარებისა და საჭის წმენდა
+
+## რატომ ორთქლით
+
+ცხელი ორთქლი კარგად ხსნის ჭუჭყსა და ლაქებს, ამცირებს უსიამოვნო სუნს და სალონს ზედმეტად არ ასველებს — ამიტომ მანქანა უფრო სწრაფად შრება.
+
+## როდის გჭირდებათ ქიმწმენდა
+
+- სავარძლებზე ლაქებია — ყავის, საჭმლის ან ბავშვის კვალი
+- სალონში უსიამოვნო სუნია
+- მანქანის გაყიდვამდე ან ყიდვის შემდეგ
+- შინაური ცხოველის გადაყვანის შემდეგ
+- ზამთრის შემდეგ, როცა ნოხები და იატაკი ტალახშია
+
+## ასევე შეგიძლიათ შეუკვეთოთ
+
+[მანქანის რეცხვა გამოძახებით](https://vulkanizacia.ge/services/mankanis-recxva/) — გარედან რეცხვა, მინები და ძრავი, ჩვენი წყლითა და დენით. [ფარების პოლირება გამოძახებით](https://vulkanizacia.ge/services/parebis-polireba/) — ფარების პოლირება და ნათურების შეცვლა.
+
+## როგორ მუშაობს
+
+- • 1
+
+### დაგვირეკეთ
+
+დარეკეთ +995 591 90 90 13 ან გამოგვიგზავნეთ ლოკაცია WhatsApp-ით.
+
+- • 2
+
+### მოვალთ თქვენთან
+
+მოძრავი ვულკანიზაცია მოდის სრული აღჭურვილობით.
+
+- • 3
+
+### შევაკეთებთ ან შევცვლით
+
+საბურავს ადგილზე შევაკეთებთ, შევცვლით და დავაბალანსებთ.
+
+- • 4
+
+### გზას განაგრძობთ
+
+ფასს წინასწარ შეგითანხმებთ — შემდეგ უსაფრთხოდ განაგრძობთ გზას.
+
+## პოპულარული ზომები
+
+[185/65 R15](https://vulkanizacia.ge/saburavebi/185-65-r15/) · [195/65 R15](https://vulkanizacia.ge/saburavebi/195-65-r15/) · [205/55 R16](https://vulkanizacia.ge/saburavebi/205-55-r16/) · [215/60 R16](https://vulkanizacia.ge/saburavebi/215-60-r16/) · [215/55 R17](https://vulkanizacia.ge/saburavebi/215-55-r17/) · [225/45 R17](https://vulkanizacia.ge/saburavebi/225-45-r17/) · [225/55 R17](https://vulkanizacia.ge/saburavebi/225-55-r17/) · [225/65 R17](https://vulkanizacia.ge/saburavebi/225-65-r17/)
+
+## ასევე იხილეთ
+
+- [ვულკანიზაცია გამოძახებით თბილისში](https://vulkanizacia.ge/vulkanizacia-gamodzaxebit-tbilisshi/)
+- [ვულკანიზაცია 24/7 თბილისი](https://vulkanizacia.ge/vulkanizacia-24-7-tbilisi/)
+- [საბურავები ზომით](https://vulkanizacia.ge/saburavebi/)
+- [საბურავის კალკულატორი](https://vulkanizacia.ge/saburavis-kalkulatori/)
+- [ვულკანიზაცია ადგილზე](https://vulkanizacia.ge/vulkanizacia-adgilze/)
+- [ხუნდების შეცვლა გამოძახებით](https://vulkanizacia.ge/services/khundebis-shecvla/)
+
+## ხშირად დასმული კითხვები
+
+### რა ღირს მანქანის ქიმწმენდა?
+
+ფასი დამოკიდებულია მანქანის ზომაზე, სალონის მდგომარეობასა და იმაზე, რისი გაწმენდაა საჭირო. გამოგვიგზავნეთ სალონის ფოტო WhatsApp-ზე — ფასს წინასწარ გეტყვით.
+
+### რამდენ ხანს გრძელდება ქიმწმენდა?
+
+დამოკიდებულია სამუშაოზე — სრულ ქიმწმენდას რამდენიმე საათი სჭირდება. ზუსტ დროს წინასწარ გეტყვით.
+
+### რამდენ ხანში შრება სალონი?
+
+ორთქლით წმენდისას სალონი ნაკლებად სველდება და ჩვეულებრივ რამდენიმე საათში შრება, ზაფხულში — უფრო სწრაფად.
+
+### ტყავის სალონსაც წმენდთ?
+
+დიახ — ტყავის სავარძლებს სპეციალური საშუალებით ვწმენდთ, რომ ტყავი არ დაზიანდეს.
+
+### ღამითაც მოდიხართ?
+
+დიახ, ვმუშაობთ 24/7.
+
+## გჭირდებათ ვულკანიზაცია?
+
+დაგვირეკეთ ან მოგვწერეთ — ვმუშაობთ 24/7.
+
+[+995 591 90 90 13](tel:+995591909013) · [WhatsApp](https://wa.me/995591909013?text=%E1%83%92%E1%83%90%E1%83%9B%E1%83%90%E1%83%A0%E1%83%AF%E1%83%9D%E1%83%91%E1%83%90%2C%20%E1%83%9B%E1%83%AD%E1%83%98%E1%83%A0%E1%83%93%E1%83%94%E1%83%91%E1%83%90%20%E1%83%95%E1%83%A3%E1%83%9A%E1%83%99%E1%83%90%E1%83%9C%E1%83%98%E1%83%96%E1%83%90%E1%83%AA%E1%83%98%E1%83%90)
+
+## სად მოვდივართ
+
+[თბილისის ყველა უბანი](https://vulkanizacia.ge/vulkanizacia-adgilze/) · [რუსთავი](https://vulkanizacia.ge/vulkanizacia-rustavshi/) · [მცხეთა](https://vulkanizacia.ge/vulkanizacia-mcxetashi/)
+
+
+---
+
+Source: https://vulkanizacia.ge/services/mankanis-recxva/index.html.md
+
+# მანქანის რეცხვა გამოძახებით
+
+> მანქანის რეცხვა გამოძახებით თბილისში: მოვალთ თქვენთან და მანქანას ადგილზე გავრეცხავთ — გარედან, სალონი და ძრავი. წყალი და დენი თან მოგვაქვს, 24/7. ☎ +995 591 90 90 13
+
+Canonical: https://vulkanizacia.ge/services/mankanis-recxva/
+
+[ka](https://vulkanizacia.ge/services/mankanis-recxva/) · [en](https://vulkanizacia.ge/services/mankanis-recxva/index-en.html) · [ru](https://vulkanizacia.ge/services/mankanis-recxva/index-ru.html)
+
+## ძირითადი ინფორმაცია
+- კომპანია: Vulkanizacia.ge — მოძრავი ვულკანიზაცია და საბურავები თბილისში
+- ტელეფონი: +995 591 90 90 13 (WhatsApp / Viber)
+- ელ-ფოსტა: info@vulkanizacia.ge
+- სამუშაო საათები: 24/7, დასვენების და სადღესასწაულო დღეების ჩათვლით
+- მისვლის დრო: თბილისში ჩვეულებრივ 20–30 წუთი
+- მომსახურება: საბურავის შეკეთება და შეცვლა ადგილზე, ახალი და მეორადი საბურავები ზომების მიხედვით, ბალანსირება, დისკის დადუღება და გასწორება
+- საბურავები: https://vulkanizacia.ge/saburavebi/
+- ევაკუატორი: https://towing.ge (+995 514 90 80 90)
+
+[საბურავები →](https://vulkanizacia.ge/saburavebi/) · [სერვისები](https://vulkanizacia.ge/index.html#services) · [უპირატესობები](https://vulkanizacia.ge/index.html#why) · [კონტაქტი](https://vulkanizacia.ge/index.html#contact)
+
+[ქა](https://vulkanizacia.ge/services/mankanis-recxva/) · [EN](https://vulkanizacia.ge/services/mankanis-recxva/index-en.html) · [RU](https://vulkanizacia.ge/services/mankanis-recxva/index-ru.html)
+
+მობილური სამრეცხაო
+
+
+სამრეცხაოში რიგში დგომა აღარ გჭირდებათ — მანქანას გავრეცხავთ იქ, სადაც დგას: სახლთან, სამსახურთან ან ავტოსადგომზე. წყალი და დენი თან მოგვაქვს — თქვენგან არაფერია საჭირო.
+
+[+995 591 90 90 13](tel:+995591909013) · [WhatsApp](https://wa.me/995591909013?text=%E1%83%92%E1%83%90%E1%83%9B%E1%83%90%E1%83%A0%E1%83%AF%E1%83%9D%E1%83%91%E1%83%90%2C%20%E1%83%9B%E1%83%AD%E1%83%98%E1%83%A0%E1%83%93%E1%83%94%E1%83%91%E1%83%90%20%E1%83%95%E1%83%A3%E1%83%9A%E1%83%99%E1%83%90%E1%83%9C%E1%83%98%E1%83%96%E1%83%90%E1%83%AA%E1%83%98%E1%83%90)
+
+## რას მოიცავს რეცხვა
+
+- მანქანის რეცხვა გარედან
+- საბურავებისა და დისკების რეცხვა
+- სალონის დასუფთავება მტვერსასრუტით
+- მინების წმენდა შიგნიდან და გარედან
+- ძრავის რეცხვა — სურვილის შემთხვევაში
+
+## წყალი და დენი — ჩვენზეა
+
+მოვდივართ საკუთარი წყლით, დენითა და აღჭურვილობით — ონკანთან ან დენთან წვდომა არ გჭირდებათ. მანქანას ვრეცხავთ იქ, სადაც ის დგას, თუ ადგილი ამის საშუალებას იძლევა.
+
+## როდის არის მოსახერხებელი
+
+- როცა სამრეცხაოში წასასვლელად დრო არ გაქვთ
+- სახლთან ან ოფისთან მდგარი მანქანისთვის
+- მანქანის გაყიდვამდე ან მნიშვნელოვან შეხვედრამდე
+- რამდენიმე მანქანისთვის ერთად — ოჯახის ან კომპანიის
+
+## ასევე შეგიძლიათ შეუკვეთოთ
+
+[მანქანის ქიმწმენდა გამოძახებით](https://vulkanizacia.ge/services/mankanis-qimwmenda/) — სავარძლების, ჭერისა და ნოხების ქიმწმენდა ორთქლით. [ფარების პოლირება გამოძახებით](https://vulkanizacia.ge/services/parebis-polireba/) — გაყვითლებული ფარების გაპრიალება და დამწვარი ნათურის შეცვლა.
+
+## როგორ მუშაობს
+
+- • 1
+
+### დაგვირეკეთ
+
+დარეკეთ +995 591 90 90 13 ან გამოგვიგზავნეთ ლოკაცია WhatsApp-ით.
+
+- • 2
+
+### მოვალთ თქვენთან
+
+მოძრავი ვულკანიზაცია მოდის სრული აღჭურვილობით.
+
+- • 3
+
+### შევაკეთებთ ან შევცვლით
+
+საბურავს ადგილზე შევაკეთებთ, შევცვლით და დავაბალანსებთ.
+
+- • 4
+
+### გზას განაგრძობთ
+
+ფასს წინასწარ შეგითანხმებთ — შემდეგ უსაფრთხოდ განაგრძობთ გზას.
+
+## პოპულარული ზომები
+
+[185/65 R15](https://vulkanizacia.ge/saburavebi/185-65-r15/) · [195/65 R15](https://vulkanizacia.ge/saburavebi/195-65-r15/) · [205/55 R16](https://vulkanizacia.ge/saburavebi/205-55-r16/) · [215/60 R16](https://vulkanizacia.ge/saburavebi/215-60-r16/) · [215/55 R17](https://vulkanizacia.ge/saburavebi/215-55-r17/) · [225/45 R17](https://vulkanizacia.ge/saburavebi/225-45-r17/) · [225/55 R17](https://vulkanizacia.ge/saburavebi/225-55-r17/) · [225/65 R17](https://vulkanizacia.ge/saburavebi/225-65-r17/)
+
+## ასევე იხილეთ
+
+- [ვულკანიზაცია გამოძახებით თბილისში](https://vulkanizacia.ge/vulkanizacia-gamodzaxebit-tbilisshi/)
+- [ვულკანიზაცია 24/7 თბილისი](https://vulkanizacia.ge/vulkanizacia-24-7-tbilisi/)
+- [საბურავები ზომით](https://vulkanizacia.ge/saburavebi/)
+- [საბურავის კალკულატორი](https://vulkanizacia.ge/saburavis-kalkulatori/)
+- [ვულკანიზაცია ადგილზე](https://vulkanizacia.ge/vulkanizacia-adgilze/)
+- [ხუნდების შეცვლა გამოძახებით](https://vulkanizacia.ge/services/khundebis-shecvla/)
+
+## ხშირად დასმული კითხვები
+
+### რა ღირს მანქანის რეცხვა გამოძახებით?
+
+ფასი დამოკიდებულია მანქანის ზომასა და სამუშაოზე — მხოლოდ გარედან, სალონით თუ ძრავით. დაგვირეკეთ ან მოგვწერეთ WhatsApp-ზე — ფასს წინასწარ შეგითანხმებთ.
+
+### წყალი და დენი უნდა მოგცეთ?
+
+არა — წყალი, დენი და აღჭურვილობა თან მოგვაქვს.
+
+### სად შეგიძლიათ მანქანის გარეცხვა?
+
+სახლთან, სამსახურთან ან ავტოსადგომზე — იქ, სადაც რეცხვა დაშვებულია და ადგილი საკმარისია. თუ ეჭვი გაქვთ, დაგვირეკეთ და გეტყვით.
+
+### ძრავსაც რეცხავთ?
+
+დიახ, სურვილის შემთხვევაში ძრავსაც გავრეცხავთ.
+
+### ღამითაც მოდიხართ?
+
+დიახ, ვმუშაობთ 24/7.
+
+## გჭირდებათ ვულკანიზაცია?
+
+დაგვირეკეთ ან მოგვწერეთ — ვმუშაობთ 24/7.
+
+[+995 591 90 90 13](tel:+995591909013) · [WhatsApp](https://wa.me/995591909013?text=%E1%83%92%E1%83%90%E1%83%9B%E1%83%90%E1%83%A0%E1%83%AF%E1%83%9D%E1%83%91%E1%83%90%2C%20%E1%83%9B%E1%83%AD%E1%83%98%E1%83%A0%E1%83%93%E1%83%94%E1%83%91%E1%83%90%20%E1%83%95%E1%83%A3%E1%83%9A%E1%83%99%E1%83%90%E1%83%9C%E1%83%98%E1%83%96%E1%83%90%E1%83%AA%E1%83%98%E1%83%90)
+
+## სად მოვდივართ
+
+[თბილისის ყველა უბანი](https://vulkanizacia.ge/vulkanizacia-adgilze/) · [რუსთავი](https://vulkanizacia.ge/vulkanizacia-rustavshi/) · [მცხეთა](https://vulkanizacia.ge/vulkanizacia-mcxetashi/)
+
+
+---
+
 Source: https://vulkanizacia.ge/services/modzravi-vulkanizacia/index.html.md
 
 # მოძრავი ვულკანიზაცია
@@ -3849,6 +4145,9 @@ Canonical: https://vulkanizacia.ge/services/modzravi-vulkanizacia/
 - [დაკეტილი ავტომობილის გახსნა](https://vulkanizacia.ge/services/daketili-avtomobilis-gakhsna/)
 - [საბურავის წნევის სენსორი (ბლუთუზი)](https://vulkanizacia.ge/services/saburavis-wnevis-sensori/)
 - [ხუნდების შეცვლა](https://vulkanizacia.ge/services/khundebis-shecvla/)
+- [მანქანის რეცხვა](https://vulkanizacia.ge/services/mankanis-recxva/)
+- [მანქანის ქიმწმენდა](https://vulkanizacia.ge/services/mankanis-qimwmenda/)
+- [ფარების პოლირება](https://vulkanizacia.ge/services/parebis-polireba/)
 
 [ყველა სერვისი →](https://vulkanizacia.ge/index.html#services)
 
@@ -3857,6 +4156,137 @@ Canonical: https://vulkanizacia.ge/services/modzravi-vulkanizacia/
 ევაკუატორისთვის გადადით towing.ge-ზე — 24/7.
 
 [ევაკუატორი თბილისი](https://towing.ge) · [+995 514 90 80 90](tel:+995514908090)
+
+
+---
+
+Source: https://vulkanizacia.ge/services/parebis-polireba/index.html.md
+
+# ფარების პოლირება გამოძახებით
+
+> ფარების პოლირება გამოძახებით თბილისში — ორთქლით ან ხელით, ფარის მდგომარეობის მიხედვით. მანქანის ნათურების შეცვლა: H4, H7, H11, ლედ ნათურები. ადგილზე, 24/7. ☎ +995 591 90 90 13
+
+Canonical: https://vulkanizacia.ge/services/parebis-polireba/
+
+[ka](https://vulkanizacia.ge/services/parebis-polireba/) · [en](https://vulkanizacia.ge/services/parebis-polireba/index-en.html) · [ru](https://vulkanizacia.ge/services/parebis-polireba/index-ru.html)
+
+## ძირითადი ინფორმაცია
+- კომპანია: Vulkanizacia.ge — მოძრავი ვულკანიზაცია და საბურავები თბილისში
+- ტელეფონი: +995 591 90 90 13 (WhatsApp / Viber)
+- ელ-ფოსტა: info@vulkanizacia.ge
+- სამუშაო საათები: 24/7, დასვენების და სადღესასწაულო დღეების ჩათვლით
+- მისვლის დრო: თბილისში ჩვეულებრივ 20–30 წუთი
+- მომსახურება: საბურავის შეკეთება და შეცვლა ადგილზე, ახალი და მეორადი საბურავები ზომების მიხედვით, ბალანსირება, დისკის დადუღება და გასწორება
+- საბურავები: https://vulkanizacia.ge/saburavebi/
+- ევაკუატორი: https://towing.ge (+995 514 90 80 90)
+
+[საბურავები →](https://vulkanizacia.ge/saburavebi/) · [სერვისები](https://vulkanizacia.ge/index.html#services) · [უპირატესობები](https://vulkanizacia.ge/index.html#why) · [კონტაქტი](https://vulkanizacia.ge/index.html#contact)
+
+[ქა](https://vulkanizacia.ge/services/parebis-polireba/) · [EN](https://vulkanizacia.ge/services/parebis-polireba/index-en.html) · [RU](https://vulkanizacia.ge/services/parebis-polireba/index-ru.html)
+
+ფარები და ნათურები
+
+
+გაყვითლებული ან დაბინდული ფარები ცუდად ანათებს და მანქანას ძველ იერს აძლევს. ფარებს ადგილზე გავაპრიალებთ, დამწვარ ნათურას კი იქვე შევცვლით.
+
+[+995 591 90 90 13](tel:+995591909013) · [WhatsApp](https://wa.me/995591909013?text=%E1%83%92%E1%83%90%E1%83%9B%E1%83%90%E1%83%A0%E1%83%AF%E1%83%9D%E1%83%91%E1%83%90%2C%20%E1%83%9B%E1%83%AD%E1%83%98%E1%83%A0%E1%83%93%E1%83%94%E1%83%91%E1%83%90%20%E1%83%95%E1%83%A3%E1%83%9A%E1%83%99%E1%83%90%E1%83%9C%E1%83%98%E1%83%96%E1%83%90%E1%83%AA%E1%83%98%E1%83%90)
+
+## რას ვაკეთებთ ადგილზე
+
+- ფარების პოლირება ორთქლით
+- ფარების პოლირება ხელით — დამუშავება და გაპრიალება
+- ფარის ნათურის შეცვლა — ახლო და შორი შუქი
+- გაბარიტისა და სანისლე ფარის ნათურების შეცვლა
+
+## ორთქლით თუ ხელით — რომელი ჯობს
+
+ორთქლით პოლირება ძლიერ გაყვითლებულ და დაბინდულ ფარებს უხდება: ზედაპირს ჯერ ვამუშავებთ, შემდეგ კი ორთქლით აღვადგენთ გამჭვირვალობას. ხელით პოლირება მსუბუქად დაბინდულ ფარებს უხდება. მეთოდს ფარის მდგომარეობის მიხედვით შევარჩევთ.
+
+## მანქანის ნათურის შეცვლა
+
+ვცვლით ფარის, გაბარიტისა და სანისლე ფარის ნათურებს — H1, H4, H7, H11 და სხვა ტიპის ჰალოგენის და ლედ ნათურებს. შეგვიძლია მოგიტანოთ ნათურა თქვენი მანქანისთვის, ან დაგიყენებთ თქვენსას. ზოგიერთ მოდელზე ნათურასთან მისასვლელად ფარის ან ბამპერის მოხსნაა საჭირო — ამას დარეკვისას დაგიზუსტებთ.
+
+## როდის გჭირდებათ ფარების პოლირება
+
+- ფარები გაყვითლდა ან დაიბინდა
+- ღამით გზა ცუდად ჩანს
+- ტექდათვალიერების წინ
+- მანქანის გაყიდვამდე
+
+## ასევე შეგიძლიათ შეუკვეთოთ
+
+[მანქანის რეცხვა გამოძახებით](https://vulkanizacia.ge/services/mankanis-recxva/) — ჩვენი წყლითა და დენით. [მანქანის ქიმწმენდა გამოძახებით](https://vulkanizacia.ge/services/mankanis-qimwmenda/) — სალონის ქიმწმენდა ორთქლით.
+
+## როგორ მუშაობს
+
+- • 1
+
+### დაგვირეკეთ
+
+დარეკეთ +995 591 90 90 13 ან გამოგვიგზავნეთ ლოკაცია WhatsApp-ით.
+
+- • 2
+
+### მოვალთ თქვენთან
+
+მოძრავი ვულკანიზაცია მოდის სრული აღჭურვილობით.
+
+- • 3
+
+### შევაკეთებთ ან შევცვლით
+
+საბურავს ადგილზე შევაკეთებთ, შევცვლით და დავაბალანსებთ.
+
+- • 4
+
+### გზას განაგრძობთ
+
+ფასს წინასწარ შეგითანხმებთ — შემდეგ უსაფრთხოდ განაგრძობთ გზას.
+
+## პოპულარული ზომები
+
+[185/65 R15](https://vulkanizacia.ge/saburavebi/185-65-r15/) · [195/65 R15](https://vulkanizacia.ge/saburavebi/195-65-r15/) · [205/55 R16](https://vulkanizacia.ge/saburavebi/205-55-r16/) · [215/60 R16](https://vulkanizacia.ge/saburavebi/215-60-r16/) · [215/55 R17](https://vulkanizacia.ge/saburavebi/215-55-r17/) · [225/45 R17](https://vulkanizacia.ge/saburavebi/225-45-r17/) · [225/55 R17](https://vulkanizacia.ge/saburavebi/225-55-r17/) · [225/65 R17](https://vulkanizacia.ge/saburavebi/225-65-r17/)
+
+## ასევე იხილეთ
+
+- [ვულკანიზაცია გამოძახებით თბილისში](https://vulkanizacia.ge/vulkanizacia-gamodzaxebit-tbilisshi/)
+- [ვულკანიზაცია 24/7 თბილისი](https://vulkanizacia.ge/vulkanizacia-24-7-tbilisi/)
+- [საბურავები ზომით](https://vulkanizacia.ge/saburavebi/)
+- [საბურავის კალკულატორი](https://vulkanizacia.ge/saburavis-kalkulatori/)
+- [ვულკანიზაცია ადგილზე](https://vulkanizacia.ge/vulkanizacia-adgilze/)
+- [ხუნდების შეცვლა გამოძახებით](https://vulkanizacia.ge/services/khundebis-shecvla/)
+
+## ხშირად დასმული კითხვები
+
+### რა ღირს ფარების პოლირება?
+
+ფასი დამოკიდებულია ფარების მდგომარეობასა და მეთოდზე. გამოგვიგზავნეთ ფარების ფოტო WhatsApp-ზე — ფასს წინასწარ გეტყვით.
+
+### რა განსხვავებაა ორთქლით და ხელით პოლირებას შორის?
+
+ორთქლით პოლირება ძლიერ გაყვითლებულ და დაბინდულ ფარებს უხდება, ხელით პოლირება — მსუბუქად დაბინდულს. მეთოდს ადგილზე შევარჩევთ.
+
+### რომელ ნათურებს ცვლით?
+
+ფარის, გაბარიტისა და სანისლე ფარის ნათურებს — H1, H4, H7, H11 და სხვა ტიპის ჰალოგენის და ლედ ნათურებს.
+
+### ნათურას თქვენ მოიტანთ?
+
+შეგვიძლია მოგიტანოთ თქვენი მანქანისთვის შესაფერისი ნათურა, ან დაგიყენებთ თქვენ მიერ შეძენილს.
+
+### ღამითაც მოდიხართ?
+
+დიახ, ვმუშაობთ 24/7.
+
+## გჭირდებათ ვულკანიზაცია?
+
+დაგვირეკეთ ან მოგვწერეთ — ვმუშაობთ 24/7.
+
+[+995 591 90 90 13](tel:+995591909013) · [WhatsApp](https://wa.me/995591909013?text=%E1%83%92%E1%83%90%E1%83%9B%E1%83%90%E1%83%A0%E1%83%AF%E1%83%9D%E1%83%91%E1%83%90%2C%20%E1%83%9B%E1%83%AD%E1%83%98%E1%83%A0%E1%83%93%E1%83%94%E1%83%91%E1%83%90%20%E1%83%95%E1%83%A3%E1%83%9A%E1%83%99%E1%83%90%E1%83%9C%E1%83%98%E1%83%96%E1%83%90%E1%83%AA%E1%83%98%E1%83%90)
+
+## სად მოვდივართ
+
+[თბილისის ყველა უბანი](https://vulkanizacia.ge/vulkanizacia-adgilze/) · [რუსთავი](https://vulkanizacia.ge/vulkanizacia-rustavshi/) · [მცხეთა](https://vulkanizacia.ge/vulkanizacia-mcxetashi/)
 
 
 ---
@@ -4068,6 +4498,9 @@ Canonical: https://vulkanizacia.ge/services/sezonuri-saburavebis-shecvla/
 - [დაკეტილი ავტომობილის გახსნა](https://vulkanizacia.ge/services/daketili-avtomobilis-gakhsna/)
 - [საბურავის წნევის სენსორი (ბლუთუზი)](https://vulkanizacia.ge/services/saburavis-wnevis-sensori/)
 - [ხუნდების შეცვლა](https://vulkanizacia.ge/services/khundebis-shecvla/)
+- [მანქანის რეცხვა](https://vulkanizacia.ge/services/mankanis-recxva/)
+- [მანქანის ქიმწმენდა](https://vulkanizacia.ge/services/mankanis-qimwmenda/)
+- [ფარების პოლირება](https://vulkanizacia.ge/services/parebis-polireba/)
 
 [ყველა სერვისი →](https://vulkanizacia.ge/index.html#services)
 
@@ -4830,6 +5263,24 @@ Sensor check, replacement and programming — depends on make and model.
 
 [Details](https://vulkanizacia.ge/services/saburavis-wnevis-sensori/index-en.html)
 
+### [Mobile car wash in Tbilisi](https://vulkanizacia.ge/services/mankanis-recxva/index-en.html)
+
+We wash your car where it's parked — we bring water and power, 24/7.
+
+[Details](https://vulkanizacia.ge/services/mankanis-recxva/index-en.html)
+
+### [Car interior cleaning on site](https://vulkanizacia.ge/services/mankanis-qimwmenda/index-en.html)
+
+Seats, ceiling, mats and leather interiors — steam cleaned on site.
+
+[Details](https://vulkanizacia.ge/services/mankanis-qimwmenda/index-en.html)
+
+### [Headlight restoration on site](https://vulkanizacia.ge/services/parebis-polireba/index-en.html)
+
+Steam or hand headlight polishing and bulb replacement — on site.
+
+[Details](https://vulkanizacia.ge/services/parebis-polireba/index-en.html)
+
 ## Tires by size
 
 New and used tires — delivered, fitted and balanced on site.
@@ -4842,7 +5293,7 @@ New and used tires — delivered, fitted and balanced on site.
 
 Our mobile tire service comes to you — in every Tbilisi district and nearby towns.
 
-[Mobile tire repair in Tbilisi](https://vulkanizacia.ge/mobile-tire-repair-tbilisi/) · [Rustavi](https://vulkanizacia.ge/tire-repair-rustavi/) · [Mtskheta](https://vulkanizacia.ge/tire-repair-mtskheta/) · [Tire size calculator](https://vulkanizacia.ge/tire-size-calculator/) · [Tire pressure sensors (TPMS)](https://vulkanizacia.ge/services/saburavis-wnevis-sensori/index-en.html) · [Mobile brake repair in Tbilisi](https://vulkanizacia.ge/services/khundebis-shecvla/index-en.html)
+[Mobile tire repair in Tbilisi](https://vulkanizacia.ge/mobile-tire-repair-tbilisi/) · [Rustavi](https://vulkanizacia.ge/tire-repair-rustavi/) · [Mtskheta](https://vulkanizacia.ge/tire-repair-mtskheta/) · [Tire size calculator](https://vulkanizacia.ge/tire-size-calculator/) · [Tire pressure sensors (TPMS)](https://vulkanizacia.ge/services/saburavis-wnevis-sensori/index-en.html) · [Mobile brake repair in Tbilisi](https://vulkanizacia.ge/services/khundebis-shecvla/index-en.html) · [Mobile car wash in Tbilisi](https://vulkanizacia.ge/services/mankanis-recxva/index-en.html) · [Car interior cleaning on site](https://vulkanizacia.ge/services/mankanis-qimwmenda/index-en.html) · [Headlight restoration on site](https://vulkanizacia.ge/services/parebis-polireba/index-en.html)
 
 ## Why choose us
 
@@ -6056,6 +6507,9 @@ Contact us — we work 24/7.
 - [Car lockout opening](https://vulkanizacia.ge/services/daketili-avtomobilis-gakhsna/index-en.html)
 - [Tire pressure sensors (TPMS)](https://vulkanizacia.ge/services/saburavis-wnevis-sensori/index-en.html)
 - [Brake pad replacement](https://vulkanizacia.ge/services/khundebis-shecvla/index-en.html)
+- [Mobile car wash](https://vulkanizacia.ge/services/mankanis-recxva/index-en.html)
+- [Car interior cleaning](https://vulkanizacia.ge/services/mankanis-qimwmenda/index-en.html)
+- [Headlight restoration](https://vulkanizacia.ge/services/parebis-polireba/index-en.html)
 
 [All services →](https://vulkanizacia.ge/index-en.html#services)
 
@@ -6156,6 +6610,9 @@ Contact us — we work 24/7.
 - [Car lockout opening](https://vulkanizacia.ge/services/daketili-avtomobilis-gakhsna/index-en.html)
 - [Tire pressure sensors (TPMS)](https://vulkanizacia.ge/services/saburavis-wnevis-sensori/index-en.html)
 - [Brake pad replacement](https://vulkanizacia.ge/services/khundebis-shecvla/index-en.html)
+- [Mobile car wash](https://vulkanizacia.ge/services/mankanis-recxva/index-en.html)
+- [Car interior cleaning](https://vulkanizacia.ge/services/mankanis-qimwmenda/index-en.html)
+- [Headlight restoration](https://vulkanizacia.ge/services/parebis-polireba/index-en.html)
 
 [All services →](https://vulkanizacia.ge/index-en.html#services)
 
@@ -6256,6 +6713,9 @@ Contact us — we work 24/7.
 - [Car lockout opening](https://vulkanizacia.ge/services/daketili-avtomobilis-gakhsna/index-en.html)
 - [Tire pressure sensors (TPMS)](https://vulkanizacia.ge/services/saburavis-wnevis-sensori/index-en.html)
 - [Brake pad replacement](https://vulkanizacia.ge/services/khundebis-shecvla/index-en.html)
+- [Mobile car wash](https://vulkanizacia.ge/services/mankanis-recxva/index-en.html)
+- [Car interior cleaning](https://vulkanizacia.ge/services/mankanis-qimwmenda/index-en.html)
+- [Headlight restoration](https://vulkanizacia.ge/services/parebis-polireba/index-en.html)
 
 [All services →](https://vulkanizacia.ge/index-en.html#services)
 
@@ -6356,6 +6816,9 @@ Contact us — we work 24/7.
 - [Car jump start](https://vulkanizacia.ge/services/avtomobilis-dakokva/index-en.html)
 - [Tire pressure sensors (TPMS)](https://vulkanizacia.ge/services/saburavis-wnevis-sensori/index-en.html)
 - [Brake pad replacement](https://vulkanizacia.ge/services/khundebis-shecvla/index-en.html)
+- [Mobile car wash](https://vulkanizacia.ge/services/mankanis-recxva/index-en.html)
+- [Car interior cleaning](https://vulkanizacia.ge/services/mankanis-qimwmenda/index-en.html)
+- [Headlight restoration](https://vulkanizacia.ge/services/parebis-polireba/index-en.html)
 
 [All services →](https://vulkanizacia.ge/index-en.html#services)
 
@@ -6456,6 +6919,9 @@ Contact us — we work 24/7.
 - [Car lockout opening](https://vulkanizacia.ge/services/daketili-avtomobilis-gakhsna/index-en.html)
 - [Tire pressure sensors (TPMS)](https://vulkanizacia.ge/services/saburavis-wnevis-sensori/index-en.html)
 - [Brake pad replacement](https://vulkanizacia.ge/services/khundebis-shecvla/index-en.html)
+- [Mobile car wash](https://vulkanizacia.ge/services/mankanis-recxva/index-en.html)
+- [Car interior cleaning](https://vulkanizacia.ge/services/mankanis-qimwmenda/index-en.html)
+- [Headlight restoration](https://vulkanizacia.ge/services/parebis-polireba/index-en.html)
 
 [All services →](https://vulkanizacia.ge/index-en.html#services)
 
@@ -6556,6 +7022,9 @@ Contact us — we work 24/7.
 - [Seasonal tyre change](https://vulkanizacia.ge/services/sezonuri-saburavebis-shecvla/index-en.html)
 - [Tire pressure sensors (TPMS)](https://vulkanizacia.ge/services/saburavis-wnevis-sensori/index-en.html)
 - [Brake pad replacement](https://vulkanizacia.ge/services/khundebis-shecvla/index-en.html)
+- [Mobile car wash](https://vulkanizacia.ge/services/mankanis-recxva/index-en.html)
+- [Car interior cleaning](https://vulkanizacia.ge/services/mankanis-qimwmenda/index-en.html)
+- [Headlight restoration](https://vulkanizacia.ge/services/parebis-polireba/index-en.html)
 
 [All services →](https://vulkanizacia.ge/index-en.html#services)
 
@@ -6656,6 +7125,9 @@ Contact us — we work 24/7.
 - [Car lockout opening](https://vulkanizacia.ge/services/daketili-avtomobilis-gakhsna/index-en.html)
 - [Tire pressure sensors (TPMS)](https://vulkanizacia.ge/services/saburavis-wnevis-sensori/index-en.html)
 - [Brake pad replacement](https://vulkanizacia.ge/services/khundebis-shecvla/index-en.html)
+- [Mobile car wash](https://vulkanizacia.ge/services/mankanis-recxva/index-en.html)
+- [Car interior cleaning](https://vulkanizacia.ge/services/mankanis-qimwmenda/index-en.html)
+- [Headlight restoration](https://vulkanizacia.ge/services/parebis-polireba/index-en.html)
 
 [All services →](https://vulkanizacia.ge/index-en.html#services)
 
@@ -6805,6 +7277,263 @@ Call or message us — we work 24/7.
 
 ---
 
+Source: https://vulkanizacia.ge/services/mankanis-qimwmenda/index-en.html.md
+
+# Car interior cleaning on site
+
+> Car interior cleaning in Tbilisi: seats, leather interiors, ceiling and mats — steam cleaned at your place, 24/7. Price depends on the car and the job. ☎ +995 591 90 90 13
+
+Canonical: https://vulkanizacia.ge/services/mankanis-qimwmenda/index-en.html
+
+[ka](https://vulkanizacia.ge/services/mankanis-qimwmenda/) · [en](https://vulkanizacia.ge/services/mankanis-qimwmenda/index-en.html) · [ru](https://vulkanizacia.ge/services/mankanis-qimwmenda/index-ru.html)
+
+## Key facts
+- Business: Vulkanizacia.ge — mobile tyre service and tyre sales in Tbilisi, Georgia
+- Phone: +995 591 90 90 13 (WhatsApp / Viber)
+- Email: info@vulkanizacia.ge
+- Hours: 24/7, including weekends and holidays
+- Arrival time: typically 20–30 minutes within Tbilisi
+- Services: on-site tyre repair and replacement, new and used tyres by size, wheel balancing, rim welding and straightening
+- Tyres: https://vulkanizacia.ge/saburavebi/index-en.html
+- Tow truck: https://towing.ge (+995 514 90 80 90)
+
+[Tyres →](https://vulkanizacia.ge/tyres/) · [Services](https://vulkanizacia.ge/index-en.html#services) · [Why us](https://vulkanizacia.ge/index-en.html#why) · [Contact](https://vulkanizacia.ge/index-en.html#contact)
+
+[ქა](https://vulkanizacia.ge/services/mankanis-qimwmenda/) · [EN](https://vulkanizacia.ge/services/mankanis-qimwmenda/index-en.html) · [RU](https://vulkanizacia.ge/services/mankanis-qimwmenda/index-ru.html)
+
+Steam interior cleaning
+
+
+Car interior cleaning at your place — at home or at work. We steam clean seats, ceiling, mats and leather interiors on the spot, so you don't need to take the car anywhere.
+
+[+995 591 90 90 13](tel:+995591909013) · [WhatsApp](https://wa.me/995591909013?text=Hello%2C%20I%20need%20a%20mobile%20tire%20service)
+
+## What the cleaning includes
+
+- Fabric seat cleaning
+- Leather interior cleaning
+- Ceiling (headliner) cleaning
+- Mats and floor cleaning
+- Dashboard, doors and steering wheel
+
+## Why steam
+
+Hot steam lifts dirt and stains, reduces bad smells and doesn't soak the interior — so the car dries faster.
+
+## When you need it
+
+- Stains on the seats — coffee, food or kids
+- A bad smell in the car
+- Before selling or after buying a car
+- After transporting a pet
+- After winter, when mats and floor are muddy
+
+## You can also order
+
+[Mobile car wash in Tbilisi](https://vulkanizacia.ge/services/mankanis-recxva/index-en.html) — exterior, windows and engine, with our own water and power. [Headlight restoration on site](https://vulkanizacia.ge/services/parebis-polireba/index-en.html) — headlight restoration and bulb replacement.
+
+## How it works
+
+- • 1
+
+### Call us
+
+Call +995 591 90 90 13 or send your location on WhatsApp.
+
+- • 2
+
+### We come to you
+
+The mobile tire service arrives fully equipped.
+
+- • 3
+
+### Repair or replace
+
+We repair, replace and balance the tire on the spot.
+
+- • 4
+
+### Back on the road
+
+We agree the price in advance — then you continue safely.
+
+## Popular sizes
+
+[185/65 R15](https://vulkanizacia.ge/tyres/185-65-r15/) · [195/65 R15](https://vulkanizacia.ge/tyres/195-65-r15/) · [205/55 R16](https://vulkanizacia.ge/tyres/205-55-r16/) · [215/60 R16](https://vulkanizacia.ge/tyres/215-60-r16/) · [215/55 R17](https://vulkanizacia.ge/tyres/215-55-r17/) · [225/45 R17](https://vulkanizacia.ge/tyres/225-45-r17/) · [225/55 R17](https://vulkanizacia.ge/tyres/225-55-r17/) · [225/65 R17](https://vulkanizacia.ge/tyres/225-65-r17/)
+
+## See also
+
+- [Vulcanization on call in Tbilisi](https://vulkanizacia.ge/vulcanization-on-call-tbilisi/)
+- [Vulcanization 24/7 in Tbilisi](https://vulkanizacia.ge/vulcanization-24-7-tbilisi/)
+- [Tires by size](https://vulkanizacia.ge/tyres/)
+- [Tire size calculator](https://vulkanizacia.ge/tire-size-calculator/)
+- [Mobile tire repair in Tbilisi](https://vulkanizacia.ge/mobile-tire-repair-tbilisi/)
+- [Mobile brake repair in Tbilisi](https://vulkanizacia.ge/services/khundebis-shecvla/index-en.html)
+
+## Frequently asked questions
+
+### How much does car interior cleaning cost?
+
+It depends on the car size, the condition of the interior and what needs cleaning. Send us a photo on WhatsApp — we tell you the price in advance.
+
+### How long does it take?
+
+It depends on the job — a full interior clean takes a few hours. We tell you the exact time in advance.
+
+### How long does the interior take to dry?
+
+Steam cleaning doesn't soak the interior, so it usually dries within a few hours — faster in summer.
+
+### Do you clean leather interiors?
+
+Yes — we clean leather seats with a suitable product so the leather isn't damaged.
+
+### Do you come at night?
+
+Yes, we work 24/7.
+
+## Need a tire service?
+
+Call or message us — we work 24/7.
+
+[+995 591 90 90 13](tel:+995591909013) · [WhatsApp](https://wa.me/995591909013?text=Hello%2C%20I%20need%20a%20mobile%20tire%20service)
+
+## Where we come
+
+[All Tbilisi districts](https://vulkanizacia.ge/mobile-tire-repair-tbilisi/) · [Rustavi](https://vulkanizacia.ge/tire-repair-rustavi/) · [Mtskheta](https://vulkanizacia.ge/tire-repair-mtskheta/)
+
+
+---
+
+Source: https://vulkanizacia.ge/services/mankanis-recxva/index-en.html.md
+
+# Mobile car wash in Tbilisi
+
+> Mobile car wash in Tbilisi: we come to you and wash your car on the spot — outside, interior and engine. We bring our own water and power, 24/7. ☎ +995 591 90 90 13
+
+Canonical: https://vulkanizacia.ge/services/mankanis-recxva/index-en.html
+
+[ka](https://vulkanizacia.ge/services/mankanis-recxva/) · [en](https://vulkanizacia.ge/services/mankanis-recxva/index-en.html) · [ru](https://vulkanizacia.ge/services/mankanis-recxva/index-ru.html)
+
+## Key facts
+- Business: Vulkanizacia.ge — mobile tyre service and tyre sales in Tbilisi, Georgia
+- Phone: +995 591 90 90 13 (WhatsApp / Viber)
+- Email: info@vulkanizacia.ge
+- Hours: 24/7, including weekends and holidays
+- Arrival time: typically 20–30 minutes within Tbilisi
+- Services: on-site tyre repair and replacement, new and used tyres by size, wheel balancing, rim welding and straightening
+- Tyres: https://vulkanizacia.ge/saburavebi/index-en.html
+- Tow truck: https://towing.ge (+995 514 90 80 90)
+
+[Tyres →](https://vulkanizacia.ge/tyres/) · [Services](https://vulkanizacia.ge/index-en.html#services) · [Why us](https://vulkanizacia.ge/index-en.html#why) · [Contact](https://vulkanizacia.ge/index-en.html#contact)
+
+[ქა](https://vulkanizacia.ge/services/mankanis-recxva/) · [EN](https://vulkanizacia.ge/services/mankanis-recxva/index-en.html) · [RU](https://vulkanizacia.ge/services/mankanis-recxva/index-ru.html)
+
+Mobile car wash
+
+
+No more queues at the car wash — we wash your car where it's parked: at home, at work or in a car park. We bring our own water and power, so you don't need anything.
+
+[+995 591 90 90 13](tel:+995591909013) · [WhatsApp](https://wa.me/995591909013?text=Hello%2C%20I%20need%20a%20mobile%20tire%20service)
+
+## What the wash includes
+
+- Exterior wash
+- Wheels and rims
+- Interior vacuuming
+- Windows inside and out
+- Engine wash — on request
+
+## We bring the water and power
+
+We arrive with our own water, power and equipment — you don't need a tap or a socket. We wash the car where it is parked, as long as the spot allows it.
+
+## When it's most convenient
+
+- When you have no time to go to a car wash
+- For a car parked at home or at the office
+- Before selling the car or an important meeting
+- For several cars at once — family or company
+
+## You can also order
+
+[Car interior cleaning on site](https://vulkanizacia.ge/services/mankanis-qimwmenda/index-en.html) — steam cleaning of seats, ceiling and mats. [Headlight restoration on site](https://vulkanizacia.ge/services/parebis-polireba/index-en.html) — restoring yellowed headlights and replacing a dead bulb.
+
+## How it works
+
+- • 1
+
+### Call us
+
+Call +995 591 90 90 13 or send your location on WhatsApp.
+
+- • 2
+
+### We come to you
+
+The mobile tire service arrives fully equipped.
+
+- • 3
+
+### Repair or replace
+
+We repair, replace and balance the tire on the spot.
+
+- • 4
+
+### Back on the road
+
+We agree the price in advance — then you continue safely.
+
+## Popular sizes
+
+[185/65 R15](https://vulkanizacia.ge/tyres/185-65-r15/) · [195/65 R15](https://vulkanizacia.ge/tyres/195-65-r15/) · [205/55 R16](https://vulkanizacia.ge/tyres/205-55-r16/) · [215/60 R16](https://vulkanizacia.ge/tyres/215-60-r16/) · [215/55 R17](https://vulkanizacia.ge/tyres/215-55-r17/) · [225/45 R17](https://vulkanizacia.ge/tyres/225-45-r17/) · [225/55 R17](https://vulkanizacia.ge/tyres/225-55-r17/) · [225/65 R17](https://vulkanizacia.ge/tyres/225-65-r17/)
+
+## See also
+
+- [Vulcanization on call in Tbilisi](https://vulkanizacia.ge/vulcanization-on-call-tbilisi/)
+- [Vulcanization 24/7 in Tbilisi](https://vulkanizacia.ge/vulcanization-24-7-tbilisi/)
+- [Tires by size](https://vulkanizacia.ge/tyres/)
+- [Tire size calculator](https://vulkanizacia.ge/tire-size-calculator/)
+- [Mobile tire repair in Tbilisi](https://vulkanizacia.ge/mobile-tire-repair-tbilisi/)
+- [Mobile brake repair in Tbilisi](https://vulkanizacia.ge/services/khundebis-shecvla/index-en.html)
+
+## Frequently asked questions
+
+### How much does a mobile car wash cost?
+
+It depends on the car size and the job — outside only, with interior or with the engine. Call or message us on WhatsApp — we agree the price in advance.
+
+### Do I need to provide water or power?
+
+No — we bring water, power and equipment.
+
+### Where can you wash my car?
+
+At home, at work or in a car park — wherever washing is allowed and there is enough space. If in doubt, call us.
+
+### Do you wash engines too?
+
+Yes, on request we also wash the engine.
+
+### Do you come at night?
+
+Yes, we work 24/7.
+
+## Need a tire service?
+
+Call or message us — we work 24/7.
+
+[+995 591 90 90 13](tel:+995591909013) · [WhatsApp](https://wa.me/995591909013?text=Hello%2C%20I%20need%20a%20mobile%20tire%20service)
+
+## Where we come
+
+[All Tbilisi districts](https://vulkanizacia.ge/mobile-tire-repair-tbilisi/) · [Rustavi](https://vulkanizacia.ge/tire-repair-rustavi/) · [Mtskheta](https://vulkanizacia.ge/tire-repair-mtskheta/)
+
+
+---
+
 Source: https://vulkanizacia.ge/services/modzravi-vulkanizacia/index-en.html.md
 
 # Mobile tyre vulcanization
@@ -6893,6 +7622,9 @@ Contact us — we work 24/7.
 - [Car lockout opening](https://vulkanizacia.ge/services/daketili-avtomobilis-gakhsna/index-en.html)
 - [Tire pressure sensors (TPMS)](https://vulkanizacia.ge/services/saburavis-wnevis-sensori/index-en.html)
 - [Brake pad replacement](https://vulkanizacia.ge/services/khundebis-shecvla/index-en.html)
+- [Mobile car wash](https://vulkanizacia.ge/services/mankanis-recxva/index-en.html)
+- [Car interior cleaning](https://vulkanizacia.ge/services/mankanis-qimwmenda/index-en.html)
+- [Headlight restoration](https://vulkanizacia.ge/services/parebis-polireba/index-en.html)
 
 [All services →](https://vulkanizacia.ge/index-en.html#services)
 
@@ -6901,6 +7633,137 @@ Contact us — we work 24/7.
 For towing, go to towing.ge — available 24/7.
 
 [Tow truck Tbilisi](https://towing.ge) · [+995 514 90 80 90](tel:+995514908090)
+
+
+---
+
+Source: https://vulkanizacia.ge/services/parebis-polireba/index-en.html.md
+
+# Headlight restoration on site
+
+> Headlight restoration in Tbilisi — steam or hand polishing, depending on the headlight. Car bulb replacement: H4, H7, H11 and LED bulbs. On site, 24/7. ☎ +995 591 90 90 13
+
+Canonical: https://vulkanizacia.ge/services/parebis-polireba/index-en.html
+
+[ka](https://vulkanizacia.ge/services/parebis-polireba/) · [en](https://vulkanizacia.ge/services/parebis-polireba/index-en.html) · [ru](https://vulkanizacia.ge/services/parebis-polireba/index-ru.html)
+
+## Key facts
+- Business: Vulkanizacia.ge — mobile tyre service and tyre sales in Tbilisi, Georgia
+- Phone: +995 591 90 90 13 (WhatsApp / Viber)
+- Email: info@vulkanizacia.ge
+- Hours: 24/7, including weekends and holidays
+- Arrival time: typically 20–30 minutes within Tbilisi
+- Services: on-site tyre repair and replacement, new and used tyres by size, wheel balancing, rim welding and straightening
+- Tyres: https://vulkanizacia.ge/saburavebi/index-en.html
+- Tow truck: https://towing.ge (+995 514 90 80 90)
+
+[Tyres →](https://vulkanizacia.ge/tyres/) · [Services](https://vulkanizacia.ge/index-en.html#services) · [Why us](https://vulkanizacia.ge/index-en.html#why) · [Contact](https://vulkanizacia.ge/index-en.html#contact)
+
+[ქა](https://vulkanizacia.ge/services/parebis-polireba/) · [EN](https://vulkanizacia.ge/services/parebis-polireba/index-en.html) · [RU](https://vulkanizacia.ge/services/parebis-polireba/index-ru.html)
+
+Headlights and bulbs
+
+
+Yellowed or cloudy headlights light the road poorly and make the car look old. We restore the headlights on site and replace a dead bulb right there.
+
+[+995 591 90 90 13](tel:+995591909013) · [WhatsApp](https://wa.me/995591909013?text=Hello%2C%20I%20need%20a%20mobile%20tire%20service)
+
+## What we do on site
+
+- Steam headlight restoration
+- Hand polishing — sanding and polishing
+- Headlight bulb replacement — low and high beam
+- Side light and fog light bulbs
+
+## Steam or hand polishing — which is better
+
+Steam restoration suits badly yellowed and cloudy headlights: we first prepare the surface, then restore clarity with steam. Hand polishing suits lightly clouded headlights. We choose the method by the headlight's condition.
+
+## Car bulb replacement
+
+We replace headlight, side light and fog light bulbs — H1, H4, H7, H11 and other halogen and LED bulbs. We can bring a bulb for your car or fit yours. On some models the headlight or bumper has to come off to reach the bulb — we'll confirm when you call.
+
+## When you need headlight restoration
+
+- The headlights are yellow or cloudy
+- The road is hard to see at night
+- Before a technical inspection
+- Before selling the car
+
+## You can also order
+
+[Mobile car wash in Tbilisi](https://vulkanizacia.ge/services/mankanis-recxva/index-en.html) — with our own water and power. [Car interior cleaning on site](https://vulkanizacia.ge/services/mankanis-qimwmenda/index-en.html) — steam interior cleaning.
+
+## How it works
+
+- • 1
+
+### Call us
+
+Call +995 591 90 90 13 or send your location on WhatsApp.
+
+- • 2
+
+### We come to you
+
+The mobile tire service arrives fully equipped.
+
+- • 3
+
+### Repair or replace
+
+We repair, replace and balance the tire on the spot.
+
+- • 4
+
+### Back on the road
+
+We agree the price in advance — then you continue safely.
+
+## Popular sizes
+
+[185/65 R15](https://vulkanizacia.ge/tyres/185-65-r15/) · [195/65 R15](https://vulkanizacia.ge/tyres/195-65-r15/) · [205/55 R16](https://vulkanizacia.ge/tyres/205-55-r16/) · [215/60 R16](https://vulkanizacia.ge/tyres/215-60-r16/) · [215/55 R17](https://vulkanizacia.ge/tyres/215-55-r17/) · [225/45 R17](https://vulkanizacia.ge/tyres/225-45-r17/) · [225/55 R17](https://vulkanizacia.ge/tyres/225-55-r17/) · [225/65 R17](https://vulkanizacia.ge/tyres/225-65-r17/)
+
+## See also
+
+- [Vulcanization on call in Tbilisi](https://vulkanizacia.ge/vulcanization-on-call-tbilisi/)
+- [Vulcanization 24/7 in Tbilisi](https://vulkanizacia.ge/vulcanization-24-7-tbilisi/)
+- [Tires by size](https://vulkanizacia.ge/tyres/)
+- [Tire size calculator](https://vulkanizacia.ge/tire-size-calculator/)
+- [Mobile tire repair in Tbilisi](https://vulkanizacia.ge/mobile-tire-repair-tbilisi/)
+- [Mobile brake repair in Tbilisi](https://vulkanizacia.ge/services/khundebis-shecvla/index-en.html)
+
+## Frequently asked questions
+
+### How much does headlight restoration cost?
+
+It depends on the headlights' condition and the method. Send us a photo of the headlights on WhatsApp — we tell you the price in advance.
+
+### What's the difference between steam and hand polishing?
+
+Steam suits badly yellowed and cloudy headlights, hand polishing suits lightly clouded ones. We choose on site.
+
+### Which bulbs do you replace?
+
+Headlight, side light and fog light bulbs — H1, H4, H7, H11 and other halogen and LED bulbs.
+
+### Do you bring the bulb?
+
+We can bring a suitable bulb for your car, or fit one you bought.
+
+### Do you come at night?
+
+Yes, we work 24/7.
+
+## Need a tire service?
+
+Call or message us — we work 24/7.
+
+[+995 591 90 90 13](tel:+995591909013) · [WhatsApp](https://wa.me/995591909013?text=Hello%2C%20I%20need%20a%20mobile%20tire%20service)
+
+## Where we come
+
+[All Tbilisi districts](https://vulkanizacia.ge/mobile-tire-repair-tbilisi/) · [Rustavi](https://vulkanizacia.ge/tire-repair-rustavi/) · [Mtskheta](https://vulkanizacia.ge/tire-repair-mtskheta/)
 
 
 ---
@@ -7112,6 +7975,9 @@ Contact us — we work 24/7.
 - [Car lockout opening](https://vulkanizacia.ge/services/daketili-avtomobilis-gakhsna/index-en.html)
 - [Tire pressure sensors (TPMS)](https://vulkanizacia.ge/services/saburavis-wnevis-sensori/index-en.html)
 - [Brake pad replacement](https://vulkanizacia.ge/services/khundebis-shecvla/index-en.html)
+- [Mobile car wash](https://vulkanizacia.ge/services/mankanis-recxva/index-en.html)
+- [Car interior cleaning](https://vulkanizacia.ge/services/mankanis-qimwmenda/index-en.html)
+- [Headlight restoration](https://vulkanizacia.ge/services/parebis-polireba/index-en.html)
 
 [All services →](https://vulkanizacia.ge/index-en.html#services)
 
@@ -16474,6 +17340,24 @@ Canonical: https://vulkanizacia.ge/index-ru.html
 
 [Подробнее](https://vulkanizacia.ge/services/saburavis-wnevis-sensori/index-ru.html)
 
+### [Мойка авто на выезд](https://vulkanizacia.ge/services/mankanis-recxva/index-ru.html)
+
+Помоем машину там, где она стоит, — воду и электричество привозим, 24/7.
+
+[Подробнее](https://vulkanizacia.ge/services/mankanis-recxva/index-ru.html)
+
+### [Химчистка салона авто с выездом](https://vulkanizacia.ge/services/mankanis-qimwmenda/index-ru.html)
+
+Сиденья, потолок, коврики и кожаный салон — паром, на месте.
+
+[Подробнее](https://vulkanizacia.ge/services/mankanis-qimwmenda/index-ru.html)
+
+### [Полировка фар с выездом](https://vulkanizacia.ge/services/parebis-polireba/index-ru.html)
+
+Полировка фар паром или вручную и замена ламп — на месте.
+
+[Подробнее](https://vulkanizacia.ge/services/parebis-polireba/index-ru.html)
+
 ## Шины по размерам
 
 Новые и б/у шины — с доставкой, монтажом и балансировкой на месте.
@@ -16486,7 +17370,7 @@ Canonical: https://vulkanizacia.ge/index-ru.html
 
 Выездной шиномонтаж приедет к вам — в любой район Тбилиси и пригороды.
 
-[Выездной шиномонтаж в Тбилиси](https://vulkanizacia.ge/vyezdnoy-shinomontazh-tbilisi/) · [Рустави](https://vulkanizacia.ge/shinomontazh-rustavi/) · [Мцхета](https://vulkanizacia.ge/shinomontazh-mtskheta/) · [Шинный калькулятор](https://vulkanizacia.ge/shinnyy-kalkulyator/) · [Датчики давления в шинах (TPMS)](https://vulkanizacia.ge/services/saburavis-wnevis-sensori/index-ru.html) · [Замена тормозных колодок с выездом](https://vulkanizacia.ge/services/khundebis-shecvla/index-ru.html)
+[Выездной шиномонтаж в Тбилиси](https://vulkanizacia.ge/vyezdnoy-shinomontazh-tbilisi/) · [Рустави](https://vulkanizacia.ge/shinomontazh-rustavi/) · [Мцхета](https://vulkanizacia.ge/shinomontazh-mtskheta/) · [Шинный калькулятор](https://vulkanizacia.ge/shinnyy-kalkulyator/) · [Датчики давления в шинах (TPMS)](https://vulkanizacia.ge/services/saburavis-wnevis-sensori/index-ru.html) · [Замена тормозных колодок с выездом](https://vulkanizacia.ge/services/khundebis-shecvla/index-ru.html) · [Мойка авто на выезд](https://vulkanizacia.ge/services/mankanis-recxva/index-ru.html) · [Химчистка салона авто с выездом](https://vulkanizacia.ge/services/mankanis-qimwmenda/index-ru.html) · [Полировка фар с выездом](https://vulkanizacia.ge/services/parebis-polireba/index-ru.html)
 
 ## Почему мы
 
@@ -17558,6 +18442,9 @@ Canonical: https://vulkanizacia.ge/services/akumulatoris-shecvla/index-ru.html
 - [Вскрытие автомобиля](https://vulkanizacia.ge/services/daketili-avtomobilis-gakhsna/index-ru.html)
 - [Датчики давления в шинах (TPMS)](https://vulkanizacia.ge/services/saburavis-wnevis-sensori/index-ru.html)
 - [Замена колодок](https://vulkanizacia.ge/services/khundebis-shecvla/index-ru.html)
+- [Мойка авто на выезд](https://vulkanizacia.ge/services/mankanis-recxva/index-ru.html)
+- [Химчистка салона](https://vulkanizacia.ge/services/mankanis-qimwmenda/index-ru.html)
+- [Полировка фар](https://vulkanizacia.ge/services/parebis-polireba/index-ru.html)
 
 [Все услуги →](https://vulkanizacia.ge/index-ru.html#services)
 
@@ -17658,6 +18545,9 @@ Canonical: https://vulkanizacia.ge/services/avtomobilis-dakokva/index-ru.html
 - [Вскрытие автомобиля](https://vulkanizacia.ge/services/daketili-avtomobilis-gakhsna/index-ru.html)
 - [Датчики давления в шинах (TPMS)](https://vulkanizacia.ge/services/saburavis-wnevis-sensori/index-ru.html)
 - [Замена колодок](https://vulkanizacia.ge/services/khundebis-shecvla/index-ru.html)
+- [Мойка авто на выезд](https://vulkanizacia.ge/services/mankanis-recxva/index-ru.html)
+- [Химчистка салона](https://vulkanizacia.ge/services/mankanis-qimwmenda/index-ru.html)
+- [Полировка фар](https://vulkanizacia.ge/services/parebis-polireba/index-ru.html)
 
 [Все услуги →](https://vulkanizacia.ge/index-ru.html#services)
 
@@ -17758,6 +18648,9 @@ Canonical: https://vulkanizacia.ge/services/balansireba/index-ru.html
 - [Вскрытие автомобиля](https://vulkanizacia.ge/services/daketili-avtomobilis-gakhsna/index-ru.html)
 - [Датчики давления в шинах (TPMS)](https://vulkanizacia.ge/services/saburavis-wnevis-sensori/index-ru.html)
 - [Замена колодок](https://vulkanizacia.ge/services/khundebis-shecvla/index-ru.html)
+- [Мойка авто на выезд](https://vulkanizacia.ge/services/mankanis-recxva/index-ru.html)
+- [Химчистка салона](https://vulkanizacia.ge/services/mankanis-qimwmenda/index-ru.html)
+- [Полировка фар](https://vulkanizacia.ge/services/parebis-polireba/index-ru.html)
 
 [Все услуги →](https://vulkanizacia.ge/index-ru.html#services)
 
@@ -17858,6 +18751,9 @@ Canonical: https://vulkanizacia.ge/services/daketili-avtomobilis-gakhsna/index-r
 - [Прикуривание автомобиля](https://vulkanizacia.ge/services/avtomobilis-dakokva/index-ru.html)
 - [Датчики давления в шинах (TPMS)](https://vulkanizacia.ge/services/saburavis-wnevis-sensori/index-ru.html)
 - [Замена колодок](https://vulkanizacia.ge/services/khundebis-shecvla/index-ru.html)
+- [Мойка авто на выезд](https://vulkanizacia.ge/services/mankanis-recxva/index-ru.html)
+- [Химчистка салона](https://vulkanizacia.ge/services/mankanis-qimwmenda/index-ru.html)
+- [Полировка фар](https://vulkanizacia.ge/services/parebis-polireba/index-ru.html)
 
 [Все услуги →](https://vulkanizacia.ge/index-ru.html#services)
 
@@ -17958,6 +18854,9 @@ Canonical: https://vulkanizacia.ge/services/diskis-dadugheba/index-ru.html
 - [Вскрытие автомобиля](https://vulkanizacia.ge/services/daketili-avtomobilis-gakhsna/index-ru.html)
 - [Датчики давления в шинах (TPMS)](https://vulkanizacia.ge/services/saburavis-wnevis-sensori/index-ru.html)
 - [Замена колодок](https://vulkanizacia.ge/services/khundebis-shecvla/index-ru.html)
+- [Мойка авто на выезд](https://vulkanizacia.ge/services/mankanis-recxva/index-ru.html)
+- [Химчистка салона](https://vulkanizacia.ge/services/mankanis-qimwmenda/index-ru.html)
+- [Полировка фар](https://vulkanizacia.ge/services/parebis-polireba/index-ru.html)
 
 [Все услуги →](https://vulkanizacia.ge/index-ru.html#services)
 
@@ -18058,6 +18957,9 @@ Canonical: https://vulkanizacia.ge/services/diskis-gaschoreba/index-ru.html
 - [Сезонная замена шин](https://vulkanizacia.ge/services/sezonuri-saburavebis-shecvla/index-ru.html)
 - [Датчики давления в шинах (TPMS)](https://vulkanizacia.ge/services/saburavis-wnevis-sensori/index-ru.html)
 - [Замена колодок](https://vulkanizacia.ge/services/khundebis-shecvla/index-ru.html)
+- [Мойка авто на выезд](https://vulkanizacia.ge/services/mankanis-recxva/index-ru.html)
+- [Химчистка салона](https://vulkanizacia.ge/services/mankanis-qimwmenda/index-ru.html)
+- [Полировка фар](https://vulkanizacia.ge/services/parebis-polireba/index-ru.html)
 
 [Все услуги →](https://vulkanizacia.ge/index-ru.html#services)
 
@@ -18158,6 +19060,9 @@ Canonical: https://vulkanizacia.ge/services/evakuatori/index-ru.html
 - [Вскрытие автомобиля](https://vulkanizacia.ge/services/daketili-avtomobilis-gakhsna/index-ru.html)
 - [Датчики давления в шинах (TPMS)](https://vulkanizacia.ge/services/saburavis-wnevis-sensori/index-ru.html)
 - [Замена колодок](https://vulkanizacia.ge/services/khundebis-shecvla/index-ru.html)
+- [Мойка авто на выезд](https://vulkanizacia.ge/services/mankanis-recxva/index-ru.html)
+- [Химчистка салона](https://vulkanizacia.ge/services/mankanis-qimwmenda/index-ru.html)
+- [Полировка фар](https://vulkanizacia.ge/services/parebis-polireba/index-ru.html)
 
 [Все услуги →](https://vulkanizacia.ge/index-ru.html#services)
 
@@ -18307,6 +19212,263 @@ Toyota Prius, Camry, Corolla, RAV4 и Prado, Hyundai Elantra, Honda Fit, Subaru 
 
 ---
 
+Source: https://vulkanizacia.ge/services/mankanis-qimwmenda/index-ru.html.md
+
+# Химчистка салона авто с выездом
+
+> Химчистка салона авто в Тбилиси с выездом: сиденья, кожаный салон, потолок и коврики — паром, на месте, 24/7. Цена зависит от машины и объёма работ. ☎ +995 591 90 90 13
+
+Canonical: https://vulkanizacia.ge/services/mankanis-qimwmenda/index-ru.html
+
+[ka](https://vulkanizacia.ge/services/mankanis-qimwmenda/) · [en](https://vulkanizacia.ge/services/mankanis-qimwmenda/index-en.html) · [ru](https://vulkanizacia.ge/services/mankanis-qimwmenda/index-ru.html)
+
+## Основная информация
+- Компания: Vulkanizacia.ge — мобильная вулканизация и шины в Тбилиси
+- Телефон: +995 591 90 90 13 (WhatsApp / Viber)
+- Email: info@vulkanizacia.ge
+- Режим работы: 24/7, включая выходные и праздники
+- Время прибытия: по Тбилиси обычно 20–30 минут
+- Услуги: ремонт и замена шин на месте, новые и б/у шины по размерам, балансировка, сварка и правка дисков
+- Шины: https://vulkanizacia.ge/saburavebi/index-ru.html
+- Эвакуатор: https://towing.ge (+995 514 90 80 90)
+
+[Шины →](https://vulkanizacia.ge/shiny/) · [Услуги](https://vulkanizacia.ge/index-ru.html#services) · [Преимущества](https://vulkanizacia.ge/index-ru.html#why) · [Контакты](https://vulkanizacia.ge/index-ru.html#contact)
+
+[ქა](https://vulkanizacia.ge/services/mankanis-qimwmenda/) · [EN](https://vulkanizacia.ge/services/mankanis-qimwmenda/index-en.html) · [RU](https://vulkanizacia.ge/services/mankanis-qimwmenda/index-ru.html)
+
+Химчистка паром
+
+
+Химчистка салона у вас — у дома или у работы. Паром чистим сиденья, потолок, коврики и кожаный салон на месте — никуда везти машину не нужно.
+
+[+995 591 90 90 13](tel:+995591909013) · [WhatsApp](https://wa.me/995591909013?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20%D0%BD%D1%83%D0%B6%D0%B5%D0%BD%20%D0%B2%D1%8B%D0%B5%D0%B7%D0%B4%D0%BD%D0%BE%D0%B9%20%D1%88%D0%B8%D0%BD%D0%BE%D0%BC%D0%BE%D0%BD%D1%82%D0%B0%D0%B6)
+
+## Что входит в химчистку
+
+- Химчистка тканевых сидений
+- Чистка кожаного салона
+- Химчистка потолка
+- Чистка ковриков и пола
+- Чистка панели, дверей и руля
+
+## Почему паром
+
+Горячий пар хорошо удаляет грязь и пятна, уменьшает неприятный запах и не мочит салон — поэтому машина быстрее сохнет.
+
+## Когда нужна химчистка
+
+- Пятна на сиденьях — кофе, еда или следы детей
+- В салоне неприятный запах
+- Перед продажей или после покупки машины
+- После перевозки домашнего животного
+- После зимы, когда коврики и пол в грязи
+
+## Также можно заказать
+
+[Мойка авто на выезд](https://vulkanizacia.ge/services/mankanis-recxva/index-ru.html) — кузов, стёкла и двигатель, с нашей водой и электричеством. [Полировка фар с выездом](https://vulkanizacia.ge/services/parebis-polireba/index-ru.html) — полировка фар и замена ламп.
+
+## Как это работает
+
+- • 1
+
+### Позвоните
+
+Позвоните +995 591 90 90 13 или отправьте геолокацию в WhatsApp.
+
+- • 2
+
+### Мы приедем
+
+Мобильная вулканизация приезжает со всем оборудованием.
+
+- • 3
+
+### Отремонтируем или заменим
+
+Отремонтируем, заменим и отбалансируем колесо на месте.
+
+- • 4
+
+### Продолжайте путь
+
+Цену согласуем заранее — и вы безопасно продолжите путь.
+
+## Популярные размеры
+
+[185/65 R15](https://vulkanizacia.ge/shiny/185-65-r15/) · [195/65 R15](https://vulkanizacia.ge/shiny/195-65-r15/) · [205/55 R16](https://vulkanizacia.ge/shiny/205-55-r16/) · [215/60 R16](https://vulkanizacia.ge/shiny/215-60-r16/) · [215/55 R17](https://vulkanizacia.ge/shiny/215-55-r17/) · [225/45 R17](https://vulkanizacia.ge/shiny/225-45-r17/) · [225/55 R17](https://vulkanizacia.ge/shiny/225-55-r17/) · [225/65 R17](https://vulkanizacia.ge/shiny/225-65-r17/)
+
+## Смотрите также
+
+- [Вулканизация по вызову в Тбилиси](https://vulkanizacia.ge/vulkanizaciya-po-vyzovu-tbilisi/)
+- [Вулканизация 24/7 в Тбилиси](https://vulkanizacia.ge/vulkanizaciya-24-7-tbilisi/)
+- [Шины по размерам](https://vulkanizacia.ge/shiny/)
+- [Шинный калькулятор](https://vulkanizacia.ge/shinnyy-kalkulyator/)
+- [Выездной шиномонтаж в Тбилиси](https://vulkanizacia.ge/vyezdnoy-shinomontazh-tbilisi/)
+- [Замена тормозных колодок с выездом](https://vulkanizacia.ge/services/khundebis-shecvla/index-ru.html)
+
+## Частые вопросы
+
+### Сколько стоит химчистка салона?
+
+Цена зависит от размера машины, состояния салона и того, что нужно почистить. Пришлите фото салона в WhatsApp — скажем цену заранее.
+
+### Сколько длится химчистка?
+
+Зависит от объёма — полная химчистка занимает несколько часов. Точное время скажем заранее.
+
+### Сколько сохнет салон?
+
+При чистке паром салон почти не намокает и обычно сохнет за несколько часов, летом — быстрее.
+
+### Чистите кожаный салон?
+
+Да — кожаные сиденья чистим подходящим средством, чтобы не повредить кожу.
+
+### Вы приезжаете ночью?
+
+Да, работаем круглосуточно, 24/7.
+
+## Нужен шиномонтаж?
+
+Позвоните или напишите — работаем 24/7.
+
+[+995 591 90 90 13](tel:+995591909013) · [WhatsApp](https://wa.me/995591909013?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20%D0%BD%D1%83%D0%B6%D0%B5%D0%BD%20%D0%B2%D1%8B%D0%B5%D0%B7%D0%B4%D0%BD%D0%BE%D0%B9%20%D1%88%D0%B8%D0%BD%D0%BE%D0%BC%D0%BE%D0%BD%D1%82%D0%B0%D0%B6)
+
+## Куда мы выезжаем
+
+[Все районы Тбилиси](https://vulkanizacia.ge/vyezdnoy-shinomontazh-tbilisi/) · [Рустави](https://vulkanizacia.ge/shinomontazh-rustavi/) · [Мцхета](https://vulkanizacia.ge/shinomontazh-mtskheta/)
+
+
+---
+
+Source: https://vulkanizacia.ge/services/mankanis-recxva/index-ru.html.md
+
+# Мойка авто на выезд
+
+> Мойка авто на выезд в Тбилиси: приедем и помоем машину на месте — снаружи, салон и двигатель. Воду и электричество привозим с собой, 24/7. ☎ +995 591 90 90 13
+
+Canonical: https://vulkanizacia.ge/services/mankanis-recxva/index-ru.html
+
+[ka](https://vulkanizacia.ge/services/mankanis-recxva/) · [en](https://vulkanizacia.ge/services/mankanis-recxva/index-en.html) · [ru](https://vulkanizacia.ge/services/mankanis-recxva/index-ru.html)
+
+## Основная информация
+- Компания: Vulkanizacia.ge — мобильная вулканизация и шины в Тбилиси
+- Телефон: +995 591 90 90 13 (WhatsApp / Viber)
+- Email: info@vulkanizacia.ge
+- Режим работы: 24/7, включая выходные и праздники
+- Время прибытия: по Тбилиси обычно 20–30 минут
+- Услуги: ремонт и замена шин на месте, новые и б/у шины по размерам, балансировка, сварка и правка дисков
+- Шины: https://vulkanizacia.ge/saburavebi/index-ru.html
+- Эвакуатор: https://towing.ge (+995 514 90 80 90)
+
+[Шины →](https://vulkanizacia.ge/shiny/) · [Услуги](https://vulkanizacia.ge/index-ru.html#services) · [Преимущества](https://vulkanizacia.ge/index-ru.html#why) · [Контакты](https://vulkanizacia.ge/index-ru.html#contact)
+
+[ქა](https://vulkanizacia.ge/services/mankanis-recxva/) · [EN](https://vulkanizacia.ge/services/mankanis-recxva/index-en.html) · [RU](https://vulkanizacia.ge/services/mankanis-recxva/index-ru.html)
+
+Мобильная мойка
+
+
+Не нужно стоять в очереди на мойке — помоем машину там, где она стоит: у дома, у работы или на парковке. Воду и электричество привозим с собой — от вас ничего не нужно.
+
+[+995 591 90 90 13](tel:+995591909013) · [WhatsApp](https://wa.me/995591909013?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20%D0%BD%D1%83%D0%B6%D0%B5%D0%BD%20%D0%B2%D1%8B%D0%B5%D0%B7%D0%B4%D0%BD%D0%BE%D0%B9%20%D1%88%D0%B8%D0%BD%D0%BE%D0%BC%D0%BE%D0%BD%D1%82%D0%B0%D0%B6)
+
+## Что входит в мойку
+
+- Мойка кузова снаружи
+- Мойка колёс и дисков
+- Уборка салона пылесосом
+- Мытьё стёкол изнутри и снаружи
+- Мойка двигателя — по желанию
+
+## Вода и электричество — наши
+
+Приезжаем со своей водой, электричеством и оборудованием — кран или розетка не нужны. Моем машину там, где она стоит, если место это позволяет.
+
+## Когда это удобно
+
+- Когда нет времени ехать на мойку
+- Для машины у дома или у офиса
+- Перед продажей машины или важной встречей
+- Для нескольких машин сразу — семьи или компании
+
+## Также можно заказать
+
+[Химчистка салона авто с выездом](https://vulkanizacia.ge/services/mankanis-qimwmenda/index-ru.html) — химчистка сидений, потолка и ковриков паром. [Полировка фар с выездом](https://vulkanizacia.ge/services/parebis-polireba/index-ru.html) — полировка пожелтевших фар и замена перегоревшей лампы.
+
+## Как это работает
+
+- • 1
+
+### Позвоните
+
+Позвоните +995 591 90 90 13 или отправьте геолокацию в WhatsApp.
+
+- • 2
+
+### Мы приедем
+
+Мобильная вулканизация приезжает со всем оборудованием.
+
+- • 3
+
+### Отремонтируем или заменим
+
+Отремонтируем, заменим и отбалансируем колесо на месте.
+
+- • 4
+
+### Продолжайте путь
+
+Цену согласуем заранее — и вы безопасно продолжите путь.
+
+## Популярные размеры
+
+[185/65 R15](https://vulkanizacia.ge/shiny/185-65-r15/) · [195/65 R15](https://vulkanizacia.ge/shiny/195-65-r15/) · [205/55 R16](https://vulkanizacia.ge/shiny/205-55-r16/) · [215/60 R16](https://vulkanizacia.ge/shiny/215-60-r16/) · [215/55 R17](https://vulkanizacia.ge/shiny/215-55-r17/) · [225/45 R17](https://vulkanizacia.ge/shiny/225-45-r17/) · [225/55 R17](https://vulkanizacia.ge/shiny/225-55-r17/) · [225/65 R17](https://vulkanizacia.ge/shiny/225-65-r17/)
+
+## Смотрите также
+
+- [Вулканизация по вызову в Тбилиси](https://vulkanizacia.ge/vulkanizaciya-po-vyzovu-tbilisi/)
+- [Вулканизация 24/7 в Тбилиси](https://vulkanizacia.ge/vulkanizaciya-24-7-tbilisi/)
+- [Шины по размерам](https://vulkanizacia.ge/shiny/)
+- [Шинный калькулятор](https://vulkanizacia.ge/shinnyy-kalkulyator/)
+- [Выездной шиномонтаж в Тбилиси](https://vulkanizacia.ge/vyezdnoy-shinomontazh-tbilisi/)
+- [Замена тормозных колодок с выездом](https://vulkanizacia.ge/services/khundebis-shecvla/index-ru.html)
+
+## Частые вопросы
+
+### Сколько стоит мойка авто на выезд?
+
+Цена зависит от размера машины и объёма работы — только снаружи, с салоном или с двигателем. Позвоните или напишите в WhatsApp — согласуем цену заранее.
+
+### Нужно ли давать воду или электричество?
+
+Нет — воду, электричество и оборудование привозим с собой.
+
+### Где вы можете помыть машину?
+
+У дома, у работы или на парковке — там, где мойка разрешена и достаточно места. Если сомневаетесь — позвоните.
+
+### Моете двигатель?
+
+Да, по желанию моем и двигатель.
+
+### Вы приезжаете ночью?
+
+Да, работаем круглосуточно, 24/7.
+
+## Нужен шиномонтаж?
+
+Позвоните или напишите — работаем 24/7.
+
+[+995 591 90 90 13](tel:+995591909013) · [WhatsApp](https://wa.me/995591909013?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20%D0%BD%D1%83%D0%B6%D0%B5%D0%BD%20%D0%B2%D1%8B%D0%B5%D0%B7%D0%B4%D0%BD%D0%BE%D0%B9%20%D1%88%D0%B8%D0%BD%D0%BE%D0%BC%D0%BE%D0%BD%D1%82%D0%B0%D0%B6)
+
+## Куда мы выезжаем
+
+[Все районы Тбилиси](https://vulkanizacia.ge/vyezdnoy-shinomontazh-tbilisi/) · [Рустави](https://vulkanizacia.ge/shinomontazh-rustavi/) · [Мцхета](https://vulkanizacia.ge/shinomontazh-mtskheta/)
+
+
+---
+
 Source: https://vulkanizacia.ge/services/modzravi-vulkanizacia/index-ru.html.md
 
 # Мобильная вулканизация
@@ -18395,6 +19557,9 @@ Canonical: https://vulkanizacia.ge/services/modzravi-vulkanizacia/index-ru.html
 - [Вскрытие автомобиля](https://vulkanizacia.ge/services/daketili-avtomobilis-gakhsna/index-ru.html)
 - [Датчики давления в шинах (TPMS)](https://vulkanizacia.ge/services/saburavis-wnevis-sensori/index-ru.html)
 - [Замена колодок](https://vulkanizacia.ge/services/khundebis-shecvla/index-ru.html)
+- [Мойка авто на выезд](https://vulkanizacia.ge/services/mankanis-recxva/index-ru.html)
+- [Химчистка салона](https://vulkanizacia.ge/services/mankanis-qimwmenda/index-ru.html)
+- [Полировка фар](https://vulkanizacia.ge/services/parebis-polireba/index-ru.html)
 
 [Все услуги →](https://vulkanizacia.ge/index-ru.html#services)
 
@@ -18403,6 +19568,137 @@ Canonical: https://vulkanizacia.ge/services/modzravi-vulkanizacia/index-ru.html
 Для эвакуатора перейдите на towing.ge — доступно 24/7.
 
 [Эвакуатор Тбилиси](https://towing.ge) · [+995 514 90 80 90](tel:+995514908090)
+
+
+---
+
+Source: https://vulkanizacia.ge/services/parebis-polireba/index-ru.html.md
+
+# Полировка фар с выездом
+
+> Полировка фар в Тбилиси с выездом — паром или вручную, в зависимости от состояния фары. Замена ламп: H4, H7, H11, светодиодные. На месте, 24/7. ☎ +995 591 90 90 13
+
+Canonical: https://vulkanizacia.ge/services/parebis-polireba/index-ru.html
+
+[ka](https://vulkanizacia.ge/services/parebis-polireba/) · [en](https://vulkanizacia.ge/services/parebis-polireba/index-en.html) · [ru](https://vulkanizacia.ge/services/parebis-polireba/index-ru.html)
+
+## Основная информация
+- Компания: Vulkanizacia.ge — мобильная вулканизация и шины в Тбилиси
+- Телефон: +995 591 90 90 13 (WhatsApp / Viber)
+- Email: info@vulkanizacia.ge
+- Режим работы: 24/7, включая выходные и праздники
+- Время прибытия: по Тбилиси обычно 20–30 минут
+- Услуги: ремонт и замена шин на месте, новые и б/у шины по размерам, балансировка, сварка и правка дисков
+- Шины: https://vulkanizacia.ge/saburavebi/index-ru.html
+- Эвакуатор: https://towing.ge (+995 514 90 80 90)
+
+[Шины →](https://vulkanizacia.ge/shiny/) · [Услуги](https://vulkanizacia.ge/index-ru.html#services) · [Преимущества](https://vulkanizacia.ge/index-ru.html#why) · [Контакты](https://vulkanizacia.ge/index-ru.html#contact)
+
+[ქა](https://vulkanizacia.ge/services/parebis-polireba/) · [EN](https://vulkanizacia.ge/services/parebis-polireba/index-en.html) · [RU](https://vulkanizacia.ge/services/parebis-polireba/index-ru.html)
+
+Фары и лампы
+
+
+Пожелтевшие или мутные фары плохо светят и старят машину. Отполируем фары на месте, а перегоревшую лампу заменим сразу же.
+
+[+995 591 90 90 13](tel:+995591909013) · [WhatsApp](https://wa.me/995591909013?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20%D0%BD%D1%83%D0%B6%D0%B5%D0%BD%20%D0%B2%D1%8B%D0%B5%D0%B7%D0%B4%D0%BD%D0%BE%D0%B9%20%D1%88%D0%B8%D0%BD%D0%BE%D0%BC%D0%BE%D0%BD%D1%82%D0%B0%D0%B6)
+
+## Что мы делаем на месте
+
+- Полировка фар паром
+- Полировка фар вручную — шлифовка и полировка
+- Замена ламп ближнего и дальнего света
+- Замена ламп габаритов и противотуманных фар
+
+## Паром или вручную — что лучше
+
+Полировка паром подходит для сильно пожелтевших и мутных фар: сначала обрабатываем поверхность, затем паром восстанавливаем прозрачность. Ручная полировка подходит для слегка помутневших фар. Метод выбираем по состоянию фары.
+
+## Замена ламп
+
+Меняем лампы фар, габаритов и противотуманок — H1, H4, H7, H11 и другие галогенные и светодиодные лампы. Можем привезти лампу для вашей машины или установить вашу. На некоторых моделях для доступа к лампе нужно снять фару или бампер — уточним при звонке.
+
+## Когда нужна полировка фар
+
+- Фары пожелтели или помутнели
+- Ночью плохо видно дорогу
+- Перед техосмотром
+- Перед продажей машины
+
+## Также можно заказать
+
+[Мойка авто на выезд](https://vulkanizacia.ge/services/mankanis-recxva/index-ru.html) — с нашей водой и электричеством. [Химчистка салона авто с выездом](https://vulkanizacia.ge/services/mankanis-qimwmenda/index-ru.html) — химчистка салона паром.
+
+## Как это работает
+
+- • 1
+
+### Позвоните
+
+Позвоните +995 591 90 90 13 или отправьте геолокацию в WhatsApp.
+
+- • 2
+
+### Мы приедем
+
+Мобильная вулканизация приезжает со всем оборудованием.
+
+- • 3
+
+### Отремонтируем или заменим
+
+Отремонтируем, заменим и отбалансируем колесо на месте.
+
+- • 4
+
+### Продолжайте путь
+
+Цену согласуем заранее — и вы безопасно продолжите путь.
+
+## Популярные размеры
+
+[185/65 R15](https://vulkanizacia.ge/shiny/185-65-r15/) · [195/65 R15](https://vulkanizacia.ge/shiny/195-65-r15/) · [205/55 R16](https://vulkanizacia.ge/shiny/205-55-r16/) · [215/60 R16](https://vulkanizacia.ge/shiny/215-60-r16/) · [215/55 R17](https://vulkanizacia.ge/shiny/215-55-r17/) · [225/45 R17](https://vulkanizacia.ge/shiny/225-45-r17/) · [225/55 R17](https://vulkanizacia.ge/shiny/225-55-r17/) · [225/65 R17](https://vulkanizacia.ge/shiny/225-65-r17/)
+
+## Смотрите также
+
+- [Вулканизация по вызову в Тбилиси](https://vulkanizacia.ge/vulkanizaciya-po-vyzovu-tbilisi/)
+- [Вулканизация 24/7 в Тбилиси](https://vulkanizacia.ge/vulkanizaciya-24-7-tbilisi/)
+- [Шины по размерам](https://vulkanizacia.ge/shiny/)
+- [Шинный калькулятор](https://vulkanizacia.ge/shinnyy-kalkulyator/)
+- [Выездной шиномонтаж в Тбилиси](https://vulkanizacia.ge/vyezdnoy-shinomontazh-tbilisi/)
+- [Замена тормозных колодок с выездом](https://vulkanizacia.ge/services/khundebis-shecvla/index-ru.html)
+
+## Частые вопросы
+
+### Сколько стоит полировка фар?
+
+Цена зависит от состояния фар и метода. Пришлите фото фар в WhatsApp — скажем цену заранее.
+
+### Чем отличается полировка паром от ручной?
+
+Паром — для сильно пожелтевших и мутных фар, вручную — для слегка помутневших. Метод выбираем на месте.
+
+### Какие лампы вы меняете?
+
+Лампы фар, габаритов и противотуманок — H1, H4, H7, H11 и другие галогенные и светодиодные лампы.
+
+### Вы привозите лампу?
+
+Можем привезти подходящую лампу для вашей машины или установить купленную вами.
+
+### Вы приезжаете ночью?
+
+Да, работаем круглосуточно, 24/7.
+
+## Нужен шиномонтаж?
+
+Позвоните или напишите — работаем 24/7.
+
+[+995 591 90 90 13](tel:+995591909013) · [WhatsApp](https://wa.me/995591909013?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20%D0%BD%D1%83%D0%B6%D0%B5%D0%BD%20%D0%B2%D1%8B%D0%B5%D0%B7%D0%B4%D0%BD%D0%BE%D0%B9%20%D1%88%D0%B8%D0%BD%D0%BE%D0%BC%D0%BE%D0%BD%D1%82%D0%B0%D0%B6)
+
+## Куда мы выезжаем
+
+[Все районы Тбилиси](https://vulkanizacia.ge/vyezdnoy-shinomontazh-tbilisi/) · [Рустави](https://vulkanizacia.ge/shinomontazh-rustavi/) · [Мцхета](https://vulkanizacia.ge/shinomontazh-mtskheta/)
 
 
 ---
@@ -18614,6 +19910,9 @@ Canonical: https://vulkanizacia.ge/services/sezonuri-saburavebis-shecvla/index-r
 - [Вскрытие автомобиля](https://vulkanizacia.ge/services/daketili-avtomobilis-gakhsna/index-ru.html)
 - [Датчики давления в шинах (TPMS)](https://vulkanizacia.ge/services/saburavis-wnevis-sensori/index-ru.html)
 - [Замена колодок](https://vulkanizacia.ge/services/khundebis-shecvla/index-ru.html)
+- [Мойка авто на выезд](https://vulkanizacia.ge/services/mankanis-recxva/index-ru.html)
+- [Химчистка салона](https://vulkanizacia.ge/services/mankanis-qimwmenda/index-ru.html)
+- [Полировка фар](https://vulkanizacia.ge/services/parebis-polireba/index-ru.html)
 
 [Все услуги →](https://vulkanizacia.ge/index-ru.html#services)
 

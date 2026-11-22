@@ -101,6 +101,24 @@ Sensor check, replacement and programming — depends on make and model.
 
 [Details](https://vulkanizacia.ge/services/saburavis-wnevis-sensori/index-en.html)
 
+### [Mobile car wash in Tbilisi](https://vulkanizacia.ge/services/mankanis-recxva/index-en.html)
+
+We wash your car where it's parked — we bring water and power, 24/7.
+
+[Details](https://vulkanizacia.ge/services/mankanis-recxva/index-en.html)
+
+### [Car interior cleaning on site](https://vulkanizacia.ge/services/mankanis-qimwmenda/index-en.html)
+
+Seats, ceiling, mats and leather interiors — steam cleaned on site.
+
+[Details](https://vulkanizacia.ge/services/mankanis-qimwmenda/index-en.html)
+
+### [Headlight restoration on site](https://vulkanizacia.ge/services/parebis-polireba/index-en.html)
+
+Steam or hand headlight polishing and bulb replacement — on site.
+
+[Details](https://vulkanizacia.ge/services/parebis-polireba/index-en.html)
+
 ## Tires by size
 
 New and used tires — delivered, fitted and balanced on site.
@@ -113,7 +131,7 @@ New and used tires — delivered, fitted and balanced on site.
 
 Our mobile tire service comes to you — in every Tbilisi district and nearby towns.
 
-[Mobile tire repair in Tbilisi](https://vulkanizacia.ge/mobile-tire-repair-tbilisi/) · [Rustavi](https://vulkanizacia.ge/tire-repair-rustavi/) · [Mtskheta](https://vulkanizacia.ge/tire-repair-mtskheta/) · [Tire size calculator](https://vulkanizacia.ge/tire-size-calculator/) · [Tire pressure sensors (TPMS)](https://vulkanizacia.ge/services/saburavis-wnevis-sensori/index-en.html) · [Mobile brake repair in Tbilisi](https://vulkanizacia.ge/services/khundebis-shecvla/index-en.html)
+[Mobile tire repair in Tbilisi](https://vulkanizacia.ge/mobile-tire-repair-tbilisi/) · [Rustavi](https://vulkanizacia.ge/tire-repair-rustavi/) · [Mtskheta](https://vulkanizacia.ge/tire-repair-mtskheta/) · [Tire size calculator](https://vulkanizacia.ge/tire-size-calculator/) · [Tire pressure sensors (TPMS)](https://vulkanizacia.ge/services/saburavis-wnevis-sensori/index-en.html) · [Mobile brake repair in Tbilisi](https://vulkanizacia.ge/services/khundebis-shecvla/index-en.html) · [Mobile car wash in Tbilisi](https://vulkanizacia.ge/services/mankanis-recxva/index-en.html) · [Car interior cleaning on site](https://vulkanizacia.ge/services/mankanis-qimwmenda/index-en.html) · [Headlight restoration on site](https://vulkanizacia.ge/services/parebis-polireba/index-en.html)
 
 ## Why choose us
 

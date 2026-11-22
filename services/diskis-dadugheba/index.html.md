@@ -84,6 +84,9 @@ Canonical: https://vulkanizacia.ge/services/diskis-dadugheba/
 - [დაკეტილი ავტომობილის გახსნა](https://vulkanizacia.ge/services/daketili-avtomobilis-gakhsna/)
 - [საბურავის წნევის სენსორი (ბლუთუზი)](https://vulkanizacia.ge/services/saburavis-wnevis-sensori/)
 - [ხუნდების შეცვლა](https://vulkanizacia.ge/services/khundebis-shecvla/)
+- [მანქანის რეცხვა](https://vulkanizacia.ge/services/mankanis-recxva/)
+- [მანქანის ქიმწმენდა](https://vulkanizacia.ge/services/mankanis-qimwmenda/)
+- [ფარების პოლირება](https://vulkanizacia.ge/services/parebis-polireba/)
 
 [ყველა სერვისი →](https://vulkanizacia.ge/index.html#services)
 

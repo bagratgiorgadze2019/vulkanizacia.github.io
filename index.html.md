@@ -101,6 +101,24 @@ Canonical: https://vulkanizacia.ge/
 
 [ვრცლად](https://vulkanizacia.ge/services/saburavis-wnevis-sensori/)
 
+### [მანქანის რეცხვა გამოძახებით](https://vulkanizacia.ge/services/mankanis-recxva/)
+
+გავრეცხავთ იქ, სადაც მანქანა დგას — წყალი და დენი თან მოგვაქვს, 24/7.
+
+[ვრცლად](https://vulkanizacia.ge/services/mankanis-recxva/)
+
+### [მანქანის ქიმწმენდა გამოძახებით](https://vulkanizacia.ge/services/mankanis-qimwmenda/)
+
+სავარძლები, ჭერი, ნოხები და ტყავის სალონი — ორთქლით, ადგილზე.
+
+[ვრცლად](https://vulkanizacia.ge/services/mankanis-qimwmenda/)
+
+### [ფარების პოლირება გამოძახებით](https://vulkanizacia.ge/services/parebis-polireba/)
+
+ფარების პოლირება ორთქლით ან ხელით და ნათურების შეცვლა — ადგილზე.
+
+[ვრცლად](https://vulkanizacia.ge/services/parebis-polireba/)
+
 ## საბურავები ზომების მიხედვით
 
 ახალი და მეორადი საბურავები — მიწოდებით, მონტაჟით და ბალანსირებით ადგილზე.
@@ -113,7 +131,7 @@ Canonical: https://vulkanizacia.ge/
 
 მოძრავი ვულკანიზაცია მოვა თქვენთან — თბილისის ყველა უბანსა და შემოგარენში.
 
-[ვულკანიზაცია ადგილზე](https://vulkanizacia.ge/vulkanizacia-adgilze/) · [რუსთავი](https://vulkanizacia.ge/vulkanizacia-rustavshi/) · [მცხეთა](https://vulkanizacia.ge/vulkanizacia-mcxetashi/) · [საბურავის კალკულატორი](https://vulkanizacia.ge/saburavis-kalkulatori/) · [საბურავის წნევის სენსორი (ბლუთუზი)](https://vulkanizacia.ge/services/saburavis-wnevis-sensori/) · [ხუნდების შეცვლა გამოძახებით](https://vulkanizacia.ge/services/khundebis-shecvla/)
+[ვულკანიზაცია ადგილზე](https://vulkanizacia.ge/vulkanizacia-adgilze/) · [რუსთავი](https://vulkanizacia.ge/vulkanizacia-rustavshi/) · [მცხეთა](https://vulkanizacia.ge/vulkanizacia-mcxetashi/) · [საბურავის კალკულატორი](https://vulkanizacia.ge/saburavis-kalkulatori/) · [საბურავის წნევის სენსორი (ბლუთუზი)](https://vulkanizacia.ge/services/saburavis-wnevis-sensori/) · [ხუნდების შეცვლა გამოძახებით](https://vulkanizacia.ge/services/khundebis-shecvla/) · [მანქანის რეცხვა გამოძახებით](https://vulkanizacia.ge/services/mankanis-recxva/) · [მანქანის ქიმწმენდა გამოძახებით](https://vulkanizacia.ge/services/mankanis-qimwmenda/) · [ფარების პოლირება გამოძახებით](https://vulkanizacia.ge/services/parebis-polireba/)
 
 ## რატომ ჩვენ
 
