@@ -231,6 +231,13 @@ def a11y(files):
         s = p.read_text(encoding="utf-8")
         o = s
         lang = (re.search(r'<html lang="(\w+)"', s) or [None, "ka"])[1]
+        # Open Graph locale + site name (social previews: Facebook, Messenger, Viber), additive
+        if 'property="og:type"' in s and 'property="og:locale"' not in s:
+            loc = {"ka": "ka_GE", "en": "en_US", "ru": "ru_RU"}.get(lang, "ka_GE")
+            alts = "".join(f'\n<meta property="og:locale:alternate" content="{x}">' for x in ("ka_GE", "en_US", "ru_RU") if x != loc)
+            s = re.sub(r'(<meta property="og:type" content="[^"]*">)',
+                       lambda m: m.group(1) + f'\n<meta property="og:locale" content="{loc}">' + alts
+                       + ('' if 'property="og:site_name"' in s else '\n<meta property="og:site_name" content="Vulkanizacia.ge">'), s, count=1)
         if "<main" not in s and "</header>" in s and "<footer" in s:
             h = s.index("</header>") + len("</header>")
             f = s.index("<!-- Footer -->") if "<!-- Footer -->" in s else s.index("<footer")
