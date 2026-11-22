@@ -75,6 +75,12 @@ Canonical: https://vulkanizacia.ge/shiny/
 
 [235/35 R20](https://vulkanizacia.ge/shiny/235-35-r20/) · [245/35 R20](https://vulkanizacia.ge/shiny/245-35-r20/) · [245/45 R20](https://vulkanizacia.ge/shiny/245-45-r20/) · [255/45 R20](https://vulkanizacia.ge/shiny/255-45-r20/) · [275/40 R20](https://vulkanizacia.ge/shiny/275-40-r20/) · [275/45 R20](https://vulkanizacia.ge/shiny/275-45-r20/)
 
+## Шины всех размеров
+
+Новые шины для легковых авто и внедорожниковБ/у шины из Европы, Японии и КитаяЗимние шиныШины всех популярных размеров — от R13 до R20Привезём и установим на месте
+
+Иллюстративные фото
+
 ## Когда нужна замена шины
 
 Замена шины часто нужна неожиданно. Самые частые случаи:

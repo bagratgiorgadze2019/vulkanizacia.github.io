@@ -409,6 +409,35 @@ def size_grid(t):
     return '<div id="tyre-grid" class="mt-6 space-y-4">' + "".join(out) + none + "</div>"
 
 
+# photo gallery on the hub (free Unsplash photos, brand-free, labelled as illustrative + our own van photo)
+GALLERY = [("tyres-gallery-1", {"ka": "ახალი საბურავები — მსუბუქი მანქანებისა და ჯიპებისთვის", "en": "New tires for cars and SUVs", "ru": "Новые шины для легковых авто и внедорожников"}),
+           ("tyres-gallery-2", {"ka": "მეორადი საბურავები — ევროპიდან, იაპონიიდან და ჩინეთიდან", "en": "Used tires from Europe, Japan and China", "ru": "Б/у шины из Европы, Японии и Китая"}),
+           ("tyres-gallery-3", {"ka": "ზამთრის საბურავები", "en": "Winter tires", "ru": "Зимние шины"}),
+           ("tyres-gallery-4", {"ka": "საბურავები ყველა პოპულარულ ზომაში — R13-დან R20-მდე", "en": "Tires in all popular sizes — R13 to R20", "ru": "Шины всех популярных размеров — от R13 до R20"}),
+           ("van-rear", {"ka": "მოგიტანთ და ადგილზე დაგიყენებთ", "en": "We deliver and fit them on site", "ru": "Привезём и установим на месте"})]
+GALLERY_T = {"ka": ("საბურავები ყველა ზომაში", "საილუსტრაციო ფოტოები"), "en": ("Tires in every size", "Illustrative photos"),
+             "ru": ("Шины всех размеров", "Иллюстративные фото")}
+
+
+def gallery_html(lang):
+    h, note = GALLERY_T[lang]
+    figs = "".join(
+        f'<figure class="w-72 shrink-0 snap-start overflow-hidden rounded-2xl bg-zinc-900 ring-1 ring-zinc-800 sm:w-auto"><picture><source srcset="/assets/{img}.avif" type="image/avif">'
+        f'<source srcset="/assets/{img}.webp" type="image/webp"><img loading="lazy" src="/assets/{img}.jpg" width="1200" height="800" alt="{escape(cap[lang])}" class="block aspect-[3/2] h-auto w-full object-cover"></picture>'
+        f'<figcaption class="px-4 py-3 text-sm text-zinc-300">{cap[lang]}</figcaption></figure>' for img, cap in GALLERY)
+    return f"""<section class="mx-auto max-w-6xl px-4 pb-6">
+  <h2 class="text-2xl font-bold font-head sm:text-3xl">{h}</h2>
+  <div class="-mx-4 mt-6 flex snap-x gap-4 overflow-x-auto px-4 pb-2 sm:mx-0 sm:grid sm:grid-cols-2 sm:overflow-visible sm:px-0 lg:grid-cols-5">{figs}</div>
+  <p class="mt-2 text-xs text-zinc-400">{note}</p>
+</section>
+"""
+
+
+def gallery_ld(lang):
+    return {"@context": "https://schema.org", "@type": "ImageGallery", "name": GALLERY_T[lang][0], "inLanguage": lang,
+            "image": [{"@type": "ImageObject", "contentUrl": f"{SITE}/assets/{img}.jpg", "caption": cap[lang]} for img, cap in GALLERY]}
+
+
 def build_hub(lang):
     t = dict(HUB_T[lang], lang=lang)
     url = HUB_URLS[lang]
@@ -434,6 +463,7 @@ def build_hub(lang):
   {size_grid(t)}
 </section>
 
+{gallery_html(lang)}
 <section class="mx-auto max-w-6xl px-4 py-6">
   <div class="grid gap-8 rounded-3xl bg-zinc-900 p-6 ring-1 ring-zinc-800 sm:p-10 lg:grid-cols-2">
     <div><h2 class="text-2xl font-bold font-head sm:text-3xl">{t['when_h']}</h2><p class="mt-3 text-zinc-300">{t['when_p']}</p>
@@ -474,7 +504,7 @@ def build_hub(lang):
                    {"@type": "Offer", "itemOffered": {"@type": "Service", "name": SZ[lang]["h1"].format(L=s["label"]), "url": SITE + size_url(s, lang)}} for s in SIZES]}}
     alternates = [("ka", HUB_URLS["ka"]), ("en", HUB_URLS["en"]), ("ru", HUB_URLS["ru"]), ("x-default", HUB_URLS["ka"])]
     html = page(lang, url=url, title=t["title"], desc=t["desc"], keywords=t["keywords"], alternates=alternates, image="van-rear",
-                schema=[service, faq_ld(t["faq"])], crumbs=[(t["crumbs"][0], t["home"]), (t["crumbs"][1], None)],
+                schema=[service, faq_ld(t["faq"]), gallery_ld(lang)], crumbs=[(t["crumbs"][0], t["home"]), (t["crumbs"][1], None)],
                 body=body, nav_urls=HUB_URLS)
     out = ROOT / url.strip("/") / "index.html"
     out.parent.mkdir(parents=True, exist_ok=True)

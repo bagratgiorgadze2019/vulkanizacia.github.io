@@ -75,6 +75,12 @@ New and used tires — summer, winter and all-season. Choose your size and we de
 
 [235/35 R20](https://vulkanizacia.ge/tyres/235-35-r20/) · [245/35 R20](https://vulkanizacia.ge/tyres/245-35-r20/) · [245/45 R20](https://vulkanizacia.ge/tyres/245-45-r20/) · [255/45 R20](https://vulkanizacia.ge/tyres/255-45-r20/) · [275/40 R20](https://vulkanizacia.ge/tyres/275-40-r20/) · [275/45 R20](https://vulkanizacia.ge/tyres/275-45-r20/)
 
+## Tires in every size
+
+New tires for cars and SUVsUsed tires from Europe, Japan and ChinaWinter tiresTires in all popular sizes — R13 to R20We deliver and fit them on site
+
+Illustrative photos
+
 ## When you need a new tire
 
 A tire replacement is often needed unexpectedly. The most common cases:
