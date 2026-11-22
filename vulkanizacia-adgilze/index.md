@@ -108,6 +108,7 @@ Canonical: https://vulkanizacia.ge/vulkanizacia-adgilze/
 - [ვულკანიზაცია 24/7 თბილისი](https://vulkanizacia.ge/vulkanizacia-24-7-tbilisi/)
 - [საბურავები ზომით](https://vulkanizacia.ge/saburavebi/)
 - [საბურავის კალკულატორი](https://vulkanizacia.ge/saburavis-kalkulatori/)
+- [ხუნდების შეცვლა გამოძახებით](https://vulkanizacia.ge/services/khundebis-shecvla/)
 
 ## ხშირად დასმული კითხვები
 

@@ -89,6 +89,18 @@ Locked out? We open your car without damage.
 
 [Details](https://vulkanizacia.ge/services/daketili-avtomobilis-gakhsna/index-en.html)
 
+### [Mobile brake repair in Tbilisi](https://vulkanizacia.ge/services/khundebis-shecvla/index-en.html)
+
+Front and rear brake pads, discs and wear sensors — on site, 24/7.
+
+[Details](https://vulkanizacia.ge/services/khundebis-shecvla/index-en.html)
+
+### [Tire pressure sensors (TPMS)](https://vulkanizacia.ge/services/saburavis-wnevis-sensori/index-en.html)
+
+Sensor check, replacement and programming — depends on make and model.
+
+[Details](https://vulkanizacia.ge/services/saburavis-wnevis-sensori/index-en.html)
+
 ## Tires by size
 
 New and used tires — delivered, fitted and balanced on site.
@@ -101,7 +113,7 @@ New and used tires — delivered, fitted and balanced on site.
 
 Our mobile tire service comes to you — in every Tbilisi district and nearby towns.
 
-[Mobile tire repair in Tbilisi](https://vulkanizacia.ge/mobile-tire-repair-tbilisi/) · [Rustavi](https://vulkanizacia.ge/tire-repair-rustavi/) · [Mtskheta](https://vulkanizacia.ge/tire-repair-mtskheta/) · [Tire size calculator](https://vulkanizacia.ge/tire-size-calculator/) · [Tire pressure sensors (TPMS)](https://vulkanizacia.ge/services/saburavis-wnevis-sensori/index-en.html)
+[Mobile tire repair in Tbilisi](https://vulkanizacia.ge/mobile-tire-repair-tbilisi/) · [Rustavi](https://vulkanizacia.ge/tire-repair-rustavi/) · [Mtskheta](https://vulkanizacia.ge/tire-repair-mtskheta/) · [Tire size calculator](https://vulkanizacia.ge/tire-size-calculator/) · [Tire pressure sensors (TPMS)](https://vulkanizacia.ge/services/saburavis-wnevis-sensori/index-en.html) · [Mobile brake repair in Tbilisi](https://vulkanizacia.ge/services/khundebis-shecvla/index-en.html)
 
 ## Why choose us
 

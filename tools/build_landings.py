@@ -269,7 +269,8 @@ def chips(items):
 def body_for(lang, c, urls, extra_html=""):
     U = C[lang]
     related = [(ON_CALL_TXT[lang], ON_CALL[lang]), (H24_TXT[lang], H24[lang]), (U["tyres"], T.LANG_HUB[lang]),
-               (U["calc"], page_url(CALC["slug"][lang])), (MOBILE[lang]["h1"], page_url(MOBILE["slug"][lang]))]
+               (U["calc"], page_url(CALC["slug"][lang])), (MOBILE[lang]["h1"], page_url(MOBILE["slug"][lang])),
+               (BRAKES[lang]["h1"], T.svc_url(BRAKES_SLUG, lang))]
     related = [(n, u) for n, u in related if u != urls[lang]]
     pop = "".join(T.chip(s, lang=lang) for s in T.POPULAR[:8])
     return f"""<!-- Hero card -->
@@ -281,7 +282,7 @@ def body_for(lang, c, urls, extra_html=""):
       <p class="mt-4 leading-relaxed text-zinc-300">{c['lead']}</p>
       <div class="mt-6 flex flex-wrap gap-3">{T.btn_call()}{T.btn_wa(U['wa'])}</div>
     </div>
-    <div class="relative h-60 overflow-hidden rounded-2xl ring-1 ring-zinc-800 sm:h-72 lg:h-auto lg:min-h-80"><picture><source srcset="/assets/service.avif" type="image/avif"><source srcset="/assets/service.webp" type="image/webp"><img fetchpriority="high" src="/assets/service.jpg" alt="{escape(c['h1'])}" class="absolute inset-0 h-full w-full object-cover"></picture></div>
+    <div class="relative h-60 overflow-hidden rounded-2xl ring-1 ring-zinc-800 sm:h-72 lg:h-auto lg:min-h-80"><picture><source srcset="/assets/{c.get('img', 'service')}.avif" type="image/avif"><source srcset="/assets/{c.get('img', 'service')}.webp" type="image/webp"><img fetchpriority="high" src="/assets/{c.get('img', 'service')}.jpg" alt="{escape(c['h1'])}" class="absolute inset-0 h-full w-full object-cover"></picture></div>
   </div>
 </section>
 
@@ -323,7 +324,7 @@ def write(lang, urls, c, body, schema_extra=()):
     U = C[lang]
     service = {"@context": "https://schema.org", "@type": "Service", "serviceType": c.get("svc_type", c["h1"]), "name": c["h1"],
                "description": c["desc"].split(" ☎")[0], "areaServed": c.get("area", {"@type": "City", "name": "Tbilisi"}), "provider": T.PROVIDER}
-    html = T.page(lang, url=urls[lang], title=c["title"], desc=c["desc"], keywords=c["keywords"], alternates=T.alts(urls), image="service",
+    html = T.page(lang, url=urls[lang], title=c["title"], desc=c["desc"], keywords=c["keywords"], alternates=T.alts(urls), image=c.get("img", "service"),
                   schema=[service, T.faq_ld(c["faq"]), *schema_extra], crumbs=[(U["home"], T.HOME[lang]), (c["h1"], None)], body=body, nav_urls=urls)
     u = urls[lang].lstrip("/")
     out = ROOT / (u if u.endswith(".html") else u + "index.html")
@@ -540,12 +541,167 @@ def build_tpms():
         write(lang, urls, cc, body)
 
 
+# ------------------------------------------------------------------ brake service (services/<slug>/), keywords from autocomplete research 2026-11-22
+BRAKES_SLUG = "khundebis-shecvla"
+BRAKES_ARTICLE = "brakes"   # blog key (tools/blog_slugs.json)
+BRAKES = {
+    "ka": dict(kicker="სამუხრუჭე ხუნდების შეცვლა ადგილზე", h1="ხუნდების შეცვლა გამოძახებით", svc_type="სამუხრუჭე ხუნდების შეცვლა", img="brakes",
+               short="ხუნდების შეცვლა", card="წინა და უკანა ხუნდები, დისკები და სენსორი — ადგილზე, 24/7.",
+               title="ხუნდების შეცვლა ადგილზე და გამოძახებით 24/7 — თბილისი",
+               desc=f"ხუნდების შეცვლა გამოძახებით თბილისში: წინა და უკანა ხუნდები, სამუხრუჭე დისკები და ხუნდის სენსორი — ადგილზე, 24/7. ფასი დამოკიდებულია მარკასა და მოდელზე. ☎ {TEL_FMT}",
+               keywords="ხუნდების შეცვლა, ხუნდების შეცვლა გამოძახებით, ხუნდების შეცვლა ადგილზე, ხუნდების შეცვლა 24 7, ხუნდების შეცვლა ფასი, სამუხრუჭე ხუნდების შეცვლა, უკანა ხუნდების გამოცვლა, წინა ხუნდები, ხუნდები შეცვლით, სამუხრუჭე დისკების შეცვლა, ხუნდის სენსორი, მუხრუჭების შეკეთება, მუხრუჭების ხელოსანი, ტორმუზის ხუნდები",
+               lead="სამუხრუჭე ხუნდების შეცვლა ადგილზე — სახლთან, სამსახურთან ან გზაზე. მოვალთ თქვენთან, წინა ან უკანა ხუნდებს შევცვლით და მუხრუჭებს შევამოწმებთ — დღე და ღამე.",
+               inc_h="რას ვაკეთებთ ადგილზე", inc=["წინა და უკანა ხუნდების შეცვლა", "სამუხრუჭე დისკების შეცვლა (ხუნდებთან ერთად)", "ხუნდის ცვეთის სენსორის შეცვლა", "სამუხრუჭე სისტემის ვიზუალური შემოწმება"],
+               parts_h="ხუნდები შეცვლით — მოგიტანთ ან დაგიყენებთ თქვენსას",
+               parts="შეგვიძლია მოგიტანოთ ხუნდები თქვენი მანქანის მარკისა და მოდელის მიხედვით და ადგილზევე დაგიყენოთ. თუ ხუნდები უკვე გაქვთ, დაგიყენებთ თქვენსას. მუხრუჭების ხელოსანთან მისვლა აღარ გჭირდებათ — ხელოსანი თავად მოვა.",
+               signs_h="როდის უნდა შეიცვალოს ხუნდები", signs=["დამუხრუჭებისას ჭრიალი ან ღრჭიალი ისმის", "დაფაზე ხუნდის ცვეთის ნიშანი ანთია", "დამუხრუჭების მანძილი გაიზარდა",
+                                                         "დამუხრუჭებისას ვიბრაცია იგრძნობა პედალზე ან საჭეზე", "დამუხრუჭებისას მანქანა ერთ მხარეს იწევს"],
+               fig_alt="ახალი და გაცვეთილი ხუნდი: ახალს ხახუნის ფენა დაახლოებით 10–12 მმ აქვს, 3 მმ-ზე ნაკლები უკვე შესაცვლელია", fig_img="brake-pad-wear",
+               article="ვრცლად: როდის უნდა შეიცვალოს ხუნდები — 6 ნიშანი",
+               models_h="ხუნდებს ვცვლით პოპულარულ მოდელებზე",
+               models="ტოიოტა პრიუსი, კამრი და კოროლა, ჰიუნდაი ელანტრა, ჰონდა ფიტი, სუბარუ ფორესტერი, მერსედესი, ლექსუსი, ოპელი, ფოლკსვაგენ პასატი და ჯეტა — და სხვა მოდელები. ზოგიერთ მანქანაზე (მაგალითად, ელექტრონული ხელის მუხრუჭით) შესაძლებლობა მოდელზეა დამოკიდებული — დარეკვისას დაგიზუსტებთ.",
+               safety_h="მნიშვნელოვანია", safety="თუ სამუხრუჭე პედალი იატაკამდე ჩადის ან სამუხრუჭე სითხე ჟონავს, მანქანით გადაადგილება საშიშია — ნუ გააგრძელებთ მოძრაობას. ასეთ შემთხვევაში გამოიძახეთ {tow} ან დაგვირეკეთ.", tow="ევაკუატორი",
+               price_h="რა ღირს ხუნდების შეცვლა", price="ფასი დამოკიდებულია მანქანის მარკასა და მოდელზე, ხუნდებზე და იმაზე, რომელი ღერძი იცვლება. დაგვირეკეთ — ფასს წინასწარ შეგითანხმებთ.",
+               faq=[("რა ღირს ხუნდების შეცვლა?", "ფასი დამოკიდებულია მანქანის მარკასა და მოდელზე, ხუნდებზე და იმაზე, რომელი ღერძი იცვლება. დაგვირეკეთ — ფასს წინასწარ შეგითანხმებთ."),
+                    ("რამდენ ხანში ერთხელ უნდა შეიცვალოს ხუნდები?", "ეს დამოკიდებულია მართვის სტილსა და გზებზე. სასურველია, ხუნდები დაახლოებით ყოველ 10 000 კმ-ში შემოწმდეს და შეიცვალოს, როცა ხახუნის ფენა დაახლოებით 3 მმ-მდე გაცვდება."),
+                    ("წინა ხუნდები უფრო ხშირად იცვლება თუ უკანა?", "ჩვეულებრივ წინა ხუნდები უფრო სწრაფად ცვდება, რადგან დამუხრუჭებისას დატვირთვის დიდი ნაწილი წინა ღერძზე მოდის. ხუნდები ყოველთვის წყვილად იცვლება — ერთი ღერძის ორივე ბორბალზე."),
+                    ("ხუნდებთან ერთად დისკებიც უნდა შევცვალო?", "ყოველთვის არა. დისკი იცვლება, თუ ძალიან გაცვეთილია, ღრმად არის დაკაწრული ან ვიბრაციას იწვევს. ადგილზე შევამოწმებთ და გეტყვით."),
+                    ("ხუნდებს თქვენ მოიტანთ?", "დიახ — მოგიტანთ თქვენი მანქანისთვის შესაფერის ხუნდებს, ან დაგიყენებთ თქვენ მიერ შეძენილს."),
+                    ("ღამითაც მოდიხართ?", "დიახ, ვმუშაობთ 24/7, დასვენების და სადღესასწაულო დღეების ჩათვლით.")]),
+    "en": dict(kicker="Brake pad replacement on site", h1="Mobile brake repair in Tbilisi", svc_type="Brake pad replacement", img="brakes",
+               short="Brake pad replacement", card="Front and rear brake pads, discs and wear sensors — on site, 24/7.",
+               title="Mobile brake service in Tbilisi — brake pad replacement on site 24/7",
+               desc=f"Mobile brake service in Tbilisi: front and rear brake pads, brake discs and wear sensors replaced at your home, office or roadside, 24/7. Price depends on make and model. ☎ {TEL_FMT}",
+               keywords="mobile brake service Tbilisi, mobile brake repair Tbilisi, mobile brake pad replacement, brake pad replacement Tbilisi, brake pads Tbilisi, mobile mechanic Tbilisi, brake disc replacement, brake pad wear sensor",
+               lead="A mobile brake service that comes to you — at home, at work or on the road. We replace front or rear brake pads on the spot and check your brakes, day and night.",
+               inc_h="What we do on site", inc=["Front and rear brake pad replacement", "Brake disc (rotor) replacement together with the pads", "Brake pad wear sensor replacement", "Visual check of the brake system"],
+               parts_h="Pads supplied and fitted — or yours",
+               parts="We can bring brake pads for your car's make and model and fit them on the spot. If you already have pads, we'll fit yours. No need to find a brake shop or a mobile mechanic — we come to you.",
+               signs_h="Signs your brake pads need replacing", signs=["Squeaking or grinding when braking", "The brake pad wear light is on", "Longer braking distance",
+                                                                   "Vibration in the pedal or steering wheel when braking", "The car pulls to one side when braking"],
+               fig_alt="New vs worn brake pad: a new pad has about 10–12 mm of friction material, under 3 mm it needs replacing", fig_img="brake-pad-wear-en",
+               article="Read more: when to replace brake pads — 6 signs",
+               models_h="Popular cars we work on",
+               models="Toyota Prius, Camry and Corolla, Hyundai Elantra, Honda Fit, Subaru Forester, Mercedes-Benz, Lexus, Opel, Volkswagen Passat and Jetta — and many more. On some cars (for example with an electronic parking brake) it depends on the model — we'll confirm when you call.",
+               safety_h="Important", safety="If the brake pedal sinks to the floor or brake fluid is leaking, the car is not safe to drive — don't continue. In that case call a {tow} or call us.", tow="tow truck",
+               price_h="How much does brake pad replacement cost?", price="The price depends on your car's make and model, the pads and which axle is being done. Call us — we agree the price in advance.",
+               faq=[("How much does brake pad replacement cost?", "It depends on your car's make and model, the pads and which axle is being done. Call us — we agree the price in advance."),
+                    ("How often should brake pads be replaced?", "It depends on driving style and roads. Check the pads roughly every 10,000 km and replace them when the friction material is down to about 3 mm."),
+                    ("Do front or rear pads wear faster?", "Front pads usually wear faster, because most of the braking load goes to the front axle. Pads are always replaced in pairs — on both wheels of one axle."),
+                    ("Do I need new discs too?", "Not always. A disc is replaced if it is badly worn, deeply scored or causes vibration. We check on site and tell you."),
+                    ("Do you bring the brake pads?", "Yes — we bring pads that fit your car, or fit the ones you bought."),
+                    ("Do you come at night?", "Yes, we work 24/7, including weekends and holidays.")]),
+    "ru": dict(kicker="Замена тормозных колодок на месте", h1="Замена тормозных колодок с выездом", svc_type="Замена тормозных колодок", img="brakes",
+               short="Замена колодок", card="Передние и задние колодки, диски и датчик износа — на месте, 24/7.",
+               title="Замена колодок с выездом в Тбилиси — тормозные колодки и диски 24/7",
+               desc=f"Замена тормозных колодок с выездом в Тбилиси: передние и задние колодки, тормозные диски и датчик износа — у дома, у офиса или на дороге, 24/7. Цена зависит от марки и модели. ☎ {TEL_FMT}",
+               keywords="замена колодок с выездом, замена тормозных колодок с выездом, выездная замена колодок, замена колодок Тбилиси, замена тормозных колодок цена, замена тормозных дисков и колодок, тормозные колодки Тбилиси",
+               lead="Выездная замена колодок — приедем к дому, к офису или на дорогу. Заменим передние или задние тормозные колодки на месте и проверим тормоза — днём и ночью.",
+               inc_h="Что мы делаем на месте", inc=["Замена передних и задних тормозных колодок", "Замена тормозных дисков (вместе с колодками)", "Замена датчика износа колодок", "Визуальная проверка тормозной системы"],
+               parts_h="Колодки привезём — или установим ваши",
+               parts="Можем привезти тормозные колодки под марку и модель вашей машины и установить на месте. Если колодки у вас уже есть — установим ваши. Не нужно ехать в сервис — мастер приедет сам.",
+               signs_h="Когда менять тормозные колодки", signs=["Скрип или скрежет при торможении", "Горит индикатор износа колодок", "Тормозной путь стал длиннее",
+                                                            "Вибрация педали или руля при торможении", "Машину уводит в сторону при торможении"],
+               fig_alt="Новая и изношенная колодка: у новой фрикционный слой около 10–12 мм, меньше 3 мм — пора менять", fig_img="brake-pad-wear-ru",
+               article="Подробнее: когда менять тормозные колодки — 6 признаков",
+               models_h="Популярные модели",
+               models="Toyota Prius, Camry, Corolla, RAV4 и Prado, Hyundai Elantra, Honda Fit, Subaru Forester, Mercedes-Benz, Lexus, Opel, Volkswagen Passat и Jetta — и многие другие. На некоторых машинах (например, с электронным стояночным тормозом) всё зависит от модели — уточним при звонке.",
+               safety_h="Важно", safety="Если педаль тормоза проваливается до пола или подтекает тормозная жидкость, ехать опасно — не продолжайте движение. В этом случае вызовите {tow} или позвоните нам.", tow="эвакуатор",
+               price_h="Сколько стоит замена колодок", price="Цена зависит от марки и модели машины, колодок и от того, какую ось меняем. Позвоните — согласуем цену заранее.",
+               faq=[("Сколько стоит замена тормозных колодок?", "Цена зависит от марки и модели машины, колодок и от того, какую ось меняем. Позвоните — согласуем цену заранее."),
+                    ("Как часто менять тормозные колодки?", "Зависит от стиля вождения и дорог. Проверяйте колодки примерно каждые 10 000 км и меняйте, когда фрикционный слой стёрся до 3 мм."),
+                    ("Передние или задние колодки изнашиваются быстрее?", "Обычно передние, потому что при торможении основная нагрузка приходится на переднюю ось. Колодки всегда меняют парой — на обоих колёсах одной оси."),
+                    ("Нужно ли менять диски вместе с колодками?", "Не всегда. Диск меняют, если он сильно изношен, глубоко поцарапан или вызывает вибрацию. Проверим на месте и скажем."),
+                    ("Вы привозите колодки?", "Да — привезём колодки под вашу машину или установим купленные вами."),
+                    ("Вы приезжаете ночью?", "Да, работаем круглосуточно, 24/7, включая выходные и праздники.")]),
+}
+
+
+def build_brakes():
+    urls = {l: T.svc_url(BRAKES_SLUG, l) for l in LANGS}
+    for lang in LANGS:
+        c = dict(BRAKES[lang])
+        P = lambda t: f'    <p class="mt-4 leading-relaxed text-zinc-300">{t}</p>\n'
+        H = lambda t: f'\n    <h2 class="mt-10 text-2xl font-bold font-head">{t}</h2>\n'
+        art = T.blog_url(BRAKES_ARTICLE, lang)
+        fig = (f'    <figure class="mt-6 overflow-hidden rounded-2xl ring-1 ring-zinc-800"><picture><source srcset="/assets/{c["fig_img"]}.avif" type="image/avif">'
+               f'<source srcset="/assets/{c["fig_img"]}.webp" type="image/webp"><img loading="lazy" src="/assets/{c["fig_img"]}.jpg" width="840" height="520" alt="{escape(c["fig_alt"])}" class="block h-auto w-full"></picture>'
+               f'<figcaption class="bg-zinc-900 px-4 py-3 text-sm"><a href="{art}" class="text-brand hover:text-amber-400">{c["article"]} →</a></figcaption></figure>\n')
+        extra = (H(c["parts_h"]) + P(c["parts"]) + H(c["signs_h"]) + "    " + T.ul(c["signs"]) + "\n" + fig
+                 + H(c["models_h"]) + P(c["models"])
+                 + H(c["price_h"]) + P(c["price"])
+                 + H(c["safety_h"]) + P(c["safety"].format(tow=T.a(T.svc_url("evakuatori", lang), c["tow"]))))
+        body = body_for(lang, c, urls, extra).replace(f'<h2 class="text-2xl font-bold font-head">{C[lang]["onsite_h"]}</h2>\n    {T.ul(C[lang]["onsite"])}',
+                                                       f'<h2 class="text-2xl font-bold font-head">{c["inc_h"]}</h2>\n    {T.ul(c["inc"])}')
+        write(lang, urls, c, body)
+
+
+# homepage service cards (marker block) — brakes + TPMS; 9 cards = clean 3x3 grid
+CARD_ICON = {
+    BRAKES_SLUG: '<circle cx="12" cy="12" r="8.25"/><circle cx="12" cy="12" r="2.25"/><path stroke-linecap="round" d="M15.5 6.2a6.8 6.8 0 0 1 2.3 5.8"/>',
+    "saburavis-wnevis-sensori": '<path stroke-linecap="round" stroke-linejoin="round" d="M8.288 15.038a5.25 5.25 0 0 1 7.424 0M5.106 11.856c3.807-3.808 9.98-3.808 13.788 0M1.924 8.674c5.565-5.565 14.587-5.565 20.152 0M12.53 18.22l-.53.53-.53-.53a.75.75 0 0 1 1.06 0Z"/>',
+}
+TPMS_CARD = {"ka": "სენსორის შემოწმება, შეცვლა და დაპროგრამება — მარკისა და მოდელის მიხედვით.",
+             "en": "Sensor check, replacement and programming — depends on make and model.",
+             "ru": "Проверка, замена и программирование датчиков — зависит от марки и модели."}
+
+
+def home_cards(lang, more):
+    arrow = '<svg class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M13.5 4.5 21 12m0 0-7.5 7.5M21 12H3"/></svg>'
+    items = [(BRAKES_SLUG, BRAKES[lang]["h1"], BRAKES[lang]["card"], "brakes"), (TPMS_SLUG, TPMS[lang]["h1"], TPMS_CARD[lang], "van-rear")]
+    out = ""
+    for slug, name, text, img in items:
+        href = T.svc_url(slug, lang)
+        out += f"""
+        <article class="group overflow-hidden rounded-2xl bg-zinc-900 ring-1 ring-zinc-800 transition hover:ring-brand/60">
+          <div class="relative h-44 overflow-hidden">
+            <picture><source srcset="/assets/{img}.avif" type="image/avif"><source srcset="/assets/{img}.webp" type="image/webp"><img loading="lazy" src="/assets/{img}.jpg" alt="{escape(name)}" class="h-full w-full object-cover transition duration-500 group-hover:scale-105"></picture>
+            <div class="absolute left-3 top-3 grid h-10 w-10 place-items-center rounded-xl bg-brand text-zinc-950 shadow-lg"><svg class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke-width="1.7" stroke="currentColor" aria-hidden="true">{CARD_ICON[slug]}</svg></div>
+          </div>
+          <div class="p-5">
+            <h3 class="text-lg font-bold font-head"><a href="{href}" class="hover:text-brand transition-colors">{name}</a></h3>
+            <p class="mt-1.5 text-sm text-zinc-400">{text}</p>
+            <a href="{href}" class="mt-4 inline-flex items-center gap-2 text-sm font-semibold text-brand hover:text-amber-400">{more} {arrow}</a>
+          </div>
+        </article>"""
+    return out
+
+
+def sync_home_services():
+    import json as _json
+    for lang, f in (("ka", "index.html"), ("en", "index-en.html"), ("ru", "index-ru.html")):
+        p = ROOT / f
+        s = p.read_text(encoding="utf-8")
+        sec = s[s.index('<section id="services"'):]
+        sec = sec[:sec.index("</section>")]
+        more = re.search(r'text-brand hover:text-amber-400">([^<]+?) <svg', sec).group(1)
+        s = s.replace('<article class="lg:col-start-2 group overflow-hidden', '<article class="group overflow-hidden')
+        anchor = "</div>\n</section>\n\n<!-- tyres:start -->"
+        if "<!-- svc-cards:start -->" in s:
+            s = T.sync_block(s, "<!-- svc-cards:start -->", "<!-- svc-cards:end -->", home_cards(lang, more), anchor)
+        else:
+            s = s.replace(anchor, "<!-- svc-cards:start -->" + home_cards(lang, more) + "<!-- svc-cards:end -->" + anchor, 1)
+        # AutoRepair offer catalogue: add the new services (description untouched)
+        def add_offers(m):
+            d = _json.loads(m.group(2))
+            cat = d.get("hasOfferCatalog")
+            if not cat:
+                return m.group(0)
+            have = {o["itemOffered"].get("url") for o in cat["itemListElement"]}
+            for name, href in ((BRAKES[lang]["h1"], T.svc_url(BRAKES_SLUG, lang)), (TPMS[lang]["h1"], T.svc_url(TPMS_SLUG, lang))):
+                if SITE + href not in have:
+                    cat["itemListElement"].append({"@type": "Offer", "itemOffered": {"@type": "Service", "name": name, "url": SITE + href}})
+            return m.group(1) + _json.dumps(d, ensure_ascii=False, separators=(",", ":")) + m.group(3)
+        s = re.sub(r'(<script type="application/ld\+json">\s*)(\{[^<]*?"hasOfferCatalog"[^<]*\})(\s*</script>)', add_offers, s, count=1)
+        p.write_text(s, encoding="utf-8")
+
+
 # ------------------------------------------------------------------ links from existing pages (additive)
 def sync_links():
     # homepages: one block with districts, towns, mobile page, calculator
     for lang, f in (("ka", "index.html"), ("en", "index-en.html"), ("ru", "index-ru.html")):
         U = C[lang]
-        items = [(MOBILE[lang]["h1"], page_url(MOBILE["slug"][lang]))] + area_links(lang) + [(U["calc"], page_url(CALC["slug"][lang])), (TPMS[lang]["h1"], T.svc_url(TPMS_SLUG, lang))]
+        items = [(MOBILE[lang]["h1"], page_url(MOBILE["slug"][lang]))] + area_links(lang) + [(U["calc"], page_url(CALC["slug"][lang])), (TPMS[lang]["h1"], T.svc_url(TPMS_SLUG, lang)), (BRAKES[lang]["h1"], T.svc_url(BRAKES_SLUG, lang))]
         block = f"""
 <section class="mx-auto max-w-6xl px-4 pb-12">
   <h2 class="text-2xl font-bold font-head sm:text-3xl">{U['block_h']}</h2>
@@ -557,11 +713,16 @@ def sync_links():
         s = p.read_text(encoding="utf-8")
         s = T.sync_block(s, "<!-- landings:start -->", "<!-- landings:end -->", block, "<!-- Why -->")
         p.write_text(s, encoding="utf-8")
-    # "other services" sidebars on service pages: add the TPMS service
+    # "other services" sidebars on service pages: add the TPMS and brake services
+    for slug, label in ((TPMS_SLUG, lambda l: TPMS[l]["h1"]), (BRAKES_SLUG, lambda l: BRAKES[l]["short"])):
+        add_sidebar(slug, label)
+
+
+def add_sidebar(slug, label):
     for lang, fname in T.LANG_FILE.items():
-        href = T.svc_url(TPMS_SLUG, lang)
+        href = T.svc_url(slug, lang)
         for p in sorted((ROOT / "services").glob(f"*/{fname}")):
-            if p.parent.name == TPMS_SLUG:
+            if p.parent.name == slug:
                 continue
             s = p.read_text(encoding="utf-8")
             m = re.search(r'(<h2 class="text-lg font-bold font-head">[^<]+</h2>\s*<ul class="mt-4 space-y-2.5 text-sm">)(.*?)(</ul>)', s, re.S)
@@ -569,8 +730,7 @@ def sync_links():
                 continue
             li = (f'<li><a href="{href}" class="flex items-center gap-2 text-zinc-300 hover:text-brand transition">'
                   '<svg class="h-4 w-4 text-brand shrink-0" fill="none" viewBox="0 0 24 24" stroke-width="1.7" stroke="currentColor" aria-hidden="true">'
-                  '<path stroke-linecap="round" stroke-linejoin="round" d="M8.288 15.038a5.25 5.25 0 0 1 7.424 0M5.106 11.856c3.807-3.808 9.98-3.808 13.788 0M1.924 8.674c5.565-5.565 14.587-5.565 20.152 0M12.53 18.22l-.53.53-.53-.53a.75.75 0 0 1 1.06 0Z"/></svg>'
-                  f'<span>{TPMS[lang]["h1"]}</span></a></li>')
+                  f'{CARD_ICON[slug]}</svg><span>{label(lang)}</span></a></li>')
             s = s[:m.end(2)] + li + s[m.end(2):]
             p.write_text(s, encoding="utf-8")
 
@@ -579,7 +739,7 @@ def all_urls():
     out = []
     for group in [MOBILE["slug"], CALC["slug"]] + [t["slug"] for t in TOWNS.values()]:
         out += [page_url(group[l]) for l in LANGS]
-    out += [T.svc_url(TPMS_SLUG, l) for l in LANGS]
+    out += [T.svc_url(TPMS_SLUG, l) for l in LANGS] + [T.svc_url(BRAKES_SLUG, l) for l in LANGS]
     return out
 
 
@@ -599,7 +759,9 @@ def sync_sitemap_llms():
              + f"- Rustavi and Ponichala: {SITE}/{TOWNS['rustavi']['slug']['ka']}/\n"
              + f"- Mtskheta, Natakhtari, Saguramo, Tserovani: {SITE}/{TOWNS['mtskheta']['slug']['ka']}/\n"
              + f"- Tire size calculator: {SITE}/{CALC['slug']['ka']}/ · EN {SITE}/{CALC['slug']['en']}/ · RU {SITE}/{CALC['slug']['ru']}/\n"
-             + f"- Tire pressure sensors (TPMS) — depends on make and model: {SITE}{T.svc_url(TPMS_SLUG, 'ka')}\n")
+             + f"- Tire pressure sensors (TPMS) — depends on make and model: {SITE}{T.svc_url(TPMS_SLUG, 'ka')}\n"
+             + f"- Mobile brake service (ხუნდების შეცვლა გამოძახებით / замена колодок с выездом): front and rear brake pads, brake discs, pad wear sensor; we bring pads for the car's make and model or fit the customer's own; 24/7; price depends on make and model: {SITE}{T.svc_url(BRAKES_SLUG, 'ka')} · EN {SITE}{T.svc_url(BRAKES_SLUG, 'en')} · RU {SITE}{T.svc_url(BRAKES_SLUG, 'ru')}\n"
+             + f"- Guide: when to replace brake pads (6 signs): {SITE}{T.blog_url(BRAKES_ARTICLE, 'ka')}\n")
     s = T.sync_block(s, "<!-- landings:start -->", "<!-- landings:end -->", block, "## Service area") if "## Service area" in s else s + "\n<!-- landings:start -->" + block + "<!-- landings:end -->\n"
     p.write_text(s, encoding="utf-8")
 
@@ -627,7 +789,9 @@ def main():
     build_towns()
     build_calc()
     build_tpms()
+    build_brakes()
     sync_links()
+    sync_home_services()
     sync_sitemap_llms()
     T.ensure_nav()
     T.ensure_mobile_menu()

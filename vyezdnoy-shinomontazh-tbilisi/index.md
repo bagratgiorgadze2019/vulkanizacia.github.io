@@ -108,6 +108,7 @@ Canonical: https://vulkanizacia.ge/vyezdnoy-shinomontazh-tbilisi/
 - [Вулканизация 24/7 в Тбилиси](https://vulkanizacia.ge/vulkanizaciya-24-7-tbilisi/)
 - [Шины по размерам](https://vulkanizacia.ge/shiny/)
 - [Шинный калькулятор](https://vulkanizacia.ge/shinnyy-kalkulyator/)
+- [Замена тормозных колодок с выездом](https://vulkanizacia.ge/services/khundebis-shecvla/index-ru.html)
 
 ## Частые вопросы
 

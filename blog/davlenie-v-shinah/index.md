@@ -75,6 +75,7 @@ Canonical: https://vulkanizacia.ge/blog/davlenie-v-shinah/
 
 ## Другие советы
 
+- [›Когда менять тормозные колодки — 6 признаков](https://vulkanizacia.ge/blog/kogda-menyat-tormoznye-kolodki/)
 - [›Зимние шины — когда менять?](https://vulkanizacia.ge/blog/zimnie-shiny-kogda-menyat/)
 - [›Когда менять шины? Износ и возраст](https://vulkanizacia.ge/blog/kogda-menyat-shiny/)
 - [›Размер шины — как прочитать 205/55 R16?](https://vulkanizacia.ge/blog/kak-prochitat-razmer-shiny/)
@@ -86,6 +87,7 @@ Canonical: https://vulkanizacia.ge/blog/davlenie-v-shinah/
 
 ## Услуги
 
+- [Замена колодок с выездом](https://vulkanizacia.ge/services/khundebis-shecvla/index-ru.html)
 - [Шины по размерам](https://vulkanizacia.ge/shiny/)
 - [Мобильная вулканизация](https://vulkanizacia.ge/services/modzravi-vulkanizacia/index-ru.html)
 - [Сезонная замена шин](https://vulkanizacia.ge/services/sezonuri-saburavebis-shecvla/index-ru.html)

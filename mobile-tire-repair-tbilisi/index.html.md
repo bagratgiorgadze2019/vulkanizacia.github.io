@@ -108,6 +108,7 @@ We agree the price in advance — then you continue safely.
 - [Vulcanization 24/7 in Tbilisi](https://vulkanizacia.ge/vulcanization-24-7-tbilisi/)
 - [Tires by size](https://vulkanizacia.ge/tyres/)
 - [Tire size calculator](https://vulkanizacia.ge/tire-size-calculator/)
+- [Mobile brake repair in Tbilisi](https://vulkanizacia.ge/services/khundebis-shecvla/index-en.html)
 
 ## Frequently asked questions
 

@@ -76,6 +76,7 @@ Canonical: https://vulkanizacia.ge/shinomontazh-mtskheta/
 - [Шины по размерам](https://vulkanizacia.ge/shiny/)
 - [Шинный калькулятор](https://vulkanizacia.ge/shinnyy-kalkulyator/)
 - [Выездной шиномонтаж в Тбилиси](https://vulkanizacia.ge/vyezdnoy-shinomontazh-tbilisi/)
+- [Замена тормозных колодок с выездом](https://vulkanizacia.ge/services/khundebis-shecvla/index-ru.html)
 
 ## Частые вопросы
 

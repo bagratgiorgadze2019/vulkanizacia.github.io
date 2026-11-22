@@ -6,5 +6,6 @@
   "winter":   {"ka": "zamtris-saburavebi-rodis-shevcvalot", "en": "winter-tyres-when-to-change",      "ru": "zimnie-shiny-kogda-menyat"},
   "pressure": {"ka": "saburavis-wneva-ramdeni-unda-iyos",   "en": "tyre-pressure-what-should-it-be",  "ru": "davlenie-v-shinah"},
   "when":     {"ka": "rodis-unda-sheicvalos-saburavi",      "en": "when-to-replace-tyres",            "ru": "kogda-menyat-shiny"},
-  "size":     {"ka": "saburavis-zoma-rogor-wavikitkhot",    "en": "how-to-read-tyre-size",            "ru": "kak-prochitat-razmer-shiny"}
+  "size":     {"ka": "saburavis-zoma-rogor-wavikitkhot",    "en": "how-to-read-tyre-size",            "ru": "kak-prochitat-razmer-shiny"},
+  "brakes":   {"ka": "rodis-unda-sheicvalos-khundebi",      "en": "when-to-replace-brake-pads",       "ru": "kogda-menyat-tormoznye-kolodki"}
 }

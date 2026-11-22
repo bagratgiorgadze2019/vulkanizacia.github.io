@@ -89,6 +89,18 @@ Canonical: https://vulkanizacia.ge/
 
 [ვრცლად](https://vulkanizacia.ge/services/daketili-avtomobilis-gakhsna/)
 
+### [ხუნდების შეცვლა გამოძახებით](https://vulkanizacia.ge/services/khundebis-shecvla/)
+
+წინა და უკანა ხუნდები, დისკები და სენსორი — ადგილზე, 24/7.
+
+[ვრცლად](https://vulkanizacia.ge/services/khundebis-shecvla/)
+
+### [საბურავის წნევის სენსორი (ბლუთუზი)](https://vulkanizacia.ge/services/saburavis-wnevis-sensori/)
+
+სენსორის შემოწმება, შეცვლა და დაპროგრამება — მარკისა და მოდელის მიხედვით.
+
+[ვრცლად](https://vulkanizacia.ge/services/saburavis-wnevis-sensori/)
+
 ## საბურავები ზომების მიხედვით
 
 ახალი და მეორადი საბურავები — მიწოდებით, მონტაჟით და ბალანსირებით ადგილზე.
@@ -101,7 +113,7 @@ Canonical: https://vulkanizacia.ge/
 
 მოძრავი ვულკანიზაცია მოვა თქვენთან — თბილისის ყველა უბანსა და შემოგარენში.
 
-[ვულკანიზაცია ადგილზე](https://vulkanizacia.ge/vulkanizacia-adgilze/) · [რუსთავი](https://vulkanizacia.ge/vulkanizacia-rustavshi/) · [მცხეთა](https://vulkanizacia.ge/vulkanizacia-mcxetashi/) · [საბურავის კალკულატორი](https://vulkanizacia.ge/saburavis-kalkulatori/) · [საბურავის წნევის სენსორი (ბლუთუზი)](https://vulkanizacia.ge/services/saburavis-wnevis-sensori/)
+[ვულკანიზაცია ადგილზე](https://vulkanizacia.ge/vulkanizacia-adgilze/) · [რუსთავი](https://vulkanizacia.ge/vulkanizacia-rustavshi/) · [მცხეთა](https://vulkanizacia.ge/vulkanizacia-mcxetashi/) · [საბურავის კალკულატორი](https://vulkanizacia.ge/saburavis-kalkulatori/) · [საბურავის წნევის სენსორი (ბლუთუზი)](https://vulkanizacia.ge/services/saburavis-wnevis-sensori/) · [ხუნდების შეცვლა გამოძახებით](https://vulkanizacia.ge/services/khundebis-shecvla/)
 
 ## რატომ ჩვენ
 

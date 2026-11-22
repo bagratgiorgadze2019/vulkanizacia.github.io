@@ -76,6 +76,7 @@ Canonical: https://vulkanizacia.ge/vulkanizacia-rustavshi/
 - [საბურავები ზომით](https://vulkanizacia.ge/saburavebi/)
 - [საბურავის კალკულატორი](https://vulkanizacia.ge/saburavis-kalkulatori/)
 - [ვულკანიზაცია ადგილზე](https://vulkanizacia.ge/vulkanizacia-adgilze/)
+- [ხუნდების შეცვლა გამოძახებით](https://vulkanizacia.ge/services/khundebis-shecvla/)
 
 ## ხშირად დასმული კითხვები
 

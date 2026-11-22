@@ -89,6 +89,18 @@ Canonical: https://vulkanizacia.ge/index-ru.html
 
 [Подробнее](https://vulkanizacia.ge/services/daketili-avtomobilis-gakhsna/index-ru.html)
 
+### [Замена тормозных колодок с выездом](https://vulkanizacia.ge/services/khundebis-shecvla/index-ru.html)
+
+Передние и задние колодки, диски и датчик износа — на месте, 24/7.
+
+[Подробнее](https://vulkanizacia.ge/services/khundebis-shecvla/index-ru.html)
+
+### [Датчики давления в шинах (TPMS)](https://vulkanizacia.ge/services/saburavis-wnevis-sensori/index-ru.html)
+
+Проверка, замена и программирование датчиков — зависит от марки и модели.
+
+[Подробнее](https://vulkanizacia.ge/services/saburavis-wnevis-sensori/index-ru.html)
+
 ## Шины по размерам
 
 Новые и б/у шины — с доставкой, монтажом и балансировкой на месте.
@@ -101,7 +113,7 @@ Canonical: https://vulkanizacia.ge/index-ru.html
 
 Выездной шиномонтаж приедет к вам — в любой район Тбилиси и пригороды.
 
-[Выездной шиномонтаж в Тбилиси](https://vulkanizacia.ge/vyezdnoy-shinomontazh-tbilisi/) · [Рустави](https://vulkanizacia.ge/shinomontazh-rustavi/) · [Мцхета](https://vulkanizacia.ge/shinomontazh-mtskheta/) · [Шинный калькулятор](https://vulkanizacia.ge/shinnyy-kalkulyator/) · [Датчики давления в шинах (TPMS)](https://vulkanizacia.ge/services/saburavis-wnevis-sensori/index-ru.html)
+[Выездной шиномонтаж в Тбилиси](https://vulkanizacia.ge/vyezdnoy-shinomontazh-tbilisi/) · [Рустави](https://vulkanizacia.ge/shinomontazh-rustavi/) · [Мцхета](https://vulkanizacia.ge/shinomontazh-mtskheta/) · [Шинный калькулятор](https://vulkanizacia.ge/shinnyy-kalkulyator/) · [Датчики давления в шинах (TPMS)](https://vulkanizacia.ge/services/saburavis-wnevis-sensori/index-ru.html) · [Замена тормозных колодок с выездом](https://vulkanizacia.ge/services/khundebis-shecvla/index-ru.html)
 
 ## Почему мы
 

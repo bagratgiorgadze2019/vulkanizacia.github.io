@@ -83,6 +83,7 @@ Canonical: https://vulkanizacia.ge/services/avtomobilis-dakokva/
 - [აკუმულატორის შეცვლა](https://vulkanizacia.ge/services/akumulatoris-shecvla/)
 - [დაკეტილი ავტომობილის გახსნა](https://vulkanizacia.ge/services/daketili-avtomobilis-gakhsna/)
 - [საბურავის წნევის სენსორი (ბლუთუზი)](https://vulkanizacia.ge/services/saburavis-wnevis-sensori/)
+- [ხუნდების შეცვლა](https://vulkanizacia.ge/services/khundebis-shecvla/)
 
 [ყველა სერვისი →](https://vulkanizacia.ge/index.html#services)
 

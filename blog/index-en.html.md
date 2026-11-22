@@ -23,6 +23,8 @@ Canonical: https://vulkanizacia.ge/blog/index-en.html
 
 Useful tips on tyres, rims and roadside help — from our experience.
 
+[## When to replace brake pads — 6 signs Squeaking, a warning light, vibration — when it's time for new brake pads. Read more →](https://vulkanizacia.ge/blog/when-to-replace-brake-pads/)
+
 [## Winter tyres — when to change? The 7°C rule, how winter tyres differ and tips for mountain roads. Read more →](https://vulkanizacia.ge/blog/winter-tyres-when-to-change/)
 
 [## Tyre pressure — what should it be? Where to find the right pressure, how to check it and why tyres lose air. Read more →](https://vulkanizacia.ge/blog/tyre-pressure-what-should-it-be/)

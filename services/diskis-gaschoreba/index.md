@@ -83,6 +83,7 @@ Canonical: https://vulkanizacia.ge/services/diskis-gaschoreba/
 - [ბალანსირება](https://vulkanizacia.ge/services/balansireba/)
 - [სეზონური შეცვლა](https://vulkanizacia.ge/services/sezonuri-saburavebis-shecvla/)
 - [საბურავის წნევის სენსორი (ბლუთუზი)](https://vulkanizacia.ge/services/saburavis-wnevis-sensori/)
+- [ხუნდების შეცვლა](https://vulkanizacia.ge/services/khundebis-shecvla/)
 
 [ყველა სერვისი →](https://vulkanizacia.ge/index.html#services)
 

@@ -83,6 +83,7 @@ Canonical: https://vulkanizacia.ge/services/diskis-gaschoreba/index-ru.html
 - [Балансировка колёс](https://vulkanizacia.ge/services/balansireba/index-ru.html)
 - [Сезонная замена шин](https://vulkanizacia.ge/services/sezonuri-saburavebis-shecvla/index-ru.html)
 - [Датчики давления в шинах (TPMS)](https://vulkanizacia.ge/services/saburavis-wnevis-sensori/index-ru.html)
+- [Замена колодок](https://vulkanizacia.ge/services/khundebis-shecvla/index-ru.html)
 
 [Все услуги →](https://vulkanizacia.ge/index-ru.html#services)
 

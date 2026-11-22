@@ -73,6 +73,7 @@ Our mobile tyre service comes to you — 24/7.
 
 ## Other tips
 
+- [›When to replace brake pads — 6 signs](https://vulkanizacia.ge/blog/when-to-replace-brake-pads/)
 - [›Tyre pressure — what should it be?](https://vulkanizacia.ge/blog/tyre-pressure-what-should-it-be/)
 - [›When should a tyre be replaced? Wear and age](https://vulkanizacia.ge/blog/when-to-replace-tyres/)
 - [›Tyre size — how to read 205/55 R16?](https://vulkanizacia.ge/blog/how-to-read-tyre-size/)
@@ -84,6 +85,7 @@ Our mobile tyre service comes to you — 24/7.
 
 ## Services
 
+- [Mobile brake repair](https://vulkanizacia.ge/services/khundebis-shecvla/index-en.html)
 - [Tyres by size](https://vulkanizacia.ge/tyres/)
 - [Mobile tyre service](https://vulkanizacia.ge/services/modzravi-vulkanizacia/index-en.html)
 - [Seasonal tyre change](https://vulkanizacia.ge/services/sezonuri-saburavebis-shecvla/index-en.html)
